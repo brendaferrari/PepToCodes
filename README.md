@@ -1,8 +1,8 @@
-# PepToMon - Peptides to Monomers
+# PepToCodes - Peptides to Codes
 
 Script developed to transform the amino acid smiles to one letter code or three letter code for latter analysis
 
-<img src="resources/images/Peptomon.png" width="570">
+<img src="resources/images/Peptocodes.png" width="570">
 
 *Illustrative image*
 
@@ -12,7 +12,7 @@ Script developed to transform the amino acid smiles to one letter code or three 
 
 To run use the following command:
 ```
-python peptomon.py
+python peptocodes.py
 ```
 
 * Type your peptide smiles as an input
