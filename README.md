@@ -1,8 +1,10 @@
 # PepToMon - Peptides to Monomers
 
-Script developed to transform the amino acid smiles to one letter code for latter analysis
+Script developed to transform the amino acid smiles to one letter code or three letter code for latter analysis
 
-This script was written with Python 
+<img src="resources/images/Peptomon.png" width="570">
+
+*Illustrative image*
 
 ## How to use
 
@@ -33,3 +35,5 @@ dictio = pd.read_csv("resources/codes.csv", sep=' ', names=['name', 'smiles', '3
 ## Authorship
 
 * Author: **Brenda Ferrari** ([brendaferrari](https://github.com/brendaferrari))
+
+Social preview original photo by **Brenda Ferrari** ([brendaferrari](https://github.com/brendaferrari))
