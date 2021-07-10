@@ -4,6 +4,7 @@ smiles = input("Type your peptide smiles: ")
 import csv
 import pandas as pd
 
+# TODO: #2 Expand the aminoacid types 
 # Here is the dictionary with your smiles and respective code
 dictio = pd.read_csv("resources/codes.csv", sep=' ', names=['name', 'smiles', '3lcode', '1lcode'], usecols= ['smiles', '1lcode'], index_col=0, header=None, squeeze=True).to_dict()
 
