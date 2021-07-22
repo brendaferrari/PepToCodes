@@ -1,3 +1,4 @@
+# TODO: #5 To be able to select more than one peptide
 smiles = input("Type your peptide smiles: ")
 #N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
 
@@ -31,6 +32,8 @@ while i < len(smiles):
     if j == len(dictio.keys())-1:
       i = i+1
 
+# TODO: #3 Add error message
 # Here is to print the result
+# TODO: #4 Show a string in response to no match
 #print(aacode)
 print("Your code is:", ''.join(aacode))
