@@ -38,8 +38,6 @@ elif answer.lower() == "b":
         print(code)
         count += 1
         print(count)
-    print(code)
-    print(count)
         
 
         # df = pd.DataFrame.from_dict(code, orient='index')
