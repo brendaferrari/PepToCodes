@@ -4,4 +4,6 @@ __pycache__/
 # Outputs
 smiles_output.txt
 smiles.txt
-file.txt
+
+# vscode
+.vscode

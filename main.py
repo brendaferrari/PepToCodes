@@ -1,4 +1,5 @@
 from functionalities.peptocode import PeptoCode
+from functionalities.dataframe import Dataframe
 
 import pandas as pd
 
@@ -18,43 +19,27 @@ if answer.lower() == "a":
 
 elif answer.lower() == "b":
     smiles = input('Type your file name with path: ')
-
-    #do a dictionary instead of list
-    #https://stackoverflow.com/questions/36965507/writing-a-dictionary-to-a-text-file
     dictio = pd.read_csv("resources/codes.csv", sep=' ', names=['name', 'smiles', '3lcode', '1lcode'], usecols= ['smiles', '1lcode'], index_col=0, header=None, squeeze=True).to_dict()
     
-    df = pd.read_csv('smiles.txt')
-    code = {}
+    df = pd.read_csv(smiles)
+    aacode = []
+    aasmiles = []
+    countlen = []
     count = 0
     for row in df.itertuples():
-        print(row)
-        print()
+        aasmiles.append(row[1])
+
         peptocode = PeptoCode(row[1], dictio)
-        aacode = peptocode.count_and_change()
-        print(aacode)
-        print()
-        code[row[1]] = []
-        code[row[1]].append(aacode)
-        print(code)
+        code = peptocode.count_and_change()
+        aacode.append(code)
+
         count += 1
-        print(count)
-        
+        countlen.append(count)
 
-        # df = pd.DataFrame.from_dict(code, orient='index')
-        # print(df)
+    variables = zip(aasmiles, aacode)
+    variablesDataframe = dict(zip(countlen, variables))
+    print(variablesDataframe)
 
-# with open('smiles_output.txt','w') as data:
-#     data.write(str(code))
-# data.close()
-
-# import json
-
-
-# with open('file.txt', 'w') as file:
-#     for element in code:
-#         file.write(json.dumps(element))
-
-# with open("smiles_output.txt", "w") as textfile:
-#     for element in code:
-#         textfile.write(element)
-#     textfile.close()
+    dataframe = Dataframe(variablesDataframe)
+    data = dataframe.create_dataframe(columns=('smiles', 'code'))
+    data.to_csv('smiles_output.txt')
