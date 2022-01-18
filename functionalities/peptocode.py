@@ -30,7 +30,8 @@ class PeptoCode:
         
         while i < len(self.smiles):
             keys = list(self.peptide_data.keys())
-
+            # To add a * in not found, find a way to get j not in the range of the dictionary,  
+            # using for or other statements
             for j in range(len(keys)):
                 key = keys[j]
 
@@ -38,7 +39,6 @@ class PeptoCode:
                 if sub in self.peptide_data:
                     i = i + len(key)
                     aacode.append(self.peptide_data[sub])
-                    break
 
                 if j == len(self.peptide_data.keys())-1:
                     i = i+1
