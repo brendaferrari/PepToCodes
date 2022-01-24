@@ -16,12 +16,14 @@ if answer.lower() == "a":
     peptocode = PeptoCode(smiles, dictio.Dict(one_code=True))
     aacode, notaaCode = peptocode.count_and_change()
 
-    print(f"Your code is: {aacode}")
-
-    if notaaCode:
-        print(f"Some codes were not recognized: {notaaCode}")
+    if aacode != "*":
+        print(f"Your code is: {aacode}")
+        if notaaCode:
+            print(f"Some codes were not recognized: {notaaCode}")
+        else:
+            print(f"All codes were analyzed and recognized.")
     else:
-        print(f"All codes were analyzed and recognized.")
+        print("Unfortunately your code could not be recognized. Please, verify your code or contact the developers.")
 
 elif answer.lower() == "b":
     smiles = input('Type your file name with path: ')
@@ -47,8 +49,16 @@ elif answer.lower() == "b":
 
     variables = zip(aasmiles, aacode, notaaCode)
     variablesDataframe = dict(zip(countlen, variables))
-    print(variablesDataframe)
 
     dataframe = Dataframe(variablesDataframe)
     data = dataframe.create_dataframe(columns=('smiles', 'code', 'not recognized'))
     data.to_csv('smiles_output.txt')
+
+    if aacode != "*":
+        print("smiles_output.txt was saved successfully.")
+        if notaaCode:
+            print(f"Some codes were not recognized: {notaaCode}")
+        else:
+            print(f"All codes were analyzed and recognized.")
+    else:
+        print("Unfortunately your code could not be recognized. Please, verify your code or contact the developers.")
