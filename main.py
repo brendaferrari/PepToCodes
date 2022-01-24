@@ -1,5 +1,6 @@
 from functionalities.peptocode import PeptoCode
 from functionalities.dataframe import Dataframe
+from functionalities.dictionary import Dictionary
 
 import pandas as pd
 
@@ -10,9 +11,9 @@ if answer.lower() == "a":
     print()
     smiles = input('Type your peptide smiles: ')
 
-    dictio = pd.read_csv("resources/codes.csv", sep=' ', names=['name', 'smiles', '3lcode', '1lcode'], usecols= ['smiles', '1lcode'], index_col=0, header=None, squeeze=True).to_dict()
+    dictio = Dictionary()
 
-    peptocode = PeptoCode(smiles, dictio)
+    peptocode = PeptoCode(smiles, dictio.Dict(one_code=True))
     aacode, notaaCode = peptocode.count_and_change()
 
     print(f"Your code is: {aacode}")
@@ -24,8 +25,9 @@ if answer.lower() == "a":
 
 elif answer.lower() == "b":
     smiles = input('Type your file name with path: ')
-    dictio = pd.read_csv("resources/codes.csv", sep=' ', names=['name', 'smiles', '3lcode', '1lcode'], usecols= ['smiles', '1lcode'], index_col=0, header=None, squeeze=True).to_dict()
-    
+
+    dictio = Dictionary()
+
     df = pd.read_csv(smiles)
     aacode = []
     notaaCode = []
@@ -35,7 +37,7 @@ elif answer.lower() == "b":
     for row in df.itertuples():
         aasmiles.append(row[1])
 
-        peptocode = PeptoCode(row[1], dictio)
+        peptocode = PeptoCode(row[1], dictio.Dict(one_code=True))
         code, notCode = peptocode.count_and_change()
         aacode.append(code)
         notaaCode.append(notCode)
