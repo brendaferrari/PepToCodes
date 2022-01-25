@@ -1,6 +1,6 @@
 # PepToCodes (1.0.0) - Peptides to Codes
 
-Script developed to transform the amino acid smiles to one letter code or three letter code for latter analysis.
+Script developed to transform the amino acid smiles to one letter code or three letter code for later analysis.
 
 <img src="resources/images/Peptocodes.png" width="570">
 
