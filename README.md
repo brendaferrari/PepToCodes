@@ -53,7 +53,8 @@ conda install -c anaconda pandas
 
     * Use the file [smiles.txt](resources/smiles.txt) as example on how to format input data
 
-* Asteriscs in your code answer means the software could not recognize the input. Please, keep in mind that this software only recognizes [20 aminoacids](resources/codes.csv) for now. We are working on implementing a bigger database.
+* Asteriscs in your code answer means the software could not recognize the input. Please, keep in mind that this software only recognizes [20 aminoacids](resources/codes.csv) for now (canonical and isomeric). We are working on implementing a bigger database.
+
 
 ## Authorship
 
