@@ -1,36 +1,60 @@
-# PepToCodes - Peptides to Codes
+# PepToCodes (1.0.0) - Peptides to Codes
 
-Script developed to transform the amino acid smiles to one letter code or three letter code for latter analysis
+Script developed to transform the amino acid smiles to one letter code or three letter code for later analysis.
 
 <img src="resources/images/Peptocodes.png" width="570">
 
 *Illustrative image*
 
+## Requirements
+
+* [pandas](https://pandas.pydata.org/) - a Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. 
+
+Libraries were used in a [Miniconda3](https://docs.conda.io/en/latest/miniconda.html) environment using python 3.6.13
+
+## Instalation
+
+Miniconda3: [Installation](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
+
+pandas:
+```
+conda install -c anaconda pandas
+```
+
 ## How to use
 
 * Download the code and unzip it on the desirable directory
 
-To run use the following command:
-```
-python peptocodes.py
-```
+* To obtain the one letter code use True as first argument and to obtain the three letter code use True as second argument
 
-* Type your peptide smiles as an input
+    * To obtain one letter code:
+    
+    ```
+    python main.py True False
+    ```
 
-i.e. N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+    * To obtain three letter code:
+    
+    ```
+    python main.py False True
+    ```
 
-* The answer will pop-up at your terminal screen
+* For one aminoacid analysis:
 
-i.e. RTKR
+    * Type your peptide smiles as an input
 
-## Observations
+    i.e. N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
 
-* In this version you may also obtain the 3 letter code for your smiles, just change line 10 to:
-```
-dictio = pd.read_csv("resources/codes.csv", sep=' ', names=['name', 'smiles', '3lcode', '1lcode'], usecols= ['smiles', '3lcode'], index_col=0, header=None, squeeze=True).to_dict()
-```
+    * The answer will pop-up at your terminal screen
 
-* **In this version is only possible to tranform ONE smiles at a time**
+    i.e. RTKR
+
+* For more than one aminoacid analysis:
+
+    * Use the file [smiles.txt](resources/smiles.txt) as example on how to format input data
+
+* Asteriscs in your code answer means the software could not recognize the input. Please, keep in mind that this software only recognizes [20 aminoacids](resources/codes.csv) for now (canonical and isomeric). We are working on implementing a bigger database.
+
 
 ## Authorship
 

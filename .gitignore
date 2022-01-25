@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Outputs
+smiles_output.txt
+
+# vscode
+.vscode
