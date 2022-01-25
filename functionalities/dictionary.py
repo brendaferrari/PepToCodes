@@ -15,7 +15,7 @@ class Dictionary:
             one_code=False: Default is False. If true returns the one letter code of aminoacids
             three_code=False: Default is False. If true returns the three letter code of aminoacids
         """
-        
+
         if one_code is True:
             dictio = pd.read_csv("resources/codes.csv", sep=' ', names=['name', 'smiles', '3lcode', '1lcode'], 
                         usecols= ['smiles', '1lcode'], index_col=0, header=None, squeeze=True).to_dict()
