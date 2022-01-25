@@ -3,7 +3,6 @@ __pycache__/
 
 # Outputs
 smiles_output.txt
-requirements.txt
 
 # vscode
 .vscode
