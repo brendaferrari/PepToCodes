@@ -6,3 +6,10 @@ smiles_output.txt
 
 # vscode
 .vscode
+
+# database
+resources/norineDB.xml
+resources/norineDBflat.xml
+
+# development
+functionalities/pubchemdb.py

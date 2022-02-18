@@ -20,7 +20,7 @@ if answer.lower() == "a":
 
     dictio = Dictionary()
 
-    peptocode = PeptoCode(smiles, dictio.Dict(one_code, three_code))
+    peptocode = PeptoCode(smiles, dictio.dict_csv(one_code, three_code))
     aacode, notaaCode = peptocode.count_and_change()
 
     if aacode != "*":
@@ -46,7 +46,7 @@ elif answer.lower() == "b":
     for row in df.itertuples():
         aasmiles.append(row[1])
 
-        peptocode = PeptoCode(row[1], dictio.Dict(one_code, three_code))
+        peptocode = PeptoCode(row[1], dictio.dict_csv(one_code, three_code))
         code, notCode = peptocode.count_and_change()
         aacode.append(code)
         notaaCode.append(notCode)
