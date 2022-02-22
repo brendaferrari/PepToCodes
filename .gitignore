@@ -13,3 +13,4 @@ resources/norineDBflat.xml
 
 # development
 functionalities/pubchemdb.py
+images.py
