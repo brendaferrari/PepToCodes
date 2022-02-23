@@ -7,12 +7,19 @@ from art import *
 import sys
 
 if len(sys.argv) <= 1:
-    print("One or more parameter missing. Please add input file name at the following manner: 'python main.py peptocodes/norine True/False True/False'")
+    print("One or more parameter missing. Please add input file name at the following manner: 'python main.py peptocodes True/False True/False' or 'python main.py norine'")
     sys.exit()
 
 database = sys.argv[1].lower()
-one_code = sys.argv[2].lower() == 'true'
-three_code = sys.argv[3].lower() == 'true'
+
+if database == 'peptocodes'.lower():
+
+    if len(sys.argv) <= 3:
+        print("One or more parameter missing. Please add input file name at the following manner: 'python main.py peptocodes True/False True/False'")
+        sys.exit()
+
+    one_code = sys.argv[2].lower() == 'true'
+    three_code= sys.argv[3].lower() == 'true'
 
 tprint('PepToCodes', font='3d_diagonal')
 
@@ -33,7 +40,7 @@ if answer.lower() == "a":
     if database == 'peptocodes'.lower():
         peptocode = PeptoCode(smiles, dictio.dict_csv(one_code, three_code))
     elif database == 'norine'.lower():
-        peptocode = PeptoCode(smiles, dictio.dict_json(three_code))
+        peptocode = PeptoCode(smiles, dictio.dict_json(canonical, isomeric))
     aacode, notaaCode = peptocode.count_and_change()
 
     if aacode != "*":
@@ -63,7 +70,7 @@ elif answer.lower() == "f":
         if database == 'peptocodes'.lower():
             peptocode = PeptoCode(row[1], dictio.dict_csv(one_code, three_code))
         elif database == 'norine'.lower():
-            peptocode = PeptoCode(row[1], dictio.dict_json(three_code))
+            peptocode = PeptoCode(row[1], dictio.dict_json(canonical, isomeric))
         code, notCode = peptocode.count_and_change()
         aacode.append(code)
         notaaCode.append(notCode)

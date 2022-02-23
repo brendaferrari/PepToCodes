@@ -13,8 +13,8 @@ class Dictionary:
         """Return the full dictionary with all data regards aminoacids on the database.
 
         Arguments:
-            one_code=False: Default is False. If true returns the one letter code of aminoacids
-            three_code=False: Default is False. If true returns the three letter code of aminoacids
+            one_code=False(boolean): Default is False. If true returns the one letter code of aminoacids
+            three_code=False(boolean): Default is False. If true returns the three letter code of aminoacids
         """
 
         if one_code is True:
@@ -27,22 +27,20 @@ class Dictionary:
 
         return dictio
 
-    def dict_json(self, three_code=True):
+    def dict_json(self, canonical=True, isomeric=False):
         """Return the full dictionary with all data regards aminoacids on norineDB database.
 
         Arguments:
-            one_code=False: IN DEVELOPMENT 
-            three_code=False: Default is False. If true returns the three letter code of aminoacids
+            canonical=True(boolean): Default. If true returns a dictionary with norine database for canonical smiles.
+            isomeric=False(boolean): IN DEVELOPMENT 
         """
 
-        if three_code is True:
+        if canonical is True:
             with open("resources/norineDB.json", "r") as r:
                 data = json.load(r)
 
                 canonicalSmiles = []
-                isomericSmiles = []
                 codeCan = []
-                codeIso = []
                 n = 0
 
                 while n < 544:
@@ -51,6 +49,20 @@ class Dictionary:
 
                     codeCan.append(dataCodeCan)
                     canonicalSmiles.append(dataCanonical)
+                    
+                    n += 1
+                
+                dictio = dict(zip(canonicalSmiles, codeCan))
+
+        if isomeric is True:
+            with open("resources/norineDB.json", "r") as r:
+                data = json.load(r)
+
+                isomericSmiles = []
+                codeIso = []
+                n = 0
+
+                while n < 544:
 
                     if 'isomeric' in data[n]:
                         dataCodeIso = data[n]['code']
@@ -61,23 +73,7 @@ class Dictionary:
                     
                     n += 1
                 
-                smilesCanonical = dict(zip(canonicalSmiles, codeCan))
-                smilesIsomeric = dict(zip(codeIso, isomericSmiles))
-
-                dictio = {**smilesCanonical, **smilesIsomeric}
-
-        
-        elif one_code is True:
-            
-            dictio = pd.read_csv("resources/codes.csv", sep=' ', names=['name', 'smiles', '3lcode', '1lcode'], 
-                        usecols= ['smiles', '3lcode'], index_col=0, header=None, squeeze=True).to_dict()           
+                dictio = dict(zip(isomericSmiles, codeIso))
 
         return dictio
-
-# dictio = Dictionary()
-
-# c = dictio.dict_json(True)
-# print(c)
-# print(f'Canonical: {smilesCanonical}')
-# print(f'Isomeric: {smilesIsomeric}')
 
