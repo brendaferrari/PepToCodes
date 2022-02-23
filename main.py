@@ -40,7 +40,7 @@ if answer.lower() == "a":
     if database == 'peptocodes'.lower():
         peptocode = PeptoCode(smiles, dictio.dict_csv(one_code, three_code))
     elif database == 'norine'.lower():
-        peptocode = PeptoCode(smiles, dictio.dict_json(canonical, isomeric))
+        peptocode = PeptoCode(smiles, dictio.dict_json())
     aacode, notaaCode = peptocode.count_and_change()
 
     if aacode != "*":
@@ -70,7 +70,7 @@ elif answer.lower() == "f":
         if database == 'peptocodes'.lower():
             peptocode = PeptoCode(row[1], dictio.dict_csv(one_code, three_code))
         elif database == 'norine'.lower():
-            peptocode = PeptoCode(row[1], dictio.dict_json(canonical, isomeric))
+            peptocode = PeptoCode(row[1], dictio.dict_json())
         code, notCode = peptocode.count_and_change()
         aacode.append(code)
         notaaCode.append(notCode)
