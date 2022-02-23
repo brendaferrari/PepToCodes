@@ -1,0 +1,5201 @@
+[ {
+  "code" : "1Me-Trp",
+  "nameAA" : "N1-methyl-tryptophan",
+  "synonym" : "1-Methyltryptophan",
+  "type" : "unknown",
+  "molecularFormula" : "C12H14N2O2",
+  "pubchem" : "98112",
+  "iupac" : "2-amino-3-(1-methylindol-3-yl)propanoic acid",
+  "smiles" : "Cn2cc(CC(N)C(=O)O)c1ccccc12",
+  "molecularWeight" : 218.25175
+}, {
+  "code" : "2Dh-Mabu",
+  "nameAA" : "2-methylamino-2-dehydrobutyric acid",
+  "synonym" : "2-methylamino-2-dehydrobutanoic acid,N-Methyldehydrobutyrine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H9NO2",
+  "smiles" : "CC=C(NC)C(=O)O",
+  "molecularWeight" : 115.13046,
+  "corres" : "MDH"
+}, {
+  "code" : "2Me-3Me-pGlu",
+  "nameAA" : "2,3-dimethylpyroglutamic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C7H11NO3",
+  "smiles" : "CC1C(C)C(NC1(=O))C(=O)O",
+  "molecularWeight" : 157.16714
+}, {
+  "code" : "2OMe-Rha",
+  "nameAA" : "O-methyl-L-rhamnose",
+  "synonym" : "2-O-METHYL FUCOSE",
+  "type" : "CS",
+  "molecularFormula" : "C7H14O5",
+  "pubchem" : "5179954",
+  "iupac" : "3-methoxy-6-methyloxane-2,4,5-triol",
+  "smiles" : "COC1C(O)OC(C)C(O)C1(O)",
+  "molecularWeight" : 178.18306,
+  "corres" : "MXY"
+}, {
+  "code" : "3d-NMe-Bmt",
+  "nameAA" : "3-Desoxy-Methyl-4-butenyl-4-methyl threonine",
+  "synonym" : "3-desoxy-NMeBmt",
+  "type" : "NRPS",
+  "molecularFormula" : "C10H19NO2",
+  "iupac" : "(E,2S,3R)-4-methyl-2-methylaminooct-6-enoic acid",
+  "smiles" : "CC=CCC(C)CC(NC)C(=O)O",
+  "molecularWeight" : 185.26337
+}, {
+  "code" : "3Me-4Me-Gln",
+  "nameAA" : "3,4-dimethylglutamine",
+  "type" : "unknown",
+  "molecularFormula" : "C7H14N2O3",
+  "smiles" : "CC(C(C)C(N)C(O)=O)C(N)=O",
+  "molecularWeight" : 174.19766
+}, {
+  "code" : "3Me-Glu",
+  "nameAA" : "3-Methyl-Glutamic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO4",
+  "pubchem" : "237657",
+  "iupac" : "2-amino-3-methylpentanedioic acid",
+  "smiles" : "CC(CC(=O)O)C(N)C(=O)O",
+  "molecularWeight" : 161.15584,
+  "corres" : "MEG"
+}, {
+  "code" : "3Me-Hty",
+  "nameAA" : "3-methyl-homotyrosine",
+  "type" : "NRPS",
+  "molecularFormula" : "C11H15NO3",
+  "smiles" : "CC(Cc1ccc(O)cc1)C(N)C(=O)O",
+  "molecularWeight" : 209.2417
+}, {
+  "code" : "3Me-Phe",
+  "nameAA" : "3-methylphenylalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C10H13NO2",
+  "pubchem" : "2761494",
+  "iupac" : "(2S)-2-amino-3-(3-methylphenyl)propanoic acid",
+  "smiles" : "Cc1cccc(c1)CC(N)C(=O)O",
+  "isomeric" : "CC1=CC(=CC=C1)C[C@@H](C(=O)O)N",
+  "molecularWeight" : 179.21573,
+  "corres" : "APD"
+}, {
+  "code" : "3Me-Pro",
+  "nameAA" : "3-methylproline",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO2",
+  "pubchem" : "3141166",
+  "iupac" : "(2S,3S)-3-methylpyrrolidine-2-carboxylic acid",
+  "smiles" : "CC1CCNC1(C(=O)O)",
+  "isomeric" : "C[C@H]1CCN[C@@H]1C(=O)O",
+  "molecularWeight" : 129.15704
+}, {
+  "code" : "3NO2-Tyr",
+  "nameAA" : "3-nitrotyrosine",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H10N2O5",
+  "pubchem" : "235719",
+  "iupac" : "2-amino-3-(4-hydroxy-3-nitrophenyl)propanoic acid",
+  "smiles" : "NC(Cc1ccc(O)c(c1)[N+](=O)[O-])C(=O)O",
+  "molecularWeight" : 226.1861,
+  "corres" : "NIY"
+}, {
+  "code" : "3OH-5Me-Pro",
+  "nameAA" : "3-Hydroxy-5-methylproline",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO3",
+  "pubchem" : "768844",
+  "iupac" : "(2S,3S,5S)-3-hydroxy-5-methylpyrrolidine-2-carboxylic acid",
+  "smiles" : "CC1CC(O)C(N1)C(=O)O",
+  "isomeric" : "C[C@H]1C[C@@H]([C@H](N1)C(=O)O)O",
+  "molecularWeight" : 145.15645,
+  "corres" : "H5M"
+}, {
+  "code" : "3OH-Leu",
+  "nameAA" : "3-hydroxyleucine",
+  "synonym" : "beta-Hydroxyleucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13NO3",
+  "pubchem" : "134611",
+  "iupac" : "(2S)-2-amino-3-hydroxy-4-methylpentanoic acid",
+  "smiles" : "CC(C)C(O)C(N)C(=O)O",
+  "isomeric" : "CC(C)C([C@@H](C(=O)O)N)O",
+  "molecularWeight" : 147.17233,
+  "corres" : "HLU"
+}, {
+  "code" : "3OH-Pro",
+  "nameAA" : "3-Hydroxyproline",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H9NO3",
+  "pubchem" : "728306",
+  "iupac" : "(2S)-3-hydroxypyrrolidine-2-carboxylic acid",
+  "smiles" : "O=C(O)C1NCCC1(O)",
+  "isomeric" : "C1CN[C@@H](C1O)C(=O)O",
+  "molecularWeight" : 131.12985,
+  "corres" : "HY3"
+}, {
+  "code" : "4Cl-Thr",
+  "nameAA" : "4-Chloro-Threonine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H8ClNO3",
+  "pubchem" : "5460796",
+  "iupac" : "(2S,3S)-2-amino-4-chloro-3-hydroxybutanoic acid",
+  "smiles" : "NC(C(=O)O)C(O)CCl",
+  "isomeric" : "C([C@H]([C@@H](C(=O)O)N)O)Cl",
+  "molecularWeight" : 153.56422,
+  "corres" : "CTH"
+}, {
+  "code" : "4Me-D-Hva",
+  "nameAA" : "4-Methyl-D-2-hydroxy-valeric acid, 4-Methyl-D-2-hydroxy-pentanoic acid",
+  "synonym" : "",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H12O3",
+  "pubchem" : "",
+  "iupac" : "",
+  "smiles" : "CC(C)CC(O)C(=O)O",
+  "isomeric" : "",
+  "molecularWeight" : 132.15768,
+  "corres" : "1LU"
+}, {
+  "code" : "4Me-Hva",
+  "nameAA" : "2-hydroxy-4-methylpentanoic acid, 2-hydroxy-4-methylvaleric acid",
+  "synonym" : "Leucic acid, C5:0-Me(4)-OH(2)",
+  "molecularFormula" : "C6H12O3",
+  "pubchem" : "92779",
+  "iupac" : "2-hydroxy-4-methylpentanoic acid",
+  "smiles" : "CC(C)CC(O)C(=O)O",
+  "molecularWeight" : 132.078644,
+  "corres" : "2RH"
+}, {
+  "code" : "4Me-Pro",
+  "nameAA" : "4-methylproline",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO2",
+  "pubchem" : "10365019",
+  "iupac" : "4-methylpyrrolidine-2-carboxylic acid",
+  "smiles" : "CC1CNC(C1)C(=O)O",
+  "molecularWeight" : 129.15704,
+  "corres" : "MP8"
+}, {
+  "code" : "4OH-D-Ph-Lac",
+  "nameAA" : "4-hydroxy-D-phenyl-lactate",
+  "synonym" : "4-hydroxy-D-phenyl-lactic acid,p-Hydroxyphenyllactate3-(4-Hydroxyphenyl)lactic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H10O4",
+  "pubchem" : "9378",
+  "iupac" : "2-hydroxy-3-(4-hydroxyphenyl)propanoic acid",
+  "smiles" : "Oc1ccc(cc1)CC(O)C(=O)O",
+  "molecularWeight" : 182.17331
+}, {
+  "code" : "4OH-Pro",
+  "nameAA" : "4-Hydroxyproline",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H9NO3",
+  "pubchem" : "5810",
+  "iupac" : "(2S,4R)-4-hydroxypyrrolidine-2-carboxylic acid",
+  "smiles" : "OC1CNC(C1)C(=O)O",
+  "isomeric" : "C1[C@H](CN[C@@H]1C(=O)O)O",
+  "molecularWeight" : 131.12985,
+  "corres" : "HYP"
+}, {
+  "code" : "4OH-Thr",
+  "nameAA" : "4-Hydroxythreonine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO4",
+  "pubchem" : "193577",
+  "iupac" : "(2S,3S)-2-amino-3,4-dihydroxybutanoic acid",
+  "smiles" : "NC(C(=O)O)C(O)CO",
+  "isomeric" : "C([C@H]([C@@H](C(=O)O)N)O)O",
+  "molecularWeight" : 135.11856,
+  "corres" : "TH6"
+}, {
+  "code" : "4oxo-5Me-Pro",
+  "nameAA" : "4-oxo-5-methylproline",
+  "synonym" : "4-keto-5-methylproline",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H9NO3",
+  "pubchem" : "3316607",
+  "iupac" : "5-methyl-4-oxopyrrolidine-2-carboxylic acid",
+  "smiles" : "CC1NC(CC1(=O))C(=O)O",
+  "molecularWeight" : 143.14056,
+  "corres" : "POM"
+}, {
+  "code" : "4oxo-Hpr",
+  "nameAA" : "4-oxo-homoproline",
+  "synonym" : "4-oxo-pipecolic acid,4-oxo-pipecolinic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H9NO3",
+  "iupac" : "(S)-4-OXO-PIPERIDINE-2-CARBOXYLIC ACID",
+  "smiles" : "O=C1CCNC(C1)C(=O)O",
+  "isomeric" : "O=C1CCN[C@@H](C1)C(=O)O",
+  "molecularWeight" : 143.14056,
+  "corres" : "MHV"
+}, {
+  "code" : "4oxo-Pro",
+  "nameAA" : "4-oxo-proline",
+  "synonym" : "4-keto-proline",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H7NO3",
+  "pubchem" : "107541",
+  "iupac" : "(2S)-4-oxopyrrolidine-2-carboxylic acid",
+  "smiles" : "O=C1CNC(C1)C(=O)O",
+  "isomeric" : "C1[C@H](NCC1=O)C(=O)O",
+  "molecularWeight" : 129.11398,
+  "corres" : "DPL"
+}, {
+  "code" : "4oxo-Van",
+  "nameAA" : "4-oxovancosamine",
+  "type" : "CS",
+  "molecularFormula" : "C7H13NO3",
+  "smiles" : "CC1OC(O)CC(C)(N)C1(=O)",
+  "molecularWeight" : 159.18303
+}, {
+  "code" : "5Me-Pro",
+  "nameAA" : "5-methylproline",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO2",
+  "pubchem" : "3734743",
+  "iupac" : "5-methylpyrrolidine-2-carboxylic acid",
+  "smiles" : "CC1CCC(N1)C(=O)O",
+  "molecularWeight" : 129.15704
+}, {
+  "code" : "5OH-Cap",
+  "nameAA" : "5-hydroxy-capreomycidine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H12N4O3",
+  "smiles" : "N=C1NC(O)CC(N1)C(N)C(=O)O",
+  "molecularWeight" : 188.18448
+}, {
+  "code" : "Aad",
+  "nameAA" : "2-Aminoadipic acid",
+  "synonym" : "2-Aminohexanedioic acid,2-Aminoadipate,alpha-aminoadipic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO4",
+  "pubchem" : "469",
+  "iupac" : "2-aminohexanedioic acid",
+  "smiles" : "NC(CCCC(=O)O)C(=O)O",
+  "molecularWeight" : 161.15584,
+  "corres" : "UN1"
+}, {
+  "code" : "Abu",
+  "nameAA" : "2-Aminobutyric acid",
+  "synonym" : "2-Aminobutanoic acid,butyrine,2-amino-n-butyric acid,alpha-aminobutyric acid,Butyrine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO2",
+  "pubchem" : "80283",
+  "iupac" : "(2S)-2-aminobutanoic acid",
+  "smiles" : "CCC(N)C(=O)O",
+  "isomeric" : "CC[C@@H](C(=O)O)N",
+  "molecularWeight" : 103.11977,
+  "corres" : "ABA"
+}, {
+  "code" : "aC10:0",
+  "nameAA" : "7-methylnonanoic acid",
+  "synonym" : "anteiso-decanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C10H20O2",
+  "pubchem" : "5312329",
+  "iupac" : "7-methylnonanoic acid",
+  "smiles" : "CCC(C)CCCCCC(=O)O",
+  "molecularWeight" : 172.2646
+}, {
+  "code" : "aC11:0",
+  "nameAA" : "8-methyldecanoic acid",
+  "synonym" : "8-methyl capric acid,anteisoundecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C11H22O2",
+  "pubchem" : "21813",
+  "iupac" : "8-methyldecanoic acid",
+  "smiles" : "CCC(C)CCCCCCC(=O)O",
+  "molecularWeight" : 186.29118
+}, {
+  "code" : "aC11:2(4.6)-Me(2.6)-OH(2.3)",
+  "nameAA" : "2,3-dihydroxy-2,6,8-trimethyldeca-(4Z,6E)-dienoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C13H22O4",
+  "smiles" : "CCC(C)C=C(C)C=CC(O)C(C)(O)C(O)=O",
+  "molecularWeight" : 242.31139
+}, {
+  "code" : "aC13:0",
+  "nameAA" : "10-methyldodecanoic acid",
+  "synonym" : "10-methyl lauric acid,anteisotridecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C13H26O2",
+  "pubchem" : "3014565",
+  "iupac" : "10-methyldodecanoic acid",
+  "smiles" : "CCC(C)CCCCCCCCC(=O)O",
+  "molecularWeight" : 214.34433
+}, {
+  "code" : "aC13:0-OH(3)",
+  "nameAA" : "3-hydroxy-10-methyl-dodecanoic acid",
+  "synonym" : "3-hydroxy-anteiso-tridecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C13H26O3",
+  "smiles" : "CCC(C)CCCCCCC(O)CC(O)=O",
+  "molecularWeight" : 230.34373
+}, {
+  "code" : "aC13:1(3)",
+  "nameAA" : "10-methyl-3-dodecenoic acid",
+  "synonym" : "3-anteisotridecene acid",
+  "type" : "FAS",
+  "molecularFormula" : "C13H24O2",
+  "smiles" : "CCC(C)CCCCCC=CCC(O)=O",
+  "molecularWeight" : 212.32846
+}, {
+  "code" : "aC13:2(2.t4)",
+  "nameAA" : "10-methyl-2,trans4-dodecenoic acid",
+  "synonym" : "2,trans4-anteisotridecenoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C13H22O2",
+  "smiles" : "CCC(C)CCCCC=CC=CC(O)=O",
+  "molecularWeight" : 210.31258
+}, {
+  "code" : "aC15:0",
+  "nameAA" : "12-methyltetradecanoic acid",
+  "synonym" : "aseanostatin P5,Sarcinic acid,ANTEISOPENTADECANOIC ACID",
+  "type" : "FAS",
+  "molecularFormula" : "C15H30O2",
+  "pubchem" : "21672",
+  "iupac" : "12-methyltetradecanoic acid",
+  "smiles" : "CCC(C)CCCCCCCCCCC(=O)O",
+  "molecularWeight" : 242.3975
+}, {
+  "code" : "aC15:0-NH2(3)",
+  "nameAA" : "3-amino-12-methyl-tetradecanoic acid",
+  "synonym" : "3-amino-anteisopentadecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C15H31NO2",
+  "smiles" : "CCC(C)CCCCCCCCC(N)CC(O)=O",
+  "molecularWeight" : 257.41214
+}, {
+  "code" : "aC15:0-OH(3)",
+  "nameAA" : "3-hydroxy-12-methyl-tetradecanoic acid",
+  "synonym" : "3-hydroxy-anteiso-pentadecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C15H30O3",
+  "smiles" : "CCC(C)CCCCCCCCC(O)CC(O)=O",
+  "molecularWeight" : 258.3969
+}, {
+  "code" : "aC15:1(3)",
+  "nameAA" : "12-methyl-3-tetradecenoic acid",
+  "synonym" : "3-anteisopentadecenoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C15H28O2",
+  "smiles" : "CCC(C)CCCCCCCC=CCC(O)=O",
+  "molecularWeight" : 240.38162
+}, {
+  "code" : "aC17:0-NH2(3)",
+  "nameAA" : "3-amino-14-methyl-hexadecanoic acid",
+  "synonym" : "3-amino-anteisoheptadecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C17H35NO2",
+  "smiles" : "CCC(C)CCCCCCCCCCC(N)CC(O)=O",
+  "molecularWeight" : 285.4653
+}, {
+  "code" : "aC17:0-OH(3)",
+  "nameAA" : "3-hydroxy-14-methyl-hexadecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C17H34O3",
+  "smiles" : "CCC(C)CCCCCCCCCCC(O)CC(O)=O",
+  "molecularWeight" : 286.45007
+}, {
+  "code" : "aC6:0-OH(2.3)",
+  "nameAA" : "2,3-dihydroxy-3-methylpentanoic acid",
+  "synonym" : "2,3-dihydroxy-3-methylvalerate,2,3-Dihydroxy-3-Methyl-Valeric acid,2,3-dihydroxy-3-methylpentanoate",
+  "type" : "FAS",
+  "molecularFormula" : "C6H12O4",
+  "pubchem" : "8",
+  "iupac" : "2,3-dihydroxy-3-methylpentanoic acid",
+  "smiles" : "CCC(C)(O)C(O)C(=O)O",
+  "molecularWeight" : 148.15707,
+  "corres" : "DMV"
+}, {
+  "code" : "aC9:0",
+  "nameAA" : "6-methyloctanoic acid",
+  "synonym" : "6-METHYLCAPRYLIC ACID",
+  "type" : "FAS",
+  "molecularFormula" : "C9H18O2",
+  "pubchem" : "10447",
+  "iupac" : "6-methyloctanoic acid",
+  "smiles" : "CCC(C)CCCCC(=O)O",
+  "molecularWeight" : 158.238
+}, {
+  "code" : "aC9:0-OH(2)-NH2(3)",
+  "nameAA" : "alpha-hydroxy-6-methyl-3-aminooctanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C9H19NO3",
+  "smiles" : "CCC(C)CCC(N)C(O)C(=O)O",
+  "molecularWeight" : 189.25206
+}, {
+  "code" : "aC9:0-OH(3)",
+  "nameAA" : "3-hydroxy-6-methyloctanoic acid",
+  "synonym" : "3-hydroxy-anteisononanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C9H18O3",
+  "pubchem" : "23176793",
+  "iupac" : "3-hydroxy-6-methyloctanoic acid",
+  "smiles" : "CCC(C)CCC(O)CC(=O)O",
+  "molecularWeight" : 174.23743
+}, {
+  "code" : "Aca",
+  "nameAA" : "Anticapsin",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H13NO4",
+  "pubchem" : "72647",
+  "iupac" : "(2S)-2-amino-3-[(1R,2R,6R)-5-oxo-7-oxabicyclo[4.1.0]heptan-2-yl]propanoic acid",
+  "smiles" : "NC(CC1CCC(=O)C2OC12)C(=O)O",
+  "isomeric" : "C1CC(=O)[C@H]2[C@@H]([C@H]1C[C@@H](C(=O)O)N)O2",
+  "molecularWeight" : 199.20383
+}, {
+  "code" : "Ac-Aib",
+  "nameAA" : "N-Acetyl-2-aminoisobutyric acid",
+  "synonym" : "N-Acetyl-2-amino-2-methylpropanoic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO3",
+  "pubchem" : "233700",
+  "iupac" : "2-acetamido-2-methylpropanoic acid",
+  "smiles" : "CC(=O)NC(C)(C)C(=O)O",
+  "molecularWeight" : 145.15645,
+  "corres" : "ACE AIB"
+}, {
+  "code" : "Ac-Ival",
+  "nameAA" : "N-acetyl-isovaline",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H13NO3",
+  "pubchem" : "307926",
+  "iupac" : "2-acetamido-2-methylbutanoic acid",
+  "smiles" : "CCC(C)(NC(C)=O)C(=O)O",
+  "molecularWeight" : 159.18303
+}, {
+  "code" : "Aco",
+  "nameAA" : "L-acosamine",
+  "synonym" : "3-Amino-2,3,6-trideoxy-L-arabino-hexose",
+  "type" : "CS",
+  "molecularFormula" : "C6H13NO3",
+  "pubchem" : "101290229",
+  "iupac" : "(4R,5S,6R)-4-amino-6-methyloxane-2,5-diol",
+  "smiles" : "CC1OC(O)CC(N)C1(O)",
+  "isomeric" : "C[C@@H]1[C@H]([C@@H](CC(O1)O)N)O",
+  "molecularWeight" : 147.17233,
+  "corres" : ""
+}, {
+  "code" : "Ac-OH-Orn",
+  "nameAA" : "N-acetyl-HydroxyOrnithine",
+  "synonym" : "L-Ornithine, N5-acetyl-N5-hydroxy-,delta-N-Acetyl-delta-N-hydroxy-L-ornithine",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H14N2O4",
+  "pubchem" : "3881713",
+  "iupac" : "(2S)-5-(acetyl-hydroxyamino)-2-aminopentanoic acid",
+  "smiles" : "CC(=O)N(O)CCCC(N)C(=O)O",
+  "isomeric" : "CC(=O)N(CCC[C@@H](C(=O)O)N)O",
+  "molecularWeight" : 190.19707,
+  "corres" : "AHO"
+}, {
+  "code" : "Ac-Phe",
+  "nameAA" : "N-acetylphenylalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C11H13NO3",
+  "pubchem" : "74839",
+  "iupac" : "(2S)-2-acetamido-3-phenylpropanoic acid",
+  "smiles" : "CC(=O)NC(Cc1ccccc1)C(=O)O",
+  "isomeric" : "CC(=O)N[C@@H](CC1=CC=CC=C1)C(=O)O",
+  "molecularWeight" : 207.22583,
+  "corres" : "ACE PHE"
+}, {
+  "code" : "Ac-Pro",
+  "nameAA" : "acetylproline",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H11NO3",
+  "pubchem" : "322640",
+  "iupac" : "1-acetylpyrrolidine-2-carboxylic acid",
+  "smiles" : "CC(=O)N1CCCC1(C(=O)O)",
+  "molecularWeight" : 157.16714
+}, {
+  "code" : "Ac-Ser",
+  "nameAA" : "O-acetyl-Serine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H9NO4",
+  "pubchem" : "99478",
+  "iupac" : "(2S)-3-acetyloxy-2-aminopropanoic acid",
+  "smiles" : "CC(=O)OCC(N)C(=O)O",
+  "isomeric" : "CC(=O)OC[C@@H](C(=O)O)N",
+  "molecularWeight" : 147.12926,
+  "corres" : "OAS"
+}, {
+  "code" : "Act",
+  "nameAA" : "L-actinosamine",
+  "type" : "CS",
+  "molecularFormula" : "C7H15NO3",
+  "pubchem" : "20377364",
+  "iupac" : "4-amino-5-methoxy-6-methyloxan-2-ol",
+  "smiles" : "COC1C(N)CC(O)OC1(C)",
+  "molecularWeight" : 161.1989
+}, {
+  "code" : "Ac-Trp",
+  "nameAA" : "N-acetyltryptophan",
+  "type" : "NRPS",
+  "molecularFormula" : "C13H14N2O3",
+  "pubchem" : "2002",
+  "iupac" : "2-acetamido-3-(1H-indol-3-yl)propanoic acid",
+  "smiles" : "CC(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O",
+  "molecularWeight" : 246.26186,
+  "corres" : "ACE TRP"
+}, {
+  "code" : "Ac-Val",
+  "nameAA" : "N-Acetylvaline",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H13NO3",
+  "pubchem" : "227752",
+  "iupac" : "2-acetamido-3-methylbutanoic acid",
+  "smiles" : "CC(C)C(NC(C)=O)C(=O)O",
+  "molecularWeight" : 159.18303
+}, {
+  "code" : "Adda",
+  "nameAA" : "3-amino-9-methoxy-2,6,8-trimethyl-10-phenyldeca-4,6-dienoic acid",
+  "type" : "PKS",
+  "molecularFormula" : "C20H29NO3",
+  "pubchem" : "4478472",
+  "iupac" : "(2S,3S,4E,6E,8S,9S)-3-amino-9-methoxy-2,6,8-trimethyl-10-phenyldeca-4,6-dienoic acid",
+  "smiles" : "COC(Cc1ccccc1)C(C)C=C(C)C=CC(N)C(C)C(=O)O",
+  "molecularWeight" : 331.4492,
+  "corres" : "1ZN"
+}, {
+  "code" : "ADMAdda",
+  "nameAA" : "O-Acetyl-O-demethylAdda.",
+  "synonym" : "3-amino-9-acetoxy-2,6,8-trimethyl-10-phenyldeca-4,6-dienoic acid",
+  "type" : "PKS",
+  "molecularFormula" : "C21H29NO4",
+  "smiles" : "CC(C=CC(N)C(C)C(O)=O)=CC(C)C(Cc1ccccc1)OC(C)=O",
+  "molecularWeight" : 359.45926
+}, {
+  "code" : "aFo-Gly",
+  "nameAA" : "alpha-formylGlycine",
+  "synonym" : "3-oxoalanine,2-aminomalonate-semialdehyde,2-amino-3-oxopropanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C3H5NO3",
+  "pubchem" : "29",
+  "iupac" : "2-amino-3-oxopropanoic acid",
+  "smiles" : "NC(C=O)C(=O)O",
+  "molecularWeight" : 103.076706
+}, {
+  "code" : "Agdha",
+  "nameAA" : "4-amino-7-guanidino-2,3-dihydroxyheptanoic acid",
+  "type" : "other",
+  "molecularFormula" : "C8H18N4O4",
+  "smiles" : "N=C(N)NCCCC(N)C(O)C(O)C(O)=O",
+  "molecularWeight" : 234.25293
+}, {
+  "code" : "Ahad",
+  "nameAA" : "alpha-amino-hydroxyadipic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C6H11NO5",
+  "pubchem" : "22326384",
+  "iupac" : "2-amino-4-hydroxyhexanedioic acid",
+  "smiles" : "NC(CC(O)CC(=O)O)C(=O)O",
+  "molecularWeight" : 177.15524
+}, {
+  "code" : "Ahp",
+  "nameAA" : "3-amino-6-hydroxy-2-piperidone",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H16N2O5",
+  "smiles" : "CC(O)C(C(=O)O)N1C(O)CCC(N)C1(=O)",
+  "molecularWeight" : 232.23373,
+  "corres" : "SUJ"
+}, {
+  "code" : "Ahv",
+  "nameAA" : "alpha-amino-hydroxyphenyl-valeric acid",
+  "synonym" : "alpha-amino-hydroxyphenyl-valerate",
+  "type" : "NRPS",
+  "molecularFormula" : "C11H15NO3",
+  "smiles" : "NC(CCCc1ccc(O)cc1)C(=O)O",
+  "molecularWeight" : 209.2417
+}, {
+  "code" : "Aib",
+  "nameAA" : "2-Aminoisobutyric acid",
+  "synonym" : "alpha-aminoisobutyric acid,2-amino-2-methylpropanoic acid,alpha-methylalanine,2-methylalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO2",
+  "pubchem" : "6119",
+  "iupac" : "2-amino-2-methylpropanoic acid",
+  "smiles" : "CC(C)(N)C(=O)O",
+  "molecularWeight" : 103.11977,
+  "corres" : "AIB"
+}, {
+  "code" : "aIle",
+  "nameAA" : "allo-Isoleucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13NO2",
+  "pubchem" : "49866323",
+  "iupac" : "(2S,3R)-2-amino-3-methylpentanoic acid",
+  "smiles" : "CCC(C)C(N)C(=O)O",
+  "isomeric" : "CC[C@@H](C)[C@@H](C(=O)O)N",
+  "molecularWeight" : 131.17293,
+  "corres" : "IIL"
+}, {
+  "code" : "Ala",
+  "nameAA" : "Alanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H7NO2",
+  "pubchem" : "5950",
+  "iupac" : "(2S)-2-aminopropanoic acid",
+  "smiles" : "CC(N)C(=O)O",
+  "isomeric" : "C[C@@H](C(=O)O)N",
+  "molecularWeight" : 89.09318,
+  "corres" : "ALA"
+}, {
+  "code" : "Ala-Thz",
+  "nameAA" : "Alanine-thiazole",
+  "type" : "unknown",
+  "molecularFormula" : "C6H8N2O2S",
+  "pubchem" : "24274385",
+  "iupac" : "2-(1-aminoethyl)-1,3-thiazole-4-carboxylic acid",
+  "smiles" : "CC(N)c1nc(cs1)C(=O)O",
+  "molecularWeight" : 172.20493
+}, {
+  "code" : "aMe-Cys",
+  "nameAA" : "alpha-methylcysteine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO2S",
+  "pubchem" : "10057562",
+  "iupac" : "2-amino-2-methyl-3-sulfanylpropanoic acid",
+  "smiles" : "CC(N)(CS)C(=O)O",
+  "molecularWeight" : 135.18477,
+  "corres" : "03Y"
+}, {
+  "code" : "Amv",
+  "nameAA" : "alpha-amino-methoxyphenyl-valeric acid",
+  "synonym" : "alpha-amino-methoxyphenyl-valerate",
+  "type" : "NRPS",
+  "molecularFormula" : "C12H17NO3",
+  "pubchem" : "11506835",
+  "iupac" : "2-amino-5-(4-methoxyphenyl)pentanoic acid",
+  "smiles" : "COc1ccc(CCCC(N)C(=O)O)cc1",
+  "molecularWeight" : 223.26828
+}, {
+  "code" : "Apv",
+  "nameAA" : "alpha-amino-phenyl-valeric acid",
+  "synonym" : "alpha-amino-phenyl-valerate",
+  "type" : "NRPS",
+  "molecularFormula" : "C11H15NO2",
+  "pubchem" : "296866",
+  "iupac" : "2-amino-5-phenylpentanoic acid",
+  "smiles" : "NC(CCCc1ccccc1)C(=O)O",
+  "molecularWeight" : 193.2423,
+  "corres" : "PH8"
+}, {
+  "code" : "Ara",
+  "nameAA" : "arabinose",
+  "synonym" : "L-ARABINOPYRANOSE",
+  "type" : "CS",
+  "molecularFormula" : "C5H10O5",
+  "pubchem" : "439195",
+  "iupac" : "(3R,4S,5S)-oxane-2,3,4,5-tetrol",
+  "smiles" : "OC1COC(O)C(O)C1(O)",
+  "isomeric" : "C1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O",
+  "molecularWeight" : 150.12991,
+  "corres" : "ARA"
+}, {
+  "code" : "Arg",
+  "nameAA" : "Arginine",
+  "synonym" : "2-amino-5-guanidinopentanoic acid,2-amino-5-guanidinovaleric acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H14N4O2",
+  "pubchem" : "6322",
+  "iupac" : "(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid",
+  "smiles" : "NC(N)=NCCCC(N)C(=O)O",
+  "isomeric" : "C(C[C@@H](C(=O)O)N)CN=C(N)N",
+  "molecularWeight" : 174.20096,
+  "corres" : "ARG"
+}, {
+  "code" : "Argal",
+  "nameAA" : "arginal",
+  "type" : "unknown",
+  "molecularFormula" : "C6H14N4O",
+  "pubchem" : "19919009",
+  "iupac" : "2-(4-amino-5-oxopentyl)guanidine",
+  "smiles" : "NC(N)=NCCCC(N)C=O",
+  "molecularWeight" : 158.20155,
+  "corres" : "RGL"
+}, {
+  "code" : "Asn",
+  "nameAA" : "Asparagine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H8N2O3",
+  "pubchem" : "6267",
+  "iupac" : "(2S)-2,4-diamino-4-oxobutanoic acid",
+  "smiles" : "NC(=O)CC(N)C(=O)O",
+  "isomeric" : "C([C@@H](C(=O)O)N)C(=O)N",
+  "molecularWeight" : 132.11792,
+  "corres" : "ASN"
+}, {
+  "code" : "Asp",
+  "nameAA" : "Aspartic Acid",
+  "synonym" : "aspartate",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H7NO4",
+  "pubchem" : "5960",
+  "iupac" : "(2S)-2-aminobutanedioic acid",
+  "smiles" : "NC(CC(=O)O)C(=O)O",
+  "isomeric" : "C([C@@H](C(=O)O)N)C(=O)O",
+  "molecularWeight" : 133.10269,
+  "corres" : "ASP"
+}, {
+  "code" : "aThr",
+  "nameAA" : "allo-Threonine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO3",
+  "pubchem" : "99289",
+  "iupac" : "(2S,3S)-2-amino-3-hydroxybutanoic acid",
+  "smiles" : "CC(O)C(N)C(=O)O",
+  "isomeric" : "C[C@@H]([C@@H](C(=O)O)N)O",
+  "molecularWeight" : 119.119156,
+  "corres" : "ALO"
+}, {
+  "code" : "Azd",
+  "nameAA" : "aziridine dicarboxylic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C4H5NO4",
+  "pubchem" : "22712963",
+  "iupac" : "aziridine-2,3-dicarboxylic acid",
+  "smiles" : "O=C(O)C1NC1(C(=O)O)",
+  "molecularWeight" : 131.0868
+}, {
+  "code" : "bAla",
+  "nameAA" : "beta-Alanine",
+  "synonym" : "beta-Aminopropionic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H7NO2",
+  "pubchem" : "239",
+  "iupac" : "3-aminopropanoic acid",
+  "smiles" : "NCCC(=O)O",
+  "molecularWeight" : 89.09318,
+  "corres" : "BAL"
+}, {
+  "code" : "bbMe2-O-Met",
+  "nameAA" : "beta,beta-dimethyl-Methionine-S-oxide",
+  "synonym" : "beta,beta-dimethyl-Methionine sulfoxide",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H15NO3S",
+  "smiles" : "CC(C)(CS(C)=O)C(N)C(=O)O",
+  "molecularWeight" : 193.2639,
+  "corres" : "M2S"
+}, {
+  "code" : "bbMe-NMe-Trp",
+  "nameAA" : "beta,beta,N-trimethyltryptophan",
+  "type" : "unknown",
+  "molecularFormula" : "C14H18N2O2",
+  "smiles" : "CNC(C(O)=O)C(C)(C)c2c[nH]c1ccccc12",
+  "molecularWeight" : 246.30493
+}, {
+  "code" : "bbNMe-NMe-Trp",
+  "nameAA" : "beta,beta,N1,N-tetramethyltryptophan",
+  "type" : "unknown",
+  "molecularFormula" : "C15H20N2O2",
+  "smiles" : "CNC(C(O)=O)C(C)(C)c2cn(C)c1ccccc12",
+  "molecularWeight" : 260.3315
+}, {
+  "code" : "bD-Gal",
+  "nameAA" : "beta-D-galactose",
+  "type" : "CS",
+  "molecularFormula" : "C6H12O6",
+  "pubchem" : "439353",
+  "iupac" : "(2R,3R,4S,5R,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol",
+  "smiles" : "OCC1OC(O)C(O)C(O)C1(O)",
+  "isomeric" : "C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)O",
+  "molecularWeight" : 180.15588,
+  "corres" : "GAL"
+}, {
+  "code" : "bLys",
+  "nameAA" : "beta lysine",
+  "synonym" : "(3S)-3,6-diaminohexanoate",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H14N2O2",
+  "pubchem" : "439417",
+  "iupac" : "(3S)-3,6-diaminohexanoic acid",
+  "smiles" : "NCCCC(N)CC(=O)O",
+  "isomeric" : "C(C[C@@H](CC(=O)O)N)CN",
+  "molecularWeight" : 146.18756,
+  "corres" : "KBE"
+}, {
+  "code" : "bMe-Asn",
+  "nameAA" : "beta-methyl-asparagine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H10N2O3",
+  "pubchem" : "3742490",
+  "iupac" : "2,4-diamino-3-methyl-4-oxobutanoic acid",
+  "smiles" : "CC(C(N)=O)C(N)C(=O)O",
+  "molecularWeight" : 146.1445
+}, {
+  "code" : "bMe-Asp",
+  "nameAA" : "beta-methyl-aspartic acid",
+  "synonym" : "3-METHYL-ASPARTIC ACID",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H9NO4",
+  "pubchem" : "151054",
+  "iupac" : "(2S)-2-amino-3-methylbutanedioic acid",
+  "smiles" : "CC(C(N)C(=O)O)C(=O)O",
+  "isomeric" : "CC([C@@H](C(=O)O)N)C(=O)O",
+  "molecularWeight" : 147.12926,
+  "corres" : "2AS"
+}, {
+  "code" : "bMe-Br-Phe",
+  "nameAA" : "beta-methyl-bromophenylalanine",
+  "type" : "unknown",
+  "molecularFormula" : "C10H12BrNO2",
+  "smiles" : "CC(C(N)C(=O)O)c1ccc(cc1)Br",
+  "molecularWeight" : 258.1118
+}, {
+  "code" : "bMe-Gln",
+  "nameAA" : "beta-methylglutamine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H12N2O3",
+  "pubchem" : "44602399",
+  "iupac" : "(2S,3S)-2,5-diamino-3-methyl-5-oxopentanoic acid",
+  "smiles" : "CC(CC(N)=O)C(N)C(=O)O",
+  "isomeric" : "C[C@@H](CC(=O)N)[C@@H](C(=O)O)N",
+  "molecularWeight" : 160.17108,
+  "corres" : "LMQ"
+}, {
+  "code" : "bMe-Ile",
+  "nameAA" : "beta-methylisoleucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H15NO2",
+  "pubchem" : "15042684",
+  "iupac" : "2-amino-3,3-dimethylpentanoic acid",
+  "smiles" : "CCC(C)(C)C(N)C(=O)O",
+  "molecularWeight" : 145.19951,
+  "corres" : "I2M"
+}, {
+  "code" : "bMe-Phe",
+  "nameAA" : "beta-methyl-phenylalanine",
+  "molecularFormula" : "C10H13NO2",
+  "smiles" : "CC(C(N)C(=O)O)c1ccccc1",
+  "molecularWeight" : 179.2291
+}, {
+  "code" : "Bmt",
+  "nameAA" : "4-butenyl-4-methyl threonine",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H17NO3",
+  "pubchem" : "14185",
+  "iupac" : "(E,2S,3R,4R)-2-amino-3-hydroxy-4-methyloct-6-enoic acid",
+  "smiles" : "CC=CCC(C)C(O)C(N)C(=O)O",
+  "isomeric" : "C[C@H](C/C=C/C)[C@@H](O)[C@H](N)C(=O)O",
+  "molecularWeight" : 187.23618
+}, {
+  "code" : "bOH-Br-Phe",
+  "nameAA" : "beta-hydroxy-bromophenylalanine",
+  "type" : "unknown",
+  "molecularFormula" : "C9H10BrNO3",
+  "pubchem" : "23570533",
+  "iupac" : "2-amino-3-(4-bromophenyl)-3-hydroxypropanoic acid",
+  "smiles" : "NC(C(=O)O)C(O)c1ccc(cc1)Br",
+  "molecularWeight" : 260.0846
+}, {
+  "code" : "bOH-Cl-Tyr",
+  "nameAA" : "beta-hydroxy-chloro-tyrosine",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H10ClNO4",
+  "pubchem" : "19383048",
+  "iupac" : "2-amino-3-(3-chloro-4-hydroxyphenyl)-3-hydroxypropanoic acid",
+  "smiles" : "NC(C(=O)O)C(O)c1ccc(O)c(c1)Cl",
+  "molecularWeight" : 231.63301
+}, {
+  "code" : "bOH-Gln",
+  "nameAA" : "beta-hydroxyglutamine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H10N2O4",
+  "pubchem" : "22592766",
+  "iupac" : "2,5-diamino-3-hydroxy-5-oxopentanoic acid",
+  "smiles" : "NC(=O)CC(O)C(N)C(=O)O",
+  "molecularWeight" : 162.1439
+}, {
+  "code" : "bOH-NMe-Phe",
+  "nameAA" : "beta-hydroxy-N-Methyl-Phenylalanine",
+  "synonym" : "3-hydroxy-N-methylphenylalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C10H13NO3",
+  "pubchem" : "13683857",
+  "iupac" : "3-hydroxy-2-methylamino-3-phenylpropanoic acid",
+  "smiles" : "CNC(C(=O)O)C(O)c1ccccc1",
+  "molecularWeight" : 195.21512
+}, {
+  "code" : "bOH-NMe-Val",
+  "nameAA" : "beta-hydroxy-N-Methyl-Valine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13NO3",
+  "pubchem" : "11029982",
+  "iupac" : "3-hydroxy-3-methyl-2-methylaminobutanoic acid",
+  "smiles" : "CNC(C(=O)O)C(C)(C)O",
+  "molecularWeight" : 147.17233
+}, {
+  "code" : "bOH-Tyr",
+  "nameAA" : "beta-hydroxy-tyrosine",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H11NO4",
+  "pubchem" : "13309269",
+  "iupac" : "2-amino-3-hydroxy-3-(4-hydroxyphenyl)propanoic acid",
+  "smiles" : "NC(C(=O)O)C(O)c1ccc(O)cc1",
+  "molecularWeight" : 197.18794
+}, {
+  "code" : "bOH-Val",
+  "nameAA" : "beta-hydroxyvaline",
+  "synonym" : "3-Hydroxy-L-valine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO3",
+  "pubchem" : "192763",
+  "iupac" : "(2S)-2-amino-3-hydroxy-3-methylbutanoic acid",
+  "smiles" : "CC(C)(O)C(N)C(=O)O",
+  "isomeric" : "CC(C)([C@@H](C(=O)O)N)O",
+  "molecularWeight" : 133.14574,
+  "corres" : "HVA"
+}, {
+  "code" : "bOMe-Asp",
+  "nameAA" : "beta-methoxy-aspartic acid",
+  "synonym" : "Aspartic acid, 4-methyl ester L-",
+  "type" : "unknown",
+  "molecularFormula" : "C5H9NO4",
+  "pubchem" : "102699",
+  "iupac" : "2-amino-4-methoxy-4-oxobutanoic acid",
+  "smiles" : "COC(=O)CC(N)C(=O)O",
+  "molecularWeight" : 147.12926
+}, {
+  "code" : "bOMe-Tyr",
+  "nameAA" : "beta-methoxy-tyrosine",
+  "type" : "unknown",
+  "molecularFormula" : "C10H13NO4",
+  "pubchem" : "23143915",
+  "iupac" : "2-amino-3-(4-hydroxyphenyl)-3-methoxypropanoic acid",
+  "smiles" : "COC(C(N)C(=O)O)c1ccc(O)cc1",
+  "molecularWeight" : 211.21452
+}, {
+  "code" : "bPhe",
+  "nameAA" : "beta phenylalanine",
+  "synonym" : "3-Amino-3-phenylpropionic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H11NO2",
+  "pubchem" : "10386037",
+  "iupac" : "3-amino-3-phenylpropanoic acid",
+  "smiles" : "NC(CC(=O)O)c1ccccc1",
+  "molecularWeight" : 165.18913
+}, {
+  "code" : "Br-OH-Trp",
+  "nameAA" : "2-bromo-5-hydroxytryptophan",
+  "type" : "unknown",
+  "molecularFormula" : "C11H11BrN2O3",
+  "smiles" : "NC(Cc1c2cc(O)ccc2([nH]c1Br))C(=O)O",
+  "molecularWeight" : 299.12064
+}, {
+  "code" : "Br-Phe",
+  "nameAA" : "bromophenylalanine",
+  "synonym" : "4-Bromophenylalanine,para-Bromophenylalanine",
+  "type" : "unknown",
+  "molecularFormula" : "C9H10BrNO2",
+  "pubchem" : "85681",
+  "iupac" : "2-amino-3-(4-bromophenyl)propanoic acid",
+  "smiles" : "NC(Cc1ccc(cc1)Br)C(=O)O",
+  "molecularWeight" : 244.0852,
+  "corres" : "4BF"
+}, {
+  "code" : "Br-Trp",
+  "nameAA" : "5-bromo-tryptophan",
+  "type" : "unknown",
+  "molecularFormula" : "C11H11BrN2O2",
+  "pubchem" : "96735",
+  "iupac" : "2-amino-3-(5-bromo-1H-indol-3-yl)propanoic acid",
+  "smiles" : "NC(Cc1c[nH]c2ccc(cc12)Br)C(=O)O",
+  "molecularWeight" : 283.12125
+}, {
+  "code" : "Br-Tyr",
+  "nameAA" : "bromotyrosine",
+  "type" : "unknown",
+  "molecularFormula" : "C9H10BrNO3",
+  "pubchem" : "148708",
+  "iupac" : "2-amino-3-(3-bromo-4-hydroxyphenyl)propanoic acid",
+  "smiles" : "NC(Cc1ccc(O)c(c1)Br)C(=O)O",
+  "molecularWeight" : 260.0846,
+  "corres" : "BYR"
+}, {
+  "code" : "bTyr",
+  "nameAA" : "beta-tyrosine",
+  "synonym" : "3-Amino-3-(4-hydroxyphenyl)propanoate",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H11NO3",
+  "pubchem" : "440311",
+  "iupac" : "3-amino-3-(4-hydroxyphenyl)propanoic acid",
+  "smiles" : "NC(CC(=O)O)c1ccc(O)cc1",
+  "molecularWeight" : 181.18854
+}, {
+  "code" : "bU-dAla",
+  "nameAA" : "beta-ureido-dehydroAlanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H7N3O3",
+  "smiles" : "NC(=O)NC=C(N)C(O)=O",
+  "molecularWeight" : 145.11667,
+  "corres" : "UAL"
+}, {
+  "code" : "Bz",
+  "nameAA" : "benzoic acid",
+  "synonym" : "benzoate,phenylformic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C7H6O2",
+  "pubchem" : "243",
+  "iupac" : "benzoic acid",
+  "smiles" : "O=C(O)c1ccccc1",
+  "molecularWeight" : 122.121346,
+  "corres" : "BEZ"
+}, {
+  "code" : "C10:0",
+  "nameAA" : "decanoic acid",
+  "synonym" : "capric acid,n-decanoic acid,decylic acid,n-capric acid,caprinic acid,decoic acid,caprynic acid,n-decylic acid,n-decoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C10H20O2",
+  "pubchem" : "2969",
+  "iupac" : "decanoic acid",
+  "smiles" : "CCCCCCCCCC(=O)O",
+  "molecularWeight" : 172.2646,
+  "corres" : "DKA"
+}, {
+  "code" : "C10:0:1(9)-Me(2.4)",
+  "nameAA" : "2,4-dimethyl-dec-9-ynoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C12H20O2",
+  "smiles" : "C#CCCCCC(C)CC(C)C(=O)O",
+  "molecularWeight" : 196.286
+}, {
+  "code" : "C10:0-Me(2.2.4)-OH(3.7)",
+  "nameAA" : "3-hydroxy-2,2,4-trimethyl-7-hydroxydecanoic acid",
+  "synonym" : "3-hydroxy-2,2,4-trimethyl-7-hydroxydecanoate",
+  "type" : "unknown",
+  "molecularFormula" : "C13H26O4",
+  "smiles" : "CCCC(O)CCC(C)C(O)C(C)(C)C(=O)O",
+  "molecularWeight" : 246.34314
+}, {
+  "code" : "C10:0-Me(2.2.4)-OH(3)-OMe(7)",
+  "nameAA" : "3-hydroxy-2,2,4-trimethyl-7-methoxydecanoic acid",
+  "synonym" : "3-hydroxy-2,2,4-trimethyl-7-methoxydecanoate",
+  "type" : "unknown",
+  "molecularFormula" : "C14H28O4",
+  "smiles" : "CCCC(CCC(C)C(O)C(C)(C)C(O)=O)OC",
+  "molecularWeight" : 260.36975
+}, {
+  "code" : "C10:0-Me(2.4)-oxo(9)",
+  "nameAA" : "9-oxo-2,4-dimethyldecanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C12H22O3",
+  "smiles" : "CC(=O)CCCCC(C)CC(C)C(=O)O",
+  "molecularWeight" : 214.30128
+}, {
+  "code" : "C10:0-Me(2)-OH(3)",
+  "nameAA" : "3-hydroxy-2-methyl-decanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C11H22O3",
+  "pubchem" : "19591843",
+  "iupac" : "3-hydroxy-2-methyldecanoic acid",
+  "smiles" : "CCCCCCCC(O)C(C)C(=O)O",
+  "molecularWeight" : 202.29059
+}, {
+  "code" : "C10:0-Me(4)-OH(3)",
+  "nameAA" : "3-hydroxy-4-methyl-decanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C11H22O3",
+  "smiles" : "CCCCCCC(C)C(O)CC(O)=O",
+  "molecularWeight" : 202.29059
+}, {
+  "code" : "C10:0-NH2(2)-Ep(9)-oxo(8)",
+  "nameAA" : "2-amino-9,10-epoxi-8-oxodecanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C10H17NO4",
+  "pubchem" : "12917729",
+  "iupac" : "2-amino-8-(oxiran-2-yl)-8-oxooctanoic acid",
+  "smiles" : "NC(CCCCCC(=O)C1CO1)C(=O)O",
+  "molecularWeight" : 215.24628
+}, {
+  "code" : "C10:0-NH2(2)-oxo(8)",
+  "nameAA" : "2-amino-8-oxo-decanoic acid",
+  "synonym" : "2-amino-8-oxo-decanoate",
+  "type" : "unknown",
+  "molecularFormula" : "C10H19NO3",
+  "smiles" : "CCC(=O)CCCCCC(N)C(=O)O",
+  "molecularWeight" : 201.26276
+}, {
+  "code" : "C10:0-OH(2)-NH2(3)",
+  "nameAA" : "3-amino-2-hydroxy decanoic acid",
+  "molecularFormula" : "C10H21NO3",
+  "pubchem" : "57484230",
+  "iupac" : "3-amino-2-hydroxydecanoic acid",
+  "smiles" : "CCCCCCCC(N)C(O)C(=O)O",
+  "molecularWeight" : 203.282,
+  "corres" : "AHY"
+}, {
+  "code" : "C10:0-OH(3)",
+  "nameAA" : "3-hydroxy-decanoic acid",
+  "synonym" : "Myrmicacin,3-HYDROXYCAPRIC ACID",
+  "type" : "FAS",
+  "molecularFormula" : "C10H20O3",
+  "pubchem" : "26612",
+  "iupac" : "3-hydroxydecanoic acid",
+  "smiles" : "CCCCCCCC(O)CC(=O)O",
+  "molecularWeight" : 188.26399,
+  "corres" : "5UF"
+}, {
+  "code" : "C10:0-OH(8)-NH2(2)",
+  "nameAA" : "8-hydroxy-2-amino-decanoic acid",
+  "synonym" : "8-hydroxy-2-amino-decanoate",
+  "type" : "unknown",
+  "molecularFormula" : "C10H21NO3",
+  "smiles" : "CCC(O)CCCCCC(N)C(=O)O",
+  "molecularWeight" : 203.27863
+}, {
+  "code" : "C10:0-OH(9)-NH2(2)",
+  "nameAA" : "9-hydroxy-2-amino-decanoic acid",
+  "synonym" : "9-hydroxy-2-amino-decanoate",
+  "type" : "unknown",
+  "molecularFormula" : "C10H21NO3",
+  "smiles" : "CC(O)CCCCCCC(N)C(=O)O",
+  "molecularWeight" : 203.27863
+}, {
+  "code" : "C10:0-OH(9)-NH2(2)-oxo(8)",
+  "nameAA" : "9-hydroxy-2-amino-8-oxo-decanoic acid",
+  "synonym" : "9-hydroxy-2-amino-8-oxo-decanoate",
+  "type" : "unknown",
+  "molecularFormula" : "C10H19NO4",
+  "smiles" : "CC(O)C(=O)CCCCCC(N)C(=O)O",
+  "molecularWeight" : 217.26216
+}, {
+  "code" : "C10:0-oxo(3)",
+  "nameAA" : "3-oxo-decanoic acid",
+  "synonym" : "3-oxo capric acid",
+  "molecularFormula" : "C10H18O3",
+  "pubchem" : "5282982",
+  "iupac" : "3-oxodecanoic acid",
+  "smiles" : "CCCCCCCC(=O)CC(O)=O",
+  "isomeric" : "CCCCCCCC(=O)CC(O)=O",
+  "molecularWeight" : 186.25
+}, {
+  "code" : "C10:2(7.9)-OH(2.4.5)-NH2(3)-ePh(10)",
+  "nameAA" : "3-amino-10-(p-ethoxyphenyl)-2,4,5-trihydroxydeca-7,9-dienoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C18H25NO6",
+  "smiles" : "CCOc1ccc(C=CC=CCC(O)C(O)C(N)C(O)C(O)=O)cc1",
+  "molecularWeight" : 351.39423
+}, {
+  "code" : "C11:0-Me(2)-OH(3)",
+  "nameAA" : "3-hydroxy-2-methyl-undecanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C12H24O3",
+  "pubchem" : "19591812",
+  "iupac" : "3-hydroxy-2-methylundecanoic acid",
+  "smiles" : "CCCCCCCCC(O)C(C)C(=O)O",
+  "molecularWeight" : 216.31717
+}, {
+  "code" : "C11:0-OH(3)",
+  "nameAA" : "3-hydroxy-undecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C11H22O3",
+  "pubchem" : "3083221",
+  "iupac" : "3-hydroxyundecanoic acid",
+  "smiles" : "CCCCCCCCC(O)CC(=O)O",
+  "molecularWeight" : 202.29059
+}, {
+  "code" : "C11:2(t2.t8)-Me(2.6.8)-OH(5.7)",
+  "nameAA" : "2,6,8-trimethyl-5,7-dihydroxy-trans2,trans8-undecenoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C14H24O4",
+  "smiles" : "CCC=C(C)C(O)C(C)C(O)CC=C(C)C(O)=O",
+  "molecularWeight" : 256.33798
+}, {
+  "code" : "C12:0",
+  "nameAA" : "dodecanoic acid",
+  "synonym" : "lauric acid,Duodecylic acid,Dodecylic acid,Dodecoic acid,Vulvic acid,Laurostearic acid,Dodecanoate",
+  "type" : "FAS",
+  "molecularFormula" : "C12H24O2",
+  "pubchem" : "3893",
+  "iupac" : "dodecanoic acid",
+  "smiles" : "CCCCCCCCCCCC(=O)O",
+  "molecularWeight" : 200.31776,
+  "corres" : "DAO"
+}, {
+  "code" : "C12:0-OH(3)",
+  "nameAA" : "3-hydroxy-dodecanoic acid",
+  "synonym" : "beta-Hydroxylauric acid,3-Hydroxylauric acid",
+  "type" : "FAS",
+  "molecularFormula" : "C12H24O3",
+  "pubchem" : "94216",
+  "iupac" : "3-hydroxydodecanoic acid",
+  "smiles" : "CCCCCCCCCC(O)CC(=O)O",
+  "molecularWeight" : 216.31717,
+  "corres" : "HXD"
+}, {
+  "code" : "C12:1(11)-Me(6)-OH(2.4.5)-NH2(3)-mPhe(11)",
+  "nameAA" : "3-amino-6-methyl-12-(p-methoxyphenyl)-2,4,5-trihydroxydodec-11-enoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C20H31NO6",
+  "smiles" : "COc1ccc(C=CCCCCC(C)C(O)C(O)C(N)C(O)C(O)=O)cc1",
+  "molecularWeight" : 381.46326
+}, {
+  "code" : "C12:1(5)",
+  "nameAA" : "2-methyl-5-dodecenoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C12H22O2",
+  "pubchem" : "151007",
+  "iupac" : "dodec-5-enoic acid",
+  "smiles" : "CCCCCCC=CCCCC(=O)O",
+  "molecularWeight" : 198.30188
+}, {
+  "code" : "C12:1(5)-OH(3)",
+  "nameAA" : "3-hydroxy-5-dodecenoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C12H22O3",
+  "smiles" : "CCCCCCC=CCC(O)CC(O)=O",
+  "molecularWeight" : 214.30128
+}, {
+  "code" : "C12:3(7.9.11)-Me(6.10)-OH(2.4.5)-NH2(3)-Ph(12)",
+  "nameAA" : "3-amino-6,10-dimethyl-12-phenyl-2,4,5-trihydroxydodeca-7,9,11-trienoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C20H27NO5",
+  "smiles" : "CC(=CC=CC(C)C(O)C(O)C(N)C(O)C(O)=O)C=Cc1ccccc1",
+  "molecularWeight" : 361.4321
+}, {
+  "code" : "C12:3(7.9.11)-Me(6)-OH(2.4.5)-NH2(3)-Ph(12)",
+  "nameAA" : "3-amino-6-methyl-12-phenyl-2,4,5-trihydroxydodeca-7,9,11-trienoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C19H25NO5",
+  "smiles" : "CC(C=CC=CC=Cc1ccccc1)C(O)C(O)C(N)C(O)C(O)=O",
+  "molecularWeight" : 347.40552
+}, {
+  "code" : "C13:0-NH2(3)",
+  "nameAA" : "3-amino-tridecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C13H27NO2",
+  "smiles" : "CCCCCCCCCCC(N)CC(O)=O",
+  "molecularWeight" : 229.35898
+}, {
+  "code" : "C13:0-OH(3)",
+  "nameAA" : "3-hydroxy-tridecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C13H26O3",
+  "pubchem" : "5312749",
+  "iupac" : "3-hydroxytridecanoic acid",
+  "smiles" : "CCCCCCCCCCC(O)CC(=O)O",
+  "molecularWeight" : 230.34373
+}, {
+  "code" : "C13:2(t4.t6)-OH(2.3)",
+  "nameAA" : "2,3-dihydroxy-trans4,trans6-tridecenoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C13H22O4",
+  "smiles" : "CCCCCCC=CC=CC(O)C(O)C(O)=O",
+  "molecularWeight" : 242.31139
+}, {
+  "code" : "C14:0",
+  "nameAA" : "tetradecanoic acid",
+  "synonym" : "myristic acid,crodacid,n-tetradecanoic acid,n-tetracoic acid,myristinsaeure,tetradecanoate,C 14 fatty acid",
+  "type" : "FAS",
+  "molecularFormula" : "C14H28O2",
+  "pubchem" : "11005",
+  "iupac" : "tetradecanoic acid",
+  "smiles" : "CCCCCCCCCCCCCC(=O)O",
+  "molecularWeight" : 228.37093,
+  "corres" : "MYR"
+}, {
+  "code" : "C14:0-NH2(3)",
+  "nameAA" : "3-amino-tetradecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C14H29NO2",
+  "pubchem" : "15677578",
+  "iupac" : "3-aminotetradecanoic acid",
+  "smiles" : "CCCCCCCCCCCC(N)CC(=O)O",
+  "molecularWeight" : 243.38556
+}, {
+  "code" : "C14:0-OH(3)",
+  "nameAA" : "3-hydroxy-tetradecanoic acid",
+  "synonym" : "3-hydroxymyristic acid,beta-hydroxymyristic acid,beta-hydroxytetradecanoic acid,DL-beta-hydroxymyrisyic acid,(RS)-3-hydroxytetradecanoic acid,(3R)-3-hydroxytetradecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C14H28O3",
+  "pubchem" : "16064",
+  "iupac" : "3-hydroxytetradecanoic acid",
+  "smiles" : "CCCCCCCCCCCC(O)CC(=O)O",
+  "molecularWeight" : 244.37033,
+  "corres" : "FTT"
+}, {
+  "code" : "C14:0-OH(3.4)",
+  "nameAA" : "3,4-dihydroxy-tetradecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C14H28O4",
+  "pubchem" : "22667431",
+  "iupac" : "3,4-dihydroxytetradecanoic acid",
+  "smiles" : "CCCCCCCCCCC(O)C(O)CC(=O)O",
+  "molecularWeight" : 260.36975
+}, {
+  "code" : "C14:1(7)",
+  "nameAA" : "7-tetradecenoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C14H26O2",
+  "smiles" : "CCCCCCC=CCCCCCC(O)=O",
+  "molecularWeight" : 226.35504
+}, {
+  "code" : "C14:2(t4.t6)-OH(2.3)",
+  "nameAA" : "2,3-dihydroxy-trans4,trans6-tetradecenoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C14H24O4",
+  "smiles" : "CCCCCCCC=CC=CC(O)C(O)C(O)=O",
+  "molecularWeight" : 256.33798
+}, {
+  "code" : "C15:0-NH2(3)",
+  "nameAA" : "3-amino-pentadecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C15H31NO2",
+  "smiles" : "CCCCCCCCCCCCC(N)CC(O)=O",
+  "molecularWeight" : 257.41214
+}, {
+  "code" : "C15:0-OH(3)",
+  "nameAA" : "3-hydroxy-pentadecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C15H30O3",
+  "pubchem" : "182089",
+  "iupac" : "3-hydroxypentadecanoic acid",
+  "smiles" : "CCCCCCCCCCCCC(O)CC(=O)O",
+  "molecularWeight" : 258.3969
+}, {
+  "code" : "C15:2(t4.t6)-OH(2.3)",
+  "nameAA" : "2,3-dihydroxy-trans4,trans6-pentadecenoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C15H26O4",
+  "smiles" : "CCCCCCCCC=CC=CC(O)C(O)C(O)=O",
+  "molecularWeight" : 270.36456
+}, {
+  "code" : "C16:0",
+  "nameAA" : "hexadecanoic acid",
+  "synonym" : "palmitic acid,palmitate,hexadecylic acid,cetylic acid,n-hexadecanoic acid,hexadecanoate,n-hexadecoic acid,hydrofol,palmitinsaeure",
+  "type" : "FAS",
+  "molecularFormula" : "C16H32O2",
+  "pubchem" : "985",
+  "iupac" : "hexadecanoic acid",
+  "smiles" : "CCCCCCCCCCCCCCCC(=O)O",
+  "molecularWeight" : 256.42407,
+  "corres" : "PLM"
+}, {
+  "code" : "C16:0-NH2(3)",
+  "nameAA" : "3-amino-hexadecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C16H33NO2",
+  "pubchem" : "17880127",
+  "iupac" : "3-aminohexadecanoic acid",
+  "smiles" : "CCCCCCCCCCCCCC(N)CC(=O)O",
+  "molecularWeight" : 271.43872
+}, {
+  "code" : "C16:0-OH(3)",
+  "nameAA" : "3-hydroxy-hexadecanoic acid",
+  "synonym" : "3-hydroxypalmitic acid,beta-hydroxypalmitic acid,beta hydroxyhexadecanoic acid,DL-beta-hydroxypalmitic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C16H32O3",
+  "pubchem" : "301590",
+  "iupac" : "3-hydroxyhexadecanoic acid",
+  "smiles" : "CCCCCCCCCCCCCC(O)CC(=O)O",
+  "molecularWeight" : 272.4235
+}, {
+  "code" : "C16:0-OH(3.4)",
+  "nameAA" : "3,4-dihydroxy-hexadecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C16H32O4",
+  "pubchem" : "22348653",
+  "iupac" : "3,4-dihydroxyhexadecanoic acid",
+  "smiles" : "CCCCCCCCCCCCC(O)C(O)CC(=O)O",
+  "molecularWeight" : 288.42288
+}, {
+  "code" : "C16:1(7)",
+  "nameAA" : "7-hexadecenoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C16H30O2",
+  "smiles" : "CCCCCCCCC=CCCCCCC(=O)O",
+  "molecularWeight" : 254.4082
+}, {
+  "code" : "C16:1(9)",
+  "nameAA" : "9-hexadecenoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C16H30O2",
+  "pubchem" : "5282745",
+  "iupac" : "(E)-hexadec-9-enoic acid",
+  "smiles" : "CCCCCCC=CCCCCCCCC(=O)O",
+  "isomeric" : "CCCCCCC=CCCCCCCCC(=O)O",
+  "molecularWeight" : 254.4082,
+  "corres" : "PAM"
+}, {
+  "code" : "C16:1(9)-OH(3)",
+  "nameAA" : "3-hydroxy-9-hexadecenoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C16H30O3",
+  "smiles" : "CCCCCCC=CCCCCCC(O)CC(O)=O",
+  "molecularWeight" : 270.4076
+}, {
+  "code" : "C18:1(9)",
+  "nameAA" : "9-octadecenoic acid",
+  "synonym" : "oleic acid,oleate,OLEATE-CPD",
+  "type" : "FAS",
+  "molecularFormula" : "C18H34O2",
+  "pubchem" : "965",
+  "iupac" : "octadec-9-enoic acid",
+  "smiles" : "CCCCCCCCC=CCCCCCCCC(=O)O",
+  "molecularWeight" : 282.46136,
+  "corres" : "OLA"
+}, {
+  "code" : "C18:1(9)-OH(3)",
+  "nameAA" : "3-hydroxy-9-octadecenoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C18H34O3",
+  "smiles" : "CCCCCCCCC=CCCCCCC(O)CC(O)=O",
+  "molecularWeight" : 298.46075
+}, {
+  "code" : "C4:0",
+  "nameAA" : "butanoic acid",
+  "synonym" : "butyric acid,butyrate,ethylacetic acid,propylformic acid,Butanic acid,butanoate",
+  "type" : "unknown",
+  "molecularFormula" : "C4H8O2",
+  "pubchem" : "264",
+  "iupac" : "butanoic acid",
+  "smiles" : "CCCC(=O)O",
+  "molecularWeight" : 88.105125,
+  "corres" : "BUA"
+}, {
+  "code" : "C4:0-Me(2)",
+  "nameAA" : "2-methyl-butanoic acid",
+  "synonym" : "2-Methybutyric acid,Polyacrylate,Carbomer,Carpolene,2-Methylbutyrate,Ethylmethylacetic acid,Methylethylacetic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C5H10O2",
+  "pubchem" : "8314",
+  "iupac" : "2-methylbutanoic acid",
+  "smiles" : "CCC(C)C(=O)O",
+  "molecularWeight" : 102.1317,
+  "corres" : "SMB"
+}, {
+  "code" : "C4:0-OH(2.3)",
+  "nameAA" : "2,3-dihydroxy-butanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C4H8O4",
+  "pubchem" : "250402",
+  "iupac" : "2,3-dihydroxybutanoic acid",
+  "smiles" : "CC(O)C(O)C(=O)O",
+  "molecularWeight" : 120.10393
+}, {
+  "code" : "C4:0-OH(2.3.4)",
+  "nameAA" : "2,3,4-trihydroxy-butanoic acid",
+  "synonym" : "Threonate,Threonic acid,2,3,4-trihydroxybutanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C4H8O5",
+  "pubchem" : "439535",
+  "iupac" : "2,3,4-trihydroxybutanoic acid",
+  "smiles" : "OCC(O)C(O)C(=O)O",
+  "molecularWeight" : 136.10332
+}, {
+  "code" : "C4:0-OH(2.3)-Cl(4)",
+  "nameAA" : "2,3-dihydroxy-4-chloro-butanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C4H7ClO4",
+  "smiles" : "O=C(O)C(O)C(O)CCl",
+  "molecularWeight" : 154.54898
+}, {
+  "code" : "C4:0-OH(2)-Ep(3)",
+  "nameAA" : "2-hydroxy-3-epoxy-butanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C4H6O4",
+  "pubchem" : "21433427",
+  "iupac" : "2-hydroxy-2-(oxiran-2-yl)acetic acid",
+  "smiles" : "O=C(O)C(O)C1CO1",
+  "molecularWeight" : 118.08804
+}, {
+  "code" : "C4:0-OH(3)",
+  "nameAA" : "3-hydroxybutanoic acid",
+  "synonym" : "beta-hydroxybutyrate,3-hydroxybutyric acid",
+  "type" : "unknown",
+  "molecularFormula" : "C4H8O3",
+  "pubchem" : "441",
+  "iupac" : "3-hydroxybutanoic acid",
+  "smiles" : "CC(O)CC(=O)O",
+  "molecularWeight" : 104.10452,
+  "corres" : "3HL"
+}, {
+  "code" : "C4:1(3)-OH(2)",
+  "nameAA" : "2-hydroxy-3-butenoic acid",
+  "synonym" : "Vinylglycolic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C4H6O3",
+  "pubchem" : "160534",
+  "iupac" : "2-hydroxybut-3-enoic acid",
+  "smiles" : "C=CC(O)C(=O)O",
+  "molecularWeight" : 102.08864
+}, {
+  "code" : "C5:0-NH2(3)",
+  "nameAA" : "3-amino-pentanoic acid",
+  "synonym" : "3-Amino-valeric acid",
+  "type" : "unknown",
+  "molecularFormula" : "C5H11NO2",
+  "pubchem" : "14731978",
+  "iupac" : "3-aminopentanoic acid",
+  "smiles" : "CCC(N)CC(=O)O",
+  "isomeric" : "",
+  "molecularWeight" : 117.14634,
+  "corres" : ""
+}, {
+  "code" : "C5:0-OH(2)-Ep(4)",
+  "nameAA" : "2-hydroxy-3-(oxiran-2-yl)propanoic acid",
+  "molecularFormula" : "C5H8O4",
+  "pubchem" : "54305979",
+  "iupac" : "2-hydroxy-3-(oxiran-2-yl)propanoic acid",
+  "smiles" : "O=C(O)C(O)CC1CO1",
+  "molecularWeight" : 132.115
+}, {
+  "code" : "C5:1(4)-OH(2)",
+  "nameAA" : "beta-vinyllactic acid",
+  "molecularFormula" : "C5H8O3",
+  "pubchem" : "172026",
+  "iupac" : "2-hydroxypent-4-enoic acid",
+  "smiles" : "C=CCC(O)C(=O)O",
+  "molecularWeight" : 116.116
+}, {
+  "code" : "C6:0",
+  "nameAA" : "hexanoic acid",
+  "synonym" : "Caproic acid,Capronic acid,Butylacetic acid,Pentiformic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C6H12O2",
+  "pubchem" : "8892",
+  "iupac" : "hexanoic acid",
+  "smiles" : "CCCCCC(=O)O",
+  "molecularWeight" : 116.15829,
+  "corres" : "6NA"
+}, {
+  "code" : "C6:0-Ep(2)",
+  "nameAA" : "2-epoxy-hexanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C6H10O3",
+  "pubchem" : "13440533",
+  "iupac" : "3-propyloxirane-2-carboxylic acid",
+  "smiles" : "CCCC1OC1(C(=O)O)",
+  "molecularWeight" : 130.1418
+}, {
+  "code" : "C6:0-Me(2.2)-OH(3)",
+  "nameAA" : "2,2-dimethyl-3-hydroxyhexanoic acid",
+  "synonym" : "2,2-dimethyl-3-hydroxyhexanoate",
+  "type" : "unknown",
+  "molecularFormula" : "C8H16O3",
+  "smiles" : "CCCC(O)C(C)(C)C(=O)O",
+  "molecularWeight" : 160.21085
+}, {
+  "code" : "C6:0-Me(2)-NH2(3)",
+  "nameAA" : "2-methyl-3-aminohexadecanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C7H15NO2",
+  "smiles" : "CCCC(N)C(C)C(=O)O",
+  "molecularWeight" : 145.19951
+}, {
+  "code" : "C6:0-Me(5.5)-oxo(2)",
+  "nameAA" : "5,5-dimethyl-2-oxo-hexanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C8H14O3",
+  "pubchem" : "21197379",
+  "iupac" : "5,5-dimethyl-2-oxohexanoic acid",
+  "smiles" : "CC(C)(C)CCC(=O)C(=O)O",
+  "molecularWeight" : 158.19496,
+  "corres" : "MHE"
+}, {
+  "code" : "C6:0-OH(3)",
+  "nameAA" : "3-hydroxy-hexanoic acid",
+  "synonym" : "3-Hydroxycaproic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C6H12O3",
+  "pubchem" : "151492",
+  "iupac" : "3-hydroxyhexanoic acid",
+  "smiles" : "CCCC(O)CC(=O)O",
+  "molecularWeight" : 132.15768
+}, {
+  "code" : "C6:0-OH(3.5)-NH2(4)",
+  "nameAA" : "3.5-hydroxy-4-amino-hexadecanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C6H13NO4",
+  "smiles" : "CC(O)C(N)C(O)CC(O)=O",
+  "molecularWeight" : 163.17172
+}, {
+  "code" : "C6:0-OMe(3)",
+  "nameAA" : "3-methoxy-hexanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C7H14O3",
+  "pubchem" : "314154",
+  "iupac" : "3-methoxyhexanoic acid",
+  "smiles" : "CCCC(CC(=O)O)OC",
+  "molecularWeight" : 146.18427
+}, {
+  "code" : "C6:2(t2.t4)",
+  "nameAA" : "trans2,trans4-dihexaneic acid",
+  "type" : "PKS",
+  "molecularFormula" : "C6H8O2",
+  "pubchem" : "5251",
+  "iupac" : "hexa-2,4-dienoic acid",
+  "smiles" : "CC=CC=CC(=O)O",
+  "molecularWeight" : 112.126526
+}, {
+  "code" : "C7:0",
+  "nameAA" : "heptanoic acid",
+  "synonym" : "Enanthic acid,Heptylic acid,Heptoic acid,Enanthylic acid,Oenanthic acid,Oenanthylic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C7H14O2",
+  "pubchem" : "8094",
+  "iupac" : "heptanoic acid",
+  "smiles" : "CCCCCCC(=O)O",
+  "molecularWeight" : 130.18488,
+  "corres" : "SHV"
+}, {
+  "code" : "C7:0-Me(2)-OH(3)",
+  "nameAA" : "3-hydroxy-2-methyl-heptanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C8H16O3",
+  "smiles" : "CCCCC(O)C(C)C(O)=O",
+  "molecularWeight" : 160.21085
+}, {
+  "code" : "C7:0-OH(3)",
+  "nameAA" : "3-hydroxy-heptanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C7H14O3",
+  "pubchem" : "3083220",
+  "iupac" : "3-hydroxyheptanoic acid",
+  "smiles" : "CCCCC(O)CC(=O)O",
+  "molecularWeight" : 146.18427
+}, {
+  "code" : "C8:0",
+  "nameAA" : "octanoic acid",
+  "synonym" : "caprylic acid,Octylic acid,Enantic acid,capryloate",
+  "type" : "FAS",
+  "molecularFormula" : "C8H16O2",
+  "pubchem" : "379",
+  "iupac" : "octanoic acid",
+  "smiles" : "CCCCCCCC(=O)O",
+  "molecularWeight" : 144.21144,
+  "corres" : "OCA"
+}, {
+  "code" : "C8:0:1(7)",
+  "nameAA" : "oct-7-ynoic acid",
+  "synonym" : "7-Octynoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C8H12O2",
+  "pubchem" : "5312700",
+  "iupac" : "oct-7-ynoic acid",
+  "smiles" : "C#CCCCCCC(=O)O",
+  "molecularWeight" : 140.17967
+}, {
+  "code" : "C8:0:1(7)-Me(2)",
+  "nameAA" : "2-methylact-7-ynoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C9H14O2",
+  "smiles" : "C#CCCCCC(C)C(O)=O",
+  "molecularWeight" : 154.20625
+}, {
+  "code" : "C8:0:1(7)-Me(2.2)-OH(3)",
+  "nameAA" : "2,2-dimethyl-3-hydroxy-7-octynoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C10H16O3",
+  "smiles" : "C#CCCCC(O)C(C)(C)C(O)=O",
+  "molecularWeight" : 184.23224
+}, {
+  "code" : "C8:0:1(7)-Me(2)-NH2(3)",
+  "nameAA" : "3-amino-2-methyloct-7-ynoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C9H15NO2",
+  "smiles" : "C#CCCCC(N)C(C)C(=O)O",
+  "molecularWeight" : 169.22089
+}, {
+  "code" : "C8:0:1(7)-Me(2)-OH(3)",
+  "nameAA" : "2-methyl-3-hydroxy-7-octynoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C9H14O3",
+  "smiles" : "C#CCCCC(O)C(C)C(O)=O",
+  "molecularWeight" : 170.20566
+}, {
+  "code" : "C8:0-Me(2.2)-OH(3)",
+  "nameAA" : "2,2-dimethyl-3-hydroxy-octanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C10H20O3",
+  "smiles" : "CCCCCC(O)C(C)(C)C(O)=O",
+  "molecularWeight" : 188.26399
+}, {
+  "code" : "C8:0-Me(4)-OH(3)",
+  "nameAA" : "4-methyl-3-hydroxy-octanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C9H18O3",
+  "pubchem" : "18408232",
+  "iupac" : "3-hydroxy-4-methyloctanoic acid",
+  "smiles" : "CCCCC(C)C(O)CC(=O)O",
+  "molecularWeight" : 174.23743
+}, {
+  "code" : "C8:0-OH(3)",
+  "nameAA" : "3-hydroxy-octanoic acid",
+  "synonym" : "3-hydroxycaprylic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C8H16O3",
+  "pubchem" : "26613",
+  "iupac" : "3-hydroxyoctanoic acid",
+  "smiles" : "CCCCCC(O)CC(=O)O",
+  "molecularWeight" : 160.21085,
+  "corres" : "3HO"
+}, {
+  "code" : "C8:1(7)-Me(2.2)-OH(3)",
+  "nameAA" : "2,2-dimethyl-3-hydroxy-7-octenoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C10H18O3",
+  "smiles" : "C=CCCCC(O)C(C)(C)C(O)=O",
+  "molecularWeight" : 186.24811
+}, {
+  "code" : "C8:1(7)-OH(2.4.5)-NH2(3)-Ph(8)",
+  "nameAA" : "3-amino-8-phenyl-2.4.5-trihydroxyoct-7-enoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C14H19NO5",
+  "smiles" : "NC(C(O)C(O)=O)C(O)C(O)CC=Cc1ccccc1",
+  "molecularWeight" : 281.30438
+}, {
+  "code" : "C8:2(2.t4)",
+  "nameAA" : "2,trans4-octenoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C8H12O2",
+  "smiles" : "CCCC=CC=CC(=O)O",
+  "molecularWeight" : 140.17967
+}, {
+  "code" : "C8:2(5.7)-Me(6)-OH(4)-NH2(3)-brPh(8)",
+  "nameAA" : "3-amino-4-hydroxy-6-methyl-8-(p-bromophenyl)-5,7-octadienoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C15H18BrNO3",
+  "smiles" : "CC(C=Cc1ccc(cc1)Br)=CC(O)C(N)CC(=O)O",
+  "molecularWeight" : 340.2123
+}, {
+  "code" : "C8:2(5.7)-Me(6)-OH(4)-NH2(3)-Ph(8)",
+  "nameAA" : "3-amino-4-hydroxy-6-methyl-8-phenyl-5,7-octadienoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C15H19NO3",
+  "smiles" : "CC(C=Cc1ccccc1)=CC(O)C(N)CC(=O)O",
+  "molecularWeight" : 261.31625
+}, {
+  "code" : "C8:3(t2.t4.t6)",
+  "nameAA" : "trans2,trans4,trans6-trioctaneic acid",
+  "type" : "PKS",
+  "molecularFormula" : "C8H10O2",
+  "pubchem" : "95509",
+  "iupac" : "octa-2,4,6-trienoic acid",
+  "smiles" : "CC=CC=CC=CC(=O)O",
+  "molecularWeight" : 138.1638,
+  "corres" : "OTT"
+}, {
+  "code" : "C9:0",
+  "nameAA" : "nonanoic acid",
+  "synonym" : "Pelargonic acid,Nonylic acid,Nonoic acid,Pelargic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C9H18O2",
+  "pubchem" : "8158",
+  "iupac" : "nonanoic acid",
+  "smiles" : "CCCCCCCCC(=O)O",
+  "molecularWeight" : 158.238,
+  "corres" : "KNA"
+}, {
+  "code" : "C9:0-Me(2)-OH(3)",
+  "nameAA" : "3-hydroxy-2-methyl-nonanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C10H20O3",
+  "pubchem" : "19591817",
+  "iupac" : "3-hydroxy-2-methylnonanoic acid",
+  "smiles" : "CCCCCCC(O)C(C)C(=O)O",
+  "molecularWeight" : 188.26399
+}, {
+  "code" : "C9:0-OH(3)",
+  "nameAA" : "3-hydroxy-nonanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C9H18O3",
+  "pubchem" : "36599",
+  "iupac" : "3-hydroxynonanoic acid",
+  "smiles" : "CCCCCCC(O)CC(=O)O",
+  "molecularWeight" : 174.23743
+}, {
+  "code" : "C9:1(4)-Me(2.4.6)-OH(8)",
+  "nameAA" : "8-hydroxy-2,4,6-trimethyl-4-nonenoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C12H22O3",
+  "smiles" : "CC(O)CC(C)C=C(C)CC(C)C(O)=O",
+  "molecularWeight" : 214.30128
+}, {
+  "code" : "C9:1(8)-Me(2)",
+  "nameAA" : "2-methyl-8-noneic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C10H18O2",
+  "pubchem" : "17824924",
+  "iupac" : "2-methylnon-8-enoic acid",
+  "smiles" : "C=CCCCCCC(C)C(=O)O",
+  "molecularWeight" : 170.24872
+}, {
+  "code" : "C9:1(Me4)-Me(2.4.6)-OH(8)-Oxo(5)",
+  "nameAA" : "5-oxo-8-hydroxy-2,4,6-trimethyl-4-nonaneic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C12H20O4",
+  "smiles" : "CC(O)CC(C)C(=O)C(=C)CC(C)C(O)=O",
+  "molecularWeight" : 228.2848
+}, {
+  "code" : "Cap",
+  "nameAA" : "capreomycidine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H12N4O2",
+  "pubchem" : "4627981",
+  "iupac" : "2-amino-2-(2-amino-3,4,5,6-tetrahydropyrimidin-4-yl)acetic acid",
+  "smiles" : "NC1=NCCC(N1)C(N)C(=O)O",
+  "molecularWeight" : 172.18507,
+  "corres" : "MYN"
+}, {
+  "code" : "CFA",
+  "nameAA" : "coronafacic acid",
+  "synonym" : "6-Ethyl-2,3,3aS,6R,7,7aS-hexahydro-1-oxo-1H-indene-4-Carboxylic acid",
+  "type" : "PKS",
+  "molecularFormula" : "C12H16O3",
+  "pubchem" : "114969",
+  "iupac" : "(3aS,6R,7aS)-6-ethyl-1-oxo-2,3,3a,6,7,7a-hexahydroindene-4-carboxylic acid",
+  "smiles" : "CCC1C=C(C(=O)O)C2CCC(=O)C2(C1)",
+  "isomeric" : "CC[C@@H]1C[C@H]2[C@H](CCC2=O)C(=C1)C(=O)O",
+  "molecularWeight" : 208.25365
+}, {
+  "code" : "Choi",
+  "nameAA" : "2-carboxy-6-hydroxyoctahydroindole",
+  "type" : "unknown",
+  "molecularFormula" : "C9H15NO3",
+  "smiles" : "OC1CCC2CC(NC2(C1))C(=O)O",
+  "molecularWeight" : 185.22029
+}, {
+  "code" : "ChrA",
+  "nameAA" : "azotobactins chromophore",
+  "type" : "NRPS",
+  "molecularFormula" : "C14H13N3O5",
+  "smiles" : "OC(=O)C2CCN4C(=O)NC3=Cc1cc(O)c(O)cc1N2C34",
+  "molecularWeight" : 303.27014
+}, {
+  "code" : "ChrAct",
+  "nameAA" : "actinomycin chromophore",
+  "synonym" : "Actinocin,Chromophore I",
+  "type" : "other",
+  "molecularFormula" : "C16H12N2O6",
+  "pubchem" : "96175",
+  "iupac" : "2-amino-4,6-dimethyl-3-oxophenoxazine-1,9-dicarboxylic acid",
+  "smiles" : "Cc1ccc(C(=O)O)c2N=C3C(Oc12)=C(C)C(=O)C(N)=C3(C(=O)O)",
+  "molecularWeight" : 328.27628,
+  "corres" : "PXZ"
+}, {
+  "code" : "ChrD",
+  "nameAA" : "5,6-dihydropyoverdin chromophore",
+  "synonym" : "(1S)-5-amino-2,3,5,6-hydro-8,9-dihydroxy-1H-pyrimido-[1,2-a]quinoline-1-carboxylic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C13H17N3O4",
+  "smiles" : "NC2Cc1cc(O)c(O)cc1N3C(CCNC23)C(O)=O",
+  "molecularWeight" : 279.29178
+}, {
+  "code" : "ChrI",
+  "nameAA" : "isopyoverdin chromophore",
+  "synonym" : "(3S)-5-amino-1,2-dihydro-8,9-dihydroxy-3H-pyrimido[1,2a]quinoline-3- carboxylic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C13H15N3O4",
+  "smiles" : "NC2=Cc1cc(O)c(O)cc1N3CCC(NC23)C(O)=O",
+  "molecularWeight" : 277.2759
+}, {
+  "code" : "ChrP",
+  "nameAA" : "pyoverdin chromophore",
+  "synonym" : "(1S)-5-amino-2,3-dihydro-8,9-dihydroxy-1H-pyrimido-[1,2-a]quinoline-1-carboxylic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C13H15N3O4",
+  "smiles" : "NC2=Cc1cc(O)c(O)cc1N3C(CCNC23)C(O)=O",
+  "molecularWeight" : 277.2759
+}, {
+  "code" : "Cit",
+  "nameAA" : "Citrulline",
+  "synonym" : "Sitrulline,delta-Ureidonorvaline,N5-carbamylornithine,N5-carbamoylornithine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13N3O3",
+  "pubchem" : "9750",
+  "iupac" : "(2S)-2-amino-5-(carbamoylamino)pentanoic acid",
+  "smiles" : "NC(=O)NCCCC(N)C(=O)O",
+  "isomeric" : "C(C[C@@H](C(=O)O)N)CNC(=O)N",
+  "molecularWeight" : 175.18573,
+  "corres" : "CIR"
+}, {
+  "code" : "ck-Arg",
+  "nameAA" : "cyclo alpha-ketoarginine",
+  "type" : "unknown",
+  "molecularFormula" : "C7H12N4O2",
+  "smiles" : "NC1CCCN2C(=N)NC(=O)C12(O)",
+  "molecularWeight" : 184.19579
+}, {
+  "code" : "Cl2-Hpg",
+  "nameAA" : "3,5-dichloro-4-hydroxyphenylglycine",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H7Cl2NO3",
+  "pubchem" : "11630046",
+  "iupac" : "2-amino-2-(3,5-dichloro-4-hydroxyphenyl)acetic acid",
+  "smiles" : "NC(C(=O)O)c1cc(c(O)c(c1)Cl)Cl",
+  "molecularWeight" : 236.0521
+}, {
+  "code" : "Cl2-NMe-dhLeu",
+  "nameAA" : "di-chloro-N-methyl-dehydroLeucine",
+  "type" : "unknown",
+  "molecularFormula" : "C7H11Cl2NO2",
+  "smiles" : "CNC(=CC(C)C(Cl)Cl)C(O)=O",
+  "molecularWeight" : 212.07376
+}, {
+  "code" : "Cl2-NMe-Leu",
+  "nameAA" : "di-chloro-N-methyl-Leucine",
+  "type" : "unknown",
+  "molecularFormula" : "C7H13Cl2NO2",
+  "smiles" : "CNC(CC(C)C(Cl)Cl)C(O)=O",
+  "molecularWeight" : 214.08963
+}, {
+  "code" : "Cl2-Pro",
+  "nameAA" : "3,4-dichloro-proline",
+  "type" : "unknown",
+  "molecularFormula" : "C5H7Cl2NO2",
+  "pubchem" : "21295133",
+  "iupac" : "3,4-dichloropyrrolidine-2-carboxylic acid",
+  "smiles" : "O=C(O)C1NCC(C1Cl)Cl",
+  "molecularWeight" : 184.02057
+}, {
+  "code" : "Cl3-2OH-NMe-Leu",
+  "nameAA" : "tri-chloro-2-hydroxy-N-methyl-Leucine",
+  "type" : "unknown",
+  "molecularFormula" : "C7H12Cl3NO3",
+  "smiles" : "CNC(O)(CC(C)C(Cl)(Cl)Cl)C(O)=O",
+  "molecularWeight" : 264.53406
+}, {
+  "code" : "Cl3-5OH-NMe-Leu",
+  "nameAA" : "tri-chloro-5-hydroxy-N-methyl-Leucine",
+  "type" : "unknown",
+  "molecularFormula" : "C7H12Cl3NO3",
+  "smiles" : "CNC(CC(CO)C(Cl)(Cl)Cl)C(O)=O",
+  "molecularWeight" : 264.53406
+}, {
+  "code" : "Cl3-NMe-dhLeu",
+  "nameAA" : "tri-chloro-N-methyl-dehydroLeucine",
+  "type" : "unknown",
+  "molecularFormula" : "C7H10Cl3NO2",
+  "smiles" : "CNC(=CC(C)C(Cl)(Cl)Cl)C(O)=O",
+  "molecularWeight" : 246.51881
+}, {
+  "code" : "Cl3-NMe-Leu",
+  "nameAA" : "tri-chloro-N-methyl-Leucine",
+  "type" : "unknown",
+  "molecularFormula" : "C7H12Cl3NO2",
+  "smiles" : "CNC(CC(C)C(Cl)(Cl)Cl)C(O)=O",
+  "molecularWeight" : 248.53468
+}, {
+  "code" : "Cl-Hpg",
+  "nameAA" : "3-chloro-4-hydroxyphenylglycine",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H8ClNO3",
+  "pubchem" : "11401421",
+  "iupac" : "(2S)-2-amino-2-(3-chloro-4-hydroxyphenyl)acetic acid",
+  "smiles" : "NC(C(=O)O)c1ccc(O)c(c1)Cl",
+  "isomeric" : "C1=CC(=C(C=C1[C@@H](C(=O)O)N)Cl)O",
+  "molecularWeight" : 201.60703,
+  "corres" : "CHP"
+}, {
+  "code" : "Cl-Ile",
+  "nameAA" : "Chloro-Isoleucine",
+  "type" : "unknown",
+  "molecularFormula" : "C6H12ClNO2",
+  "smiles" : "CC(C(N)C(O)=O)C(C)Cl",
+  "molecularWeight" : 165.61798
+}, {
+  "code" : "Cl-NMe-Tyr",
+  "nameAA" : "Chloro-N-methyl-tyrosine",
+  "type" : "NRPS",
+  "molecularFormula" : "C10H12ClNO3",
+  "smiles" : "CNC(Cc1ccc(O)c(c1)Cl)C(=O)O",
+  "molecularWeight" : 229.66017,
+  "corres" : "CNT"
+}, {
+  "code" : "Cl-Tyr",
+  "nameAA" : "chloro-tyrosine",
+  "synonym" : "3-Chlorotyrosine",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H10ClNO3",
+  "pubchem" : "119226",
+  "iupac" : "2-amino-3-(3-chloro-4-hydroxyphenyl)propanoic acid",
+  "smiles" : "NC(Cc1ccc(O)c(c1)Cl)C(=O)O",
+  "molecularWeight" : 215.6336
+}, {
+  "code" : "CMA",
+  "nameAA" : "coronamic acid",
+  "synonym" : "1-Amino-2-ethylcyclopropane-1-carboxylic acid,Cyclopropanecarboxylic acid, 1-amino-2-ethyl-",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO2",
+  "pubchem" : "133485",
+  "iupac" : "1-amino-2-ethylcyclopropane-1-carboxylic acid",
+  "smiles" : "CCC1CC1(N)(C(=O)O)",
+  "molecularWeight" : 129.15704
+}, {
+  "code" : "CO",
+  "nameAA" : "oxo group",
+  "type" : "unknown",
+  "molecularFormula" : "CO",
+  "smiles" : "C=O",
+  "molecularWeight" : 28.010101,
+  "corres" : "FOR"
+}, {
+  "code" : "COOH-Qui",
+  "nameAA" : "2-carboxyquinoxaline",
+  "synonym" : "quinoxaline-2-carboxylic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H6N2O2",
+  "pubchem" : "96695",
+  "iupac" : "quinoxaline-2-carboxylic acid",
+  "smiles" : "O=C(O)c1cnc2ccccc2(n1)",
+  "molecularWeight" : 174.1561,
+  "corres" : "QUI"
+}, {
+  "code" : "Cys",
+  "nameAA" : "Cysteine",
+  "synonym" : "Thioserine",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H7NO2S",
+  "pubchem" : "5862",
+  "iupac" : "(2R)-2-amino-3-sulfanylpropanoic acid",
+  "smiles" : "NC(CS)C(=O)O",
+  "isomeric" : "C([C@@H](C(=O)O)N)S",
+  "molecularWeight" : 121.15817,
+  "corres" : "CYS"
+}, {
+  "code" : "CysA",
+  "nameAA" : "cysteic acid",
+  "synonym" : "3-Sulfoalanine,Cysteinic acid,Cysteric acid,Cepteic acid,Cipteic acid,Cysteatebeta-Sulfoalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H7NO5S",
+  "pubchem" : "72886",
+  "iupac" : "(2R)-2-amino-3-sulfopropanoic acid",
+  "smiles" : "NC(CS(=O)(=O)O)C(=O)O",
+  "isomeric" : "C([C@@H](C(=O)O)N)S(=O)(=O)O",
+  "molecularWeight" : 169.15637,
+  "corres" : "OCS"
+}, {
+  "code" : "D-3OMe-Ala",
+  "nameAA" : "D-3-methoxyalanine",
+  "synonym" : "Methyl D-alaninate",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO3",
+  "pubchem" : "97963",
+  "iupac" : "2-amino-3-methoxypropanoic acid",
+  "smiles" : "COCC(N)C(=O)O",
+  "isomeric" : "",
+  "molecularWeight" : 119.12,
+  "corres" : ""
+}, {
+  "code" : "D-4OH-Pro",
+  "nameAA" : "D-hydroxyproline",
+  "synonym" : "4-hydroxy-D-Proline",
+  "type" : "unknown",
+  "molecularFormula" : "C5H9NO3",
+  "pubchem" : "440014",
+  "iupac" : "(2R,4R)-4-hydroxypyrrolidine-2-carboxylic acid",
+  "smiles" : "OC1CNC(C1)C(=O)O",
+  "isomeric" : "C1[C@H](CN[C@H]1C(=O)O)O",
+  "molecularWeight" : 131.12985,
+  "corres" : "0AZ"
+}, {
+  "code" : "Dab",
+  "nameAA" : "2,4-diaminobutyric acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H10N2O2",
+  "pubchem" : "134490",
+  "iupac" : "(2S)-2,4-diaminobutanoic acid",
+  "smiles" : "NCCC(N)C(=O)O",
+  "isomeric" : "C(CN)[C@@H](C(=O)O)N",
+  "molecularWeight" : 118.1344,
+  "corres" : "DAB"
+}, {
+  "code" : "D-Abu",
+  "nameAA" : "D-2-Aminobutyric acid",
+  "synonym" : "D-2-Aminobutanoic acid,D-2-Aminobutyrate,D-alpha-aminobutyric acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO2",
+  "pubchem" : "439691",
+  "iupac" : "(2R)-2-aminobutanoic acid",
+  "smiles" : "CCC(N)C(=O)O",
+  "isomeric" : "CC[C@H](C(=O)O)N",
+  "molecularWeight" : 103.11977,
+  "corres" : "DBB"
+}, {
+  "code" : "D-Ac-OH-Orn",
+  "nameAA" : "D-N-acetyl-HydroxyOrnithine",
+  "synonym" : "N5-acetyl-N5-hydroxy-D-ornithine",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H14N2O4",
+  "pubchem" : "4471904",
+  "iupac" : "5-(acetyl-hydroxyamino)-2-aminopentanoic acid",
+  "smiles" : "CC(=O)N(O)CCCC(N)C(=O)O",
+  "molecularWeight" : 190.19707,
+  "corres" : "AHO"
+}, {
+  "code" : "D-aIle",
+  "nameAA" : "D-allo-Isoleucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13NO2",
+  "pubchem" : "49866322",
+  "iupac" : "(2R,3S)-2-amino-3-methylpentanoic acid",
+  "smiles" : "CCC(C)C(N)C(=O)O",
+  "isomeric" : "CC[C@H](C)[C@H](C(=O)O)N",
+  "molecularWeight" : 131.17293
+}, {
+  "code" : "D-Ala",
+  "nameAA" : "D-Alanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H7NO2",
+  "pubchem" : "71080",
+  "iupac" : "(2R)-2-aminopropanoic acid",
+  "smiles" : "CC(N)C(=O)O",
+  "isomeric" : "C[C@H](C(=O)O)N",
+  "molecularWeight" : 89.09318,
+  "corres" : "DAL"
+}, {
+  "code" : "Dap",
+  "nameAA" : "Dolaproine",
+  "synonym" : "Dolaproline",
+  "type" : "unknown",
+  "molecularFormula" : "C9H17NO3",
+  "pubchem" : "",
+  "iupac" : "",
+  "smiles" : "COC(C(C)C(O)=O)C1CCCN1",
+  "isomeric" : "",
+  "molecularWeight" : 187.23618,
+  "corres" : ""
+}, {
+  "code" : "D-Ara",
+  "nameAA" : "D-arabinose",
+  "synonym" : "D-arabinopyranose",
+  "type" : "CS",
+  "molecularFormula" : "C5H10O5",
+  "pubchem" : "6902",
+  "iupac" : "(3S,4R,5R)-oxane-2,3,4,5-tetrol",
+  "smiles" : "OC1COC(O)C(O)C1(O)",
+  "isomeric" : "C1[C@H]([C@H]([C@@H](C(O1)O)O)O)O",
+  "molecularWeight" : 150.12991
+}, {
+  "code" : "D-Arg",
+  "nameAA" : "D-Arginine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H14N4O2",
+  "pubchem" : "71070",
+  "iupac" : "(2R)-2-amino-5-(diaminomethylideneamino)pentanoic acid",
+  "smiles" : "NC(N)=NCCCC(N)C(=O)O",
+  "isomeric" : "C(C[C@H](C(=O)O)N)CN=C(N)N",
+  "molecularWeight" : 174.20096,
+  "corres" : "DAR"
+}, {
+  "code" : "D-Asn",
+  "nameAA" : "D-Asparagine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H8N2O3",
+  "pubchem" : "439600",
+  "iupac" : "(2R)-2,4-diamino-4-oxobutanoic acid",
+  "smiles" : "NC(=O)CC(N)C(=O)O",
+  "isomeric" : "C([C@H](C(=O)O)N)C(=O)N",
+  "molecularWeight" : 132.11792,
+  "corres" : "DSG"
+}, {
+  "code" : "D-Asp",
+  "nameAA" : "D-Aspartic Acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H7NO4",
+  "pubchem" : "83887",
+  "iupac" : "(2R)-2-aminobutanedioic acid",
+  "smiles" : "NC(CC(=O)O)C(=O)O",
+  "isomeric" : "C([C@H](C(=O)O)N)C(=O)O",
+  "molecularWeight" : 133.10269,
+  "corres" : "DAS"
+}, {
+  "code" : "D-aThr",
+  "nameAA" : "D-allo-Threonine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO3",
+  "pubchem" : "90624",
+  "iupac" : "(2R,3R)-2-amino-3-hydroxybutanoic acid",
+  "smiles" : "CC(O)C(N)C(=O)O",
+  "isomeric" : "C[C@H]([C@H](C(=O)O)N)O",
+  "molecularWeight" : 119.119156,
+  "corres" : "2TL"
+}, {
+  "code" : "Daz",
+  "nameAA" : "2,6-diamino-7-hydroxyazelaic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C9H18N2O5",
+  "pubchem" : "443585",
+  "iupac" : "2,6-diamino-7-hydroxynonanedioic acid",
+  "smiles" : "NC(CCCC(N)C(O)CC(=O)O)C(=O)O",
+  "molecularWeight" : 234.2496
+}, {
+  "code" : "D-bMe-Asp",
+  "nameAA" : "D-beta-methyl-aspartic acid",
+  "synonym" : "3-METHYL-D-ASPARTIC ACID",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H9NO4",
+  "pubchem" : "5287600",
+  "iupac" : "(2R)-2-amino-3-methylbutanedioic acid",
+  "smiles" : "CC(C(N)C(=O)O)C(=O)O",
+  "isomeric" : "C[C@@H]([C@H](C(=O)O)N)C(=O)O",
+  "molecularWeight" : 147.12926,
+  "corres" : "ACB"
+}, {
+  "code" : "D-bMe-Gln",
+  "nameAA" : "D-beta-methylglutamine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H12N2O3",
+  "pubchem" : "20193636",
+  "iupac" : "2,5-diamino-3-methyl-5-oxopentanoic acid",
+  "smiles" : "CC(CC(N)=O)C(N)C(=O)O",
+  "molecularWeight" : 160.17108,
+  "corres" : "LMQ"
+}, {
+  "code" : "D-bOH-Val",
+  "nameAA" : "D-beta-hydroxyvaline",
+  "synonym" : "3-Hydroxy-D-valine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO3",
+  "pubchem" : "192763",
+  "iupac" : "(2S)-2-amino-3-hydroxy-3-methylbutanoic acid",
+  "smiles" : "CC(C)(O)C(N)C(=O)O",
+  "molecularWeight" : 133.14574,
+  "corres" : "HVA"
+}, {
+  "code" : "D-bPhe",
+  "nameAA" : "D-beta-phenylalanine",
+  "synonym" : "butanimide,beta-Aminohydrocinnamic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H11NO2",
+  "pubchem" : "69189",
+  "iupac" : "3-amino-3-phenylpropanoic acid",
+  "smiles" : "NC(CC(=O)O)c1ccccc1",
+  "molecularWeight" : 165.18913
+}, {
+  "code" : "D-Br-NMe-Tyr",
+  "nameAA" : "D-3-bromo-N-methyl-Tyrosine",
+  "type" : "unknown",
+  "molecularFormula" : "C10H12BrNO3",
+  "smiles" : "CNC(Cc1ccc(O)c(c1)Br)C(=O)O",
+  "molecularWeight" : 274.11118
+}, {
+  "code" : "Dbu",
+  "nameAA" : "(2S)-2,3-diaminobutyric acid",
+  "synonym" : "(2S)-2,3-diaminobutanoic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H10N2O2",
+  "pubchem" : "11073394",
+  "iupac" : "(2S)-2,3-diaminobutanoic acid",
+  "smiles" : "CC(N)C(N)C(=O)O",
+  "isomeric" : "C[C@H]([C@@H](C(=O)O)N)N",
+  "molecularWeight" : 118.1344,
+  "corres" : "VLL"
+}, {
+  "code" : "D-Cit",
+  "nameAA" : "D-Citrulline",
+  "synonym" : "(R)-2-Amino-5-ureidopentanoic acid,N(5)-carbamoyl-D-ornithine,(2R)-2-amino-5-(carbamoylamino)pentanoic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13N3O3",
+  "pubchem" : "637599",
+  "iupac" : "(2R)-2-amino-5-(carbamoylamino)pentanoic acid",
+  "smiles" : "NC(=O)NCCCC(N)C(=O)O",
+  "isomeric" : "C(C[C@H](C(=O)O)N)CNC(=O)N",
+  "molecularWeight" : 175.18573,
+  "corres" : "CIR"
+}, {
+  "code" : "D-Cl-CONH2-Trp",
+  "nameAA" : "D-6-chloro-N2-formamidotryptophan",
+  "type" : "unknown",
+  "molecularFormula" : "C12H12ClN3O3",
+  "smiles" : "NC(=O)n2cc(CC(N)C(O)=O)c1ccc(cc12)Cl",
+  "molecularWeight" : 281.69498
+}, {
+  "code" : "D-Cl-NMe-Tyr",
+  "nameAA" : "D-3-chloro-N-methyl-Tyrosine",
+  "type" : "unknown",
+  "molecularFormula" : "C10H12ClNO3",
+  "smiles" : "CNC(Cc1ccc(O)c(c1)Cl)C(=O)O",
+  "molecularWeight" : 229.66017,
+  "corres" : "CNT"
+}, {
+  "code" : "D-Cl-Trp",
+  "nameAA" : "D-6’-chloro-tryptophan",
+  "synonym" : "",
+  "type" : "unknown",
+  "molecularFormula" : "C11H11ClN2O2",
+  "pubchem" : "65259",
+  "iupac" : "6-chloro-DL-tryptophan",
+  "smiles" : "NC(Cc1c[nH]c2cc(ccc12)Cl)C(=O)O",
+  "isomeric" : "",
+  "molecularWeight" : 238.67024,
+  "corres" : ""
+}, {
+  "code" : "D-COOH-Trp",
+  "nameAA" : "D-2-carboxy-tryptophan",
+  "type" : "unknown",
+  "molecularFormula" : "C12H12N2O4",
+  "smiles" : "NC(Cc1c2ccccc2([nH]c1(C(=O)O)))C(O)=O",
+  "molecularWeight" : 248.23468
+}, {
+  "code" : "D-Cys",
+  "nameAA" : "D-Cysteine",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H7NO2S",
+  "pubchem" : "92851",
+  "iupac" : "(2S)-2-amino-3-sulfanylpropanoic acid",
+  "smiles" : "NC(CS)C(=O)O",
+  "isomeric" : "C([C@H](C(=O)O)N)S",
+  "molecularWeight" : 121.15817,
+  "corres" : "DCY"
+}, {
+  "code" : "D-CysA",
+  "nameAA" : "D-cysteic acid",
+  "synonym" : "3-Sulfoalanine,Cysteinic acid,Cysteric acid,Cepteic acid,Cipteic acid,Cysteatebeta-Sulfoalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H7NO5S",
+  "pubchem" : "25701",
+  "iupac" : "2-amino-3-sulfopropanoic acid",
+  "smiles" : "NC(CS(=O)(=O)O)C(=O)O",
+  "molecularWeight" : 169.15637,
+  "corres" : "00C"
+}, {
+  "code" : "D-Dab",
+  "nameAA" : "D-2,4-diaminobutyric acid",
+  "synonym" : "D-2,4-diaminobutanoic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H10N2O2",
+  "pubchem" : "638153",
+  "iupac" : "(2R)-2,4-diaminobutanoic acid",
+  "smiles" : "NCCC(N)C(=O)O",
+  "isomeric" : "C(CN)[C@H](C(=O)O)N",
+  "molecularWeight" : 118.1344,
+  "corres" : "DAB"
+}, {
+  "code" : "dDap",
+  "nameAA" : "O-desmethyldolaproine",
+  "synonym" : "O-desmethyldolaproline",
+  "type" : "unknown",
+  "molecularFormula" : "C8H15NO3",
+  "smiles" : "CC(C(=O)O)C(O)C1CCCN1",
+  "molecularWeight" : 173.2096
+}, {
+  "code" : "D-Dbu",
+  "nameAA" : "(2R,3R)-2,3-diaminobutyric acid",
+  "synonym" : "(2R,3R)-2,3-diaminobutanoic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H10N2O2",
+  "iupac" : "(2R,3R)-2,3-diaminobutanoic acid",
+  "smiles" : "CC(N)C(N)C(=O)O",
+  "isomeric" : "C[C@H]([C@H](C(=O)O)N)N",
+  "molecularWeight" : 118.1344,
+  "corres" : "VDL"
+}, {
+  "code" : "D-Dhpg",
+  "nameAA" : "D-3,5-dihydroxyphenylglycine",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H9NO4",
+  "pubchem" : "108001",
+  "iupac" : "D-2-amino-2-(3,5-dihydroxyphenyl)acetic acid",
+  "smiles" : "NC(C(=O)O)c1cc(O)cc(O)c1",
+  "molecularWeight" : 183.16136,
+  "corres" : "D3P"
+}, {
+  "code" : "dDil",
+  "nameAA" : "N-desmethyldolaisoleucine",
+  "type" : "unknown",
+  "molecularFormula" : "C9H19NO3",
+  "smiles" : "CCC(C)C(N)C(CC(O)=O)OC",
+  "molecularWeight" : 189.25206
+}, {
+  "code" : "D-End",
+  "nameAA" : "D-enduracididine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H12N4O2",
+  "smiles" : "N=C1NCC(CC(N)C(O)=O)N1",
+  "molecularWeight" : 172.18507
+}, {
+  "code" : "D-Fo-OH-Orn",
+  "nameAA" : "D-formyl-hydroxyOrnithine",
+  "synonym" : "N5-formyl-N5-hydroxy-D-ornithine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H12N2O4",
+  "smiles" : "NC(CCCN(O)C=O)C(=O)O",
+  "molecularWeight" : 176.17047,
+  "corres" : "FH7"
+}, {
+  "code" : "D-F-ph-Gly",
+  "nameAA" : "D-4-fluoroPhenylGlycin",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H8FNO2",
+  "pubchem" : "124515",
+  "iupac" : "(2R)-2-amino-2-(4-fluorophenyl)acetic acid",
+  "smiles" : "NC(C(=O)O)c1ccc(F)cc1",
+  "isomeric" : "C1=CC(=CC=C1[C@H](C(=O)O)N)F",
+  "molecularWeight" : 169.15302
+}, {
+  "code" : "D-Gal",
+  "nameAA" : "D-galactose",
+  "synonym" : "L-Glucose,dextrose,Hexopyranose,D-Mannopyranose",
+  "type" : "CS",
+  "molecularFormula" : "C6H12O6",
+  "pubchem" : "206",
+  "iupac" : "6-(hydroxymethyl)oxane-2,3,4,5-tetrol",
+  "smiles" : "OCC1OC(O)C(O)C(O)C1(O)",
+  "molecularWeight" : 180.15588,
+  "corres" : "GLA"
+}, {
+  "code" : "D-Glc",
+  "nameAA" : "D-Glucose",
+  "synonym" : "dextrose,D-Glucopyranose",
+  "type" : "CS",
+  "molecularFormula" : "C6H12O6",
+  "pubchem" : "5793",
+  "iupac" : "(3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol",
+  "smiles" : "OCC1OC(O)C(O)C(O)C1(O)",
+  "isomeric" : "C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O",
+  "molecularWeight" : 180.15588,
+  "corres" : "GLC"
+}, {
+  "code" : "D-Gln",
+  "nameAA" : "D-Glutamine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H10N2O3",
+  "pubchem" : "145815",
+  "iupac" : "(2R)-2,5-diamino-5-oxopentanoic acid",
+  "smiles" : "NC(=O)CCC(N)C(=O)O",
+  "isomeric" : "C(CC(=O)N)[C@H](C(=O)O)N",
+  "molecularWeight" : 146.1445,
+  "corres" : "DGN"
+}, {
+  "code" : "D-Glu",
+  "nameAA" : "D-Glutamic Acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H9NO4",
+  "pubchem" : "165901",
+  "iupac" : "(2R)-2-aminopentanedioic acid",
+  "smiles" : "NC(CCC(=O)O)C(=O)O",
+  "isomeric" : "C(CC(=O)O)[C@H](C(=O)O)N",
+  "molecularWeight" : 147.12926,
+  "corres" : "DGL"
+}, {
+  "code" : "dhAbu",
+  "nameAA" : "2,3-dehydro-2-aminobutyric acid",
+  "synonym" : "2,3-dehydro-2-aminobutanoic acid,Dhb amino acid,2-amino-2-butenoic acid",
+  "type" : "other",
+  "molecularFormula" : "C4H7NO2",
+  "pubchem" : "3883418",
+  "iupac" : "(Z)-2-aminobut-2-enoic acid",
+  "smiles" : "CC=C(N)C(=O)O",
+  "isomeric" : "CC=C(C(=O)O)/N",
+  "molecularWeight" : 101.10388,
+  "corres" : "DBU"
+}, {
+  "code" : "dh-Ala",
+  "nameAA" : "dehydroalanine",
+  "synonym" : "2-Aminoacrylate,2-aminoacrylic acid,2,3-DIDEHYDROALANINE,2-AMINO-ACRYLIC ACID,2-aminoprop-2-enoic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H5NO2",
+  "pubchem" : "123991",
+  "iupac" : "2-aminoprop-2-enoic acid",
+  "smiles" : "C=C(N)C(=O)O",
+  "molecularWeight" : 87.0773,
+  "corres" : "DHA"
+}, {
+  "code" : "D-Har",
+  "nameAA" : "D-homoarginine",
+  "synonym" : "2-Hydroxy-6-(nitrosocyanamido)hexanamide",
+  "type" : "unknown",
+  "molecularFormula" : "C7H12N4O3",
+  "pubchem" : "59108",
+  "iupac" : "6-(cyano-nitrosoamino)-2-hydroxyhexanamide",
+  "smiles" : "N#CN(CCCCC(O)C(N)=O)N=O",
+  "molecularWeight" : 200.19518
+}, {
+  "code" : "dhCys",
+  "nameAA" : "dehydro-cysteine",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H5NO2S",
+  "smiles" : "NC(=CS)C(=O)O",
+  "molecularWeight" : 119.1423,
+  "corres" : "BB9"
+}, {
+  "code" : "D-Hiv",
+  "nameAA" : "D-2-hydroxyisovalerate",
+  "synonym" : "D-2-hydroxyisovaleric acid,DEAMINOHYDROXYVALINE",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H10O3",
+  "pubchem" : "5289545",
+  "iupac" : "(2R)-2-hydroxy-3-methylbutanoic acid",
+  "smiles" : "CC(C)C(O)C(=O)O",
+  "isomeric" : "CC(C)[C@H](C(=O)O)O",
+  "molecularWeight" : 118.131096,
+  "corres" : "VAD"
+}, {
+  "code" : "DHMDA",
+  "nameAA" : "8,10-Dimethyl-9-hydroxy-7-methoxytridecadienoic acid",
+  "synonym" : "8,10-Dimethyl-9-hydroxy-7-methoxytridecadienoate",
+  "type" : "unknown",
+  "molecularFormula" : "C16H28O4",
+  "smiles" : "CCCC(C)C(O)C(C)C(C=CC=CCC(=O)O)OC",
+  "molecularWeight" : 284.3911
+}, {
+  "code" : "D-Hmp",
+  "nameAA" : "D-2-hydroxy-3-methylpentanoic acid",
+  "synonym" : "D-allo-isoleucic acid,2-Hydroxy-3-methylvaleric acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H12O3",
+  "pubchem" : "164623",
+  "iupac" : "2-hydroxy-3-methylpentanoic acid",
+  "smiles" : "CCC(C)C(O)C(=O)O",
+  "isomeric" : "",
+  "molecularWeight" : 132.15768,
+  "corres" : ""
+}, {
+  "code" : "Dhpg",
+  "nameAA" : "3,5-dihydroxyphenylglycine",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H9NO4",
+  "pubchem" : "108001",
+  "iupac" : "2-amino-2-(3,5-dihydroxyphenyl)acetic acid",
+  "smiles" : "NC(C(=O)O)c1cc(O)cc(O)c1",
+  "molecularWeight" : 183.16136,
+  "corres" : "D3P"
+}, {
+  "code" : "D-Hpg",
+  "nameAA" : "D-HydroxyPhenylGlycine",
+  "synonym" : "OXFENICINE,D-4-Hydroxyphenylglycine",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H9NO3",
+  "pubchem" : "89853",
+  "iupac" : "(2R)-2-amino-2-(4-hydroxyphenyl)ethanoic acid",
+  "smiles" : "NC(C(=O)O)c1ccc(O)cc1",
+  "isomeric" : "C1=CC(=CC=C1[C@H](C(=O)O)N)O",
+  "molecularWeight" : 167.16196,
+  "corres" : "GHP"
+}, {
+  "code" : "D-Hpr",
+  "nameAA" : "D-homoproline",
+  "synonym" : "D-pipecolic acid,D-pipecolinic acid,D-pipecolate",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO2",
+  "pubchem" : "736316",
+  "iupac" : "(2R)-piperidine-2-carboxylic acid",
+  "smiles" : "O=C(O)C1CCCCN1",
+  "isomeric" : "C1CCN[C@H](C1)C(=O)O",
+  "molecularWeight" : 129.15704,
+  "corres" : "CPI"
+}, {
+  "code" : "DHPT",
+  "nameAA" : "dihydroxyphenylthiazol group",
+  "type" : "NRPS",
+  "molecularFormula" : "C10H9NO4S",
+  "smiles" : "OC(=O)C1CSC(=N1)c2cccc(O)c2(O)",
+  "molecularWeight" : 239.24776
+}, {
+  "code" : "D-Hse",
+  "nameAA" : "D-Homoserine",
+  "synonym" : "2-amino-4-hydroxybutanoic acid,2-Amino-4-hydroxybutyric acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO3",
+  "pubchem" : "2724170",
+  "iupac" : "(2R)-2-amino-4-hydroxybutanoic acid",
+  "smiles" : "NC(CCO)C(=O)O",
+  "isomeric" : "C(CO)[C@H](C(=O)O)N",
+  "molecularWeight" : 119.119156,
+  "corres" : "HSE"
+}, {
+  "code" : "dh-Trp",
+  "nameAA" : "2,3-Dehydro-Tryptophan",
+  "type" : "NRPS",
+  "molecularFormula" : "C11H10N2O2",
+  "pubchem" : "441158",
+  "iupac" : "2-amino-3-(1H-indol-3-yl)prop-2-enoic acid",
+  "smiles" : "NC(=Cc1c[nH]c2ccccc12)C(=O)O",
+  "molecularWeight" : 202.2093
+}, {
+  "code" : "Dil",
+  "nameAA" : "Dolaisoleucine",
+  "synonym" : "Dolaisoleuine",
+  "type" : "unknown",
+  "molecularFormula" : "C10H21NO3",
+  "smiles" : "CCC(C)C(NC)C(CC(O)=O)OC",
+  "molecularWeight" : 203.27863
+}, {
+  "code" : "D-Ile",
+  "nameAA" : "D-Isoleucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13NO2",
+  "pubchem" : "11051686",
+  "iupac" : "(2R)-2-amino-3-methylpentanoic acid",
+  "smiles" : "CCC(C)C(N)C(=O)O",
+  "isomeric" : "CCC(C)[C@H](C(=O)O)N",
+  "molecularWeight" : 131.17293,
+  "corres" : "DIL"
+}, {
+  "code" : "diMe-aIle",
+  "nameAA" : "N,gamma-alloisoleucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H17NO2",
+  "smiles" : "CNC(C(=O)O)C(C)C(C)C",
+  "isomeric" : "CC([C@@H](C)[C@@H](C(=O)O)NC)C",
+  "molecularWeight" : 159.2261
+}, {
+  "code" : "diMe-Cys",
+  "nameAA" : "N,S-dimethylcysteine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO2S",
+  "pubchem" : "5288874",
+  "iupac" : "(2R)-2-(methylamino)-3-methylsulfanylpropanoic acid",
+  "smiles" : "CNC(CSC)C(=O)O",
+  "isomeric" : "CN[C@@H](CSC)C(=O)O",
+  "molecularWeight" : 149.2113,
+  "corres" : "N2C"
+}, {
+  "code" : "D-I-NMe-Tyr",
+  "nameAA" : "D-3-iodo-N-methyl-Tyrosine",
+  "type" : "unknown",
+  "molecularFormula" : "C10H12INO3",
+  "smiles" : "CNC(Cc1ccc(O)c(c1)I)C(=O)O",
+  "molecularWeight" : 321.11163
+}, {
+  "code" : "diOH-Arg",
+  "nameAA" : "3,4-dihydroxyArginine",
+  "type" : "unknown",
+  "molecularFormula" : "C6H14N4O4",
+  "smiles" : "NC(N)=NCC(O)C(O)C(N)C(O)=O",
+  "molecularWeight" : 206.19975
+}, {
+  "code" : "diOH-Bz",
+  "nameAA" : "2,3-dihydroxybenzoic acid",
+  "synonym" : "DHB",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H6O4",
+  "pubchem" : "19",
+  "smiles" : "O=C(O)c1cccc(O)c1(O)",
+  "molecularWeight" : 154.12015,
+  "corres" : "DBH"
+}, {
+  "code" : "diOH-Phe",
+  "nameAA" : "3,4-dihydroxyphenylalanine",
+  "synonym" : "Dopa,3-Hydroxytyrosine,levodopa",
+  "type" : "unknown",
+  "molecularFormula" : "C9H11NO4",
+  "pubchem" : "836",
+  "iupac" : "2-amino-3-(3,4-dihydroxyphenyl)propanoic acid",
+  "smiles" : "NC(Cc1ccc(O)c(O)c1)C(=O)O",
+  "molecularWeight" : 197.18794,
+  "corres" : "DAH"
+}, {
+  "code" : "D-Ival",
+  "nameAA" : "D-isovaline",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO2",
+  "iupac" : "(2R)-2-amino-2-methylbutanoic acid",
+  "smiles" : "CCC(C)(N)C(=O)O",
+  "isomeric" : "CC[C@](C)(C(=O)O)N",
+  "molecularWeight" : 117.14634,
+  "corres" : "DIV"
+}, {
+  "code" : "D-Kyn",
+  "nameAA" : "D-kynurenine",
+  "synonym" : "beta-Anthraniloyl-D-alanine,D-2-Amino-4-(2-aminophenyl)-4-oxobutanoic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C10H12N2O3",
+  "pubchem" : "1152206",
+  "iupac" : "(2R)-2-amino-4-(2-aminophenyl)-4-oxobutanoic acid",
+  "smiles" : "NC(CC(=O)c1ccccc1(N))C(=O)O",
+  "isomeric" : "C1=CC=C(C(=C1)C(=O)C[C@H](C(=O)O)N)N",
+  "molecularWeight" : 208.21387
+}, {
+  "code" : "D-Lac",
+  "nameAA" : "D-lactic acid",
+  "synonym" : "D-lactate",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H6O3",
+  "pubchem" : "61503",
+  "iupac" : "(2R)-2-hydroxypropanoic acid",
+  "smiles" : "CC(O)C(=O)O",
+  "isomeric" : "C[C@H](C(=O)O)O",
+  "molecularWeight" : 90.07794,
+  "corres" : "DLA"
+}, {
+  "code" : "D-Leu",
+  "nameAA" : "D-Leucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13NO2",
+  "pubchem" : "439524",
+  "iupac" : "(2R)-2-amino-4-methylpentanoic acid",
+  "smiles" : "CC(C)CC(N)C(=O)O",
+  "isomeric" : "CC(C)C[C@H](C(=O)O)N",
+  "molecularWeight" : 131.17293,
+  "corres" : "DLE"
+}, {
+  "code" : "D-Lys",
+  "nameAA" : "D-Lysine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H14N2O2",
+  "pubchem" : "57449",
+  "iupac" : "(2R)-2,6-diaminohexanoic acid",
+  "smiles" : "NCCCCC(N)C(=O)O",
+  "isomeric" : "C(CCN)C[C@H](C(=O)O)N",
+  "molecularWeight" : 146.18756,
+  "corres" : "DLY"
+}, {
+  "code" : "DMAdda",
+  "nameAA" : "O-demethyl-Adda",
+  "synonym" : "3-amino-9-hydroxy-2,6,8-trimethyl-10-phenyldeca-4,6-dienoic acid",
+  "type" : "PKS",
+  "molecularFormula" : "C19H27NO3",
+  "smiles" : "CC(C=CC(N)C(C)C(O)=O)=CC(C)C(O)Cc1ccccc1",
+  "molecularWeight" : 317.4226
+}, {
+  "code" : "D-Man",
+  "nameAA" : "D-mannose",
+  "type" : "CS",
+  "molecularFormula" : "C6H12O6",
+  "pubchem" : "18950",
+  "iupac" : "(3S,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol",
+  "smiles" : "OCC1OC(O)C(O)C(O)C1(O)",
+  "isomeric" : "C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)O)O)O)O",
+  "molecularWeight" : 180.15588,
+  "corres" : "MAN"
+}, {
+  "code" : "D-MeO-Glu",
+  "nameAA" : "D-Glutamic Acid methyl ester",
+  "synonym" : "5-Methyl-D-glutamate,D-Glutamic acid 5-methyl ester",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO4",
+  "pubchem" : "10365295",
+  "iupac" : "2-amino-5-methoxy-5-oxopentanoic acid",
+  "smiles" : "COC(=O)CCC(N)C(=O)O",
+  "molecularWeight" : 161.15584
+}, {
+  "code" : "DMOG",
+  "nameAA" : "DHP-methyloxazolinyl group",
+  "type" : "other",
+  "molecularFormula" : "C11H11NO5",
+  "smiles" : "CC1OC(=NC1(C(O)=O))c2cccc(O)c2(O)",
+  "molecularWeight" : 237.20876
+}, {
+  "code" : "D-N2Me-Asn",
+  "nameAA" : "D-N2-methyl-asparagine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H10N2O3",
+  "pubchem" : "100393",
+  "iupac" : "(2R)-2-amino-4-methylamino-4-oxobutanoic acid",
+  "smiles" : "CNC(=O)CC(N)C(=O)O",
+  "molecularWeight" : 146.1445
+}, {
+  "code" : "D-N2Me-bOH-Asn",
+  "nameAA" : "D-beta-hydroxy-N2-methyl-asparagine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H10N2O4",
+  "smiles" : "CNC(=O)C(O)C(N)C(=O)O",
+  "molecularWeight" : 162.1439,
+  "corres" : "HTN"
+}, {
+  "code" : "D-NFo-Ala",
+  "nameAA" : "D-N-formyl-Alanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H7NO3",
+  "pubchem" : "10336836",
+  "iupac" : "2-formamidopropanoic acid",
+  "smiles" : "CC(NC=O)C(=O)O",
+  "molecularWeight" : 117.10328
+}, {
+  "code" : "D-NFo-Lys",
+  "nameAA" : "D-N-formyl-lysine",
+  "molecularFormula" : "C7H14N2O3",
+  "pubchem" : "12679627",
+  "smiles" : "NCCCCC(NC=O)C(=O)O",
+  "molecularWeight" : 174.2
+}, {
+  "code" : "D-NMe-aIle",
+  "nameAA" : "D-N-methyl-alloisoleucine",
+  "type" : "unknown",
+  "molecularFormula" : "C7H15NO2",
+  "smiles" : "CCC(C)C(NC)C(=O)O",
+  "molecularWeight" : 145.19951,
+  "corres" : "IML"
+}, {
+  "code" : "D-NMe-Leu",
+  "nameAA" : "D-N-methyl-Leucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H15NO2",
+  "pubchem" : "567743",
+  "iupac" : "4-methyl-2-methylaminopentanoic acid",
+  "smiles" : "CNC(CC(C)C)C(=O)O",
+  "molecularWeight" : 145.19951
+}, {
+  "code" : "D-NMe-Nva",
+  "nameAA" : "D-N-methyl-norvaline",
+  "type" : "unknown",
+  "molecularFormula" : "C6H13NO2",
+  "pubchem" : "15677249",
+  "iupac" : "2-methylaminopentanoic acid",
+  "smiles" : "CCCC(NC)C(=O)O",
+  "molecularWeight" : 131.17293
+}, {
+  "code" : "D-NMe-OMe-Tyr",
+  "nameAA" : "D-N,O-dimethyl-tyrosine",
+  "type" : "unknown",
+  "molecularFormula" : "C11H15NO3",
+  "pubchem" : "18925327",
+  "iupac" : "3-(4-methoxyphenyl)-2-methylaminopropanoic acid",
+  "smiles" : "CNC(Cc1ccc(cc1)OC)C(=O)O",
+  "molecularWeight" : 209.2417,
+  "corres" : "MTJ"
+}, {
+  "code" : "D-NMe-Phe",
+  "nameAA" : "D-N-Methyl-Phenylalanine",
+  "type" : "unknown",
+  "molecularFormula" : "C10H13NO2",
+  "pubchem" : "4657542",
+  "iupac" : "2-methylamino-3-phenylpropanoic acid",
+  "smiles" : "CNC(Cc1ccccc1)C(=O)O",
+  "molecularWeight" : 179.21573,
+  "corres" : "ZAE"
+}, {
+  "code" : "D-NMe-Ser",
+  "nameAA" : "N-Methyl-D-Serine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO3",
+  "iupac" : "3-hydroxy-2-methylaminopropanoic acid",
+  "smiles" : "CNC(CO)C(=O)O",
+  "molecularWeight" : 119.119156,
+  "corres" : "DSE"
+}, {
+  "code" : "D-NMe-Val",
+  "nameAA" : "D-N-Methylvaline",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13NO2",
+  "pubchem" : "4378",
+  "iupac" : "3-methyl-2-methylaminobutanoic acid",
+  "smiles" : "CNC(C(C)C)C(=O)O",
+  "molecularWeight" : 131.17293,
+  "corres" : "MVA"
+}, {
+  "code" : "D-Nva",
+  "nameAA" : "D-Norvaline",
+  "synonym" : "D-2-Aminovaleric acid",
+  "type" : "unknown",
+  "molecularFormula" : "C5H11NO2",
+  "pubchem" : "439575",
+  "iupac" : "(2R)-2-aminopentanoic acid",
+  "smiles" : "CCCC(N)C(=O)O",
+  "isomeric" : "CCC[C@H](C(=O)O)N",
+  "molecularWeight" : 117.14634,
+  "corres" : "NVA"
+}, {
+  "code" : "Doe",
+  "nameAA" : "Dolaphenine",
+  "type" : "unknown",
+  "molecularFormula" : "C11H12N2S",
+  "pubchem" : "369619",
+  "iupac" : "2-phenyl-1-(1,3-thiazol-2-yl)ethanamine",
+  "smiles" : "NC(Cc1ccccc1)c2nccs2",
+  "molecularWeight" : 204.29138
+}, {
+  "code" : "D-OH-Asn",
+  "nameAA" : "D-HydroxyAsparagine",
+  "synonym" : "3-hydroxy-D-asparagine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H8N2O4",
+  "pubchem" : "152191",
+  "iupac" : "2,4-diamino-3-hydroxy-4-oxobutanoic acid",
+  "smiles" : "NC(=O)C(O)C(N)C(=O)O",
+  "molecularWeight" : 148.11732,
+  "corres" : "AHB"
+}, {
+  "code" : "D-OH-Asp",
+  "nameAA" : "D-Hydroxyaspartic acid",
+  "synonym" : "3-hydroxy-D-aspartic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H7NO5",
+  "pubchem" : "675425",
+  "iupac" : "2-amino-3-hydroxybutanedioic acid",
+  "smiles" : "NC(C(=O)O)C(O)C(=O)O",
+  "molecularWeight" : 149.10208
+}, {
+  "code" : "D-OH-cOrn",
+  "nameAA" : "D-Hydroxy-cycloOrnithine",
+  "synonym" : "N5-hydroxy-D-cycloornithine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H10N2O2",
+  "pubchem" : "18360061",
+  "iupac" : "3-amino-1-hydroxypiperidin-2-one",
+  "smiles" : "NC1CCCN(O)C1(=O)",
+  "molecularWeight" : 130.1451
+}, {
+  "code" : "D-OH-dHpg",
+  "nameAA" : "D-N-hydroxy-dehydro-HydroxyPhenylGlycine",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H7NO4",
+  "smiles" : "ON=C(C(=O)O)c1ccc(O)cc1",
+  "molecularWeight" : 181.14548
+}, {
+  "code" : "D-OH-Orn",
+  "nameAA" : "D-N5-HydroxyOrnithine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H12N2O3",
+  "iupac" : "2-amino-5-(hydroxyamino)pentanoic acid",
+  "smiles" : "NC(CCCNO)C(=O)O",
+  "molecularWeight" : 148.16037
+}, {
+  "code" : "D-Orn",
+  "nameAA" : "D-ornithine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H12N2O2",
+  "pubchem" : "71082",
+  "iupac" : "(2R)-2,5-diaminopentanoic acid",
+  "smiles" : "NCCCC(N)C(=O)O",
+  "isomeric" : "C(C[C@H](C(=O)O)N)CN",
+  "molecularWeight" : 132.16098,
+  "corres" : "ORD"
+}, {
+  "code" : "Dov",
+  "nameAA" : "Dolavaline",
+  "synonym" : "N,N-dimethyl-Valine",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H15NO2",
+  "iupac" : "2-(dimethylamino)-3-methylbutanoic acid",
+  "smiles" : "CC(C)C(C(=O)O)N(C)C",
+  "molecularWeight" : 145.19951
+}, {
+  "code" : "D-Phe",
+  "nameAA" : "D-Phenylalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H11NO2",
+  "pubchem" : "71567",
+  "iupac" : "(2R)-2-amino-3-phenylpropanoic acid",
+  "smiles" : "NC(Cc1ccccc1)C(=O)O",
+  "isomeric" : "C1=CC=C(C=C1)C[C@H](C(=O)O)N",
+  "molecularWeight" : 165.18913,
+  "corres" : "DPN"
+}, {
+  "code" : "D-ph-Gly",
+  "nameAA" : "D-PhenylGlycine",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H9NO2",
+  "pubchem" : "70134",
+  "iupac" : "(2R)-2-amino-2-phenylacetic acid",
+  "smiles" : "NC(C(=O)O)c1ccccc1",
+  "isomeric" : "C1=CC=C(C=C1)[C@H](C(=O)O)N",
+  "molecularWeight" : 151.16255,
+  "corres" : "PG9"
+}, {
+  "code" : "D-Ph-Lac",
+  "nameAA" : "D-Phenyl-lactate",
+  "synonym" : "D-Phenyl-lactic acid,2-Hydroxy-3-phenylpropanoic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H10O3",
+  "pubchem" : "643327",
+  "iupac" : "(2R)-2-hydroxy-3-phenylpropanoic acid",
+  "smiles" : "O=C(O)C(O)Cc1ccccc1",
+  "isomeric" : "C1=CC=C(C=C1)C[C@H](C(=O)O)O",
+  "molecularWeight" : 166.1739,
+  "corres" : "HF2"
+}, {
+  "code" : "D-PO-Asn",
+  "nameAA" : "D-PhosphateAsparagine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9N2O7P",
+  "smiles" : "NC(=O)C(OP(O)(=O)O)C(N)C(O)=O",
+  "molecularWeight" : 228.09721
+}, {
+  "code" : "Dpr",
+  "nameAA" : "2,3-Diaminopropionic acid",
+  "synonym" : "2,3-Diaminopropionate,3-Aminoalanine,beta-Aminoalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H8N2O2",
+  "pubchem" : "364",
+  "iupac" : "2,3-diaminopropanoic acid",
+  "smiles" : "NCC(N)C(=O)O",
+  "molecularWeight" : 104.10782,
+  "corres" : "DPP"
+}, {
+  "code" : "D-Pro",
+  "nameAA" : "D-Proline",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H9NO2",
+  "pubchem" : "213262",
+  "iupac" : "(2R)-pyrrolidine-2-carboxylic acid",
+  "smiles" : "O=C(O)C1CCCN1",
+  "isomeric" : "C1C[C@@H](NC1)C(=O)O",
+  "molecularWeight" : 115.13046,
+  "corres" : "DPR"
+}, {
+  "code" : "Dpy",
+  "nameAA" : "Dolapyrrolidone",
+  "type" : "unknown",
+  "molecularFormula" : "C12H13NO2",
+  "pubchem" : "10560074",
+  "iupac" : "4-methoxy-5-(phenylmethyl)-1,5-dihydropyrrol-2-one",
+  "smiles" : "COC2=CC(=O)NC2(Cc1ccccc1)",
+  "molecularWeight" : 203.23712
+}, {
+  "code" : "dPyr",
+  "nameAA" : "dehydropyrrolidone",
+  "type" : "unknown",
+  "molecularFormula" : "C6H8N2O3",
+  "smiles" : "NC1CC(=O)NC1(=CC(=O)O)",
+  "molecularWeight" : 156.13933
+}, {
+  "code" : "D-Ser",
+  "nameAA" : "D-Serine",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H7NO3",
+  "pubchem" : "71077",
+  "iupac" : "(2R)-2-amino-3-hydroxypropanoic acid",
+  "smiles" : "NC(CO)C(=O)O",
+  "isomeric" : "C([C@H](C(=O)O)N)O",
+  "molecularWeight" : 105.09258,
+  "corres" : "DSN"
+}, {
+  "code" : "D-Thr",
+  "nameAA" : "D-Threonine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO3",
+  "pubchem" : "69435",
+  "iupac" : "(2R,3S)-2-amino-3-hydroxybutanoic acid",
+  "smiles" : "CC(O)C(N)C(=O)O",
+  "isomeric" : "C[C@@H]([C@H](C(=O)O)N)O",
+  "molecularWeight" : 119.119156,
+  "corres" : "DTH"
+}, {
+  "code" : "D-t-Leu",
+  "nameAA" : "D-tert-Leu",
+  "synonym" : "D-alpha-tert-Butylglycine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13NO2",
+  "pubchem" : "6950340",
+  "iupac" : "(2R)-2-amino-3,3-dimethylbutanoic acid",
+  "smiles" : "CC(C)(C)C(N)C(=O)O",
+  "isomeric" : "CC(C)(C)[C@H](C(=O)O)N",
+  "molecularWeight" : 131.17293,
+  "corres" : "TDD"
+}, {
+  "code" : "D-Trp",
+  "nameAA" : "D-Tryptophan",
+  "type" : "NRPS",
+  "molecularFormula" : "C11H12N2O2",
+  "pubchem" : "9060",
+  "iupac" : "(2R)-2-amino-3-(1H-indol-3-yl)propanoic acid",
+  "smiles" : "NC(Cc1c[nH]c2ccccc12)C(=O)O",
+  "isomeric" : "C1=CC=C2C(=C1)C(=CN2)C[C@H](C(=O)O)N",
+  "molecularWeight" : 204.22517,
+  "corres" : "DTR"
+}, {
+  "code" : "D-Tyr",
+  "nameAA" : "D-Tyrosine",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H11NO3",
+  "pubchem" : "71098",
+  "iupac" : "(2R)-2-amino-3-(4-hydroxyphenyl)propanoic acid",
+  "smiles" : "NC(Cc1ccc(O)cc1)C(=O)O",
+  "isomeric" : "C1=CC(=CC=C1C[C@H](C(=O)O)N)O",
+  "molecularWeight" : 181.18854,
+  "corres" : "DTY"
+}, {
+  "code" : "D-Val",
+  "nameAA" : "D-Valine",
+  "synonym" : "(R)-alpha-Aminoisovaleric acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO2",
+  "pubchem" : "71563",
+  "iupac" : "(2R)-2-amino-3-methylbutanoic acid",
+  "smiles" : "CC(C)C(N)C(=O)O",
+  "isomeric" : "CC(C)[C@H](C(=O)O)N",
+  "molecularWeight" : 117.14634,
+  "corres" : "DVA"
+}, {
+  "code" : "dv-Tyr",
+  "nameAA" : "dehydro vinylogous tyrosine",
+  "type" : "unknown",
+  "molecularFormula" : "C11H11NO3",
+  "smiles" : "NC(C=CC(=O)O)=Cc1ccc(O)cc1",
+  "molecularWeight" : 205.20995
+}, {
+  "code" : "End",
+  "nameAA" : "enduracididine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H12N4O2",
+  "smiles" : "N=C1NCC(CC(N)C(O)=O)N1",
+  "molecularWeight" : 172.18507
+}, {
+  "code" : "Ere",
+  "nameAA" : "L-eremosamine",
+  "type" : "CS",
+  "molecularFormula" : "C7H15NO3",
+  "smiles" : "CC1OC(O)CC(C)(N)C1(O)",
+  "molecularWeight" : 161.1989
+}, {
+  "code" : "Eta",
+  "nameAA" : "Ethanolamine",
+  "synonym" : "2-aminoethanol,colamine,Aminoethanol,Glycinol",
+  "type" : "NRPS",
+  "molecularFormula" : "C2H7NO",
+  "pubchem" : "700",
+  "iupac" : "2-aminoethanol",
+  "smiles" : "NCCO",
+  "isomeric" : "",
+  "molecularWeight" : 61.08308,
+  "corres" : "ETA"
+}, {
+  "code" : "Et-Nva",
+  "nameAA" : "alpha-ethylnorvaline",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H15NO2",
+  "pubchem" : "518928",
+  "iupac" : "2-amino-3-ethylpentanoic acid",
+  "smiles" : "CCC(CC)C(N)C(=O)O",
+  "molecularWeight" : 145.19951
+}, {
+  "code" : "e-Tyr",
+  "nameAA" : "ethylene inserted tyrosine",
+  "type" : "unknown",
+  "molecularFormula" : "C11H15NO3",
+  "smiles" : "NC(CCC(=O)O)Cc1ccc(O)cc1",
+  "molecularWeight" : 209.2417
+}, {
+  "code" : "Fo-OH-Orn",
+  "nameAA" : "N6-formyl-HydroxyOrnithine",
+  "synonym" : "N5-formyl-N5-hydroxy-L-ornithine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H12N2O4",
+  "smiles" : "NC(CCCN(O)C=O)C(=O)O",
+  "molecularWeight" : 176.17047,
+  "corres" : "FHO"
+}, {
+  "code" : "Gen",
+  "nameAA" : "gentisic acid",
+  "synonym" : "2,5-dihydroxybenzoic acid",
+  "molecularFormula" : "C7H6O4",
+  "pubchem" : "3469",
+  "iupac" : "2,5-dihydroxybenzoic acid",
+  "smiles" : "Oc1ccc(O)c(c1)C(=O)O",
+  "molecularWeight" : 154.121,
+  "corres" : "GTQ"
+}, {
+  "code" : "Glc",
+  "nameAA" : "L-glucose",
+  "synonym" : "D-galactose,dextrose,Hexopyranose,D-Mannopyranose",
+  "type" : "CS",
+  "molecularFormula" : "C6H12O6",
+  "pubchem" : "206",
+  "iupac" : "6-(hydroxymethyl)oxane-2,3,4,5-tetrol",
+  "smiles" : "OCC1OC(O)C(O)C(O)C1(O)",
+  "molecularWeight" : 180.15588
+}, {
+  "code" : "Gln",
+  "nameAA" : "Glutamine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H10N2O3",
+  "pubchem" : "5961",
+  "iupac" : "(2S)-2,5-diamino-5-oxopentanoic acid",
+  "smiles" : "NC(=O)CCC(N)C(=O)O",
+  "isomeric" : "C(CC(=O)N)[C@@H](C(=O)O)N",
+  "molecularWeight" : 146.1445,
+  "corres" : "GLN"
+}, {
+  "code" : "Glu",
+  "nameAA" : "Glutamic Acid",
+  "synonym" : "L-glutamic acid,glutamate",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H9NO4",
+  "pubchem" : "7847075",
+  "iupac" : "(2S)-2-aminopentanedioic acid",
+  "smiles" : "NC(CCC(=O)O)C(=O)O",
+  "isomeric" : "C(CC(=O)O)[C@@H](C(=O)O)N",
+  "molecularWeight" : 147.12926,
+  "corres" : "GLU"
+}, {
+  "code" : "Gly",
+  "nameAA" : "Glycine",
+  "synonym" : "aminoacetic acid,Glycocoll,Aminoethanoic acid,",
+  "type" : "NRPS",
+  "molecularFormula" : "C2H5NO2",
+  "pubchem" : "750",
+  "iupac" : "2-aminoacetic acid",
+  "smiles" : "NCC(=O)O",
+  "molecularWeight" : 75.066605,
+  "corres" : "GLY"
+}, {
+  "code" : "gOH-NMe-Val",
+  "nameAA" : "gama-hydroxy-N-Methyl-Valine",
+  "synonym" : "4-hydroxy-N-methylvaline",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13NO3",
+  "pubchem" : "12439044",
+  "iupac" : "4-hydroxy-3-methyl-2-methylaminobutanoic acid",
+  "smiles" : "CNC(C(=O)O)C(C)CO",
+  "molecularWeight" : 147.17233
+}, {
+  "code" : "gSer",
+  "nameAA" : "alpha-guanidino Serine",
+  "type" : "unknown",
+  "molecularFormula" : "C3H8N4O3",
+  "smiles" : "N=C(N)NC(N)(O)C(=O)O",
+  "molecularWeight" : 148.12062
+}, {
+  "code" : "GSpd",
+  "nameAA" : "guanylspermidine",
+  "synonym" : "Guanidinospermidine",
+  "type" : "unknown",
+  "molecularFormula" : "C8H21N5",
+  "pubchem" : "541551",
+  "iupac" : "2-[3-(4-aminobutylamino)propyl]guanidine",
+  "smiles" : "NCCCNCCCCN=C(N)N",
+  "isomeric" : "",
+  "molecularWeight" : 187.28586,
+  "corres" : ""
+}, {
+  "code" : "Hap",
+  "nameAA" : "hydroxyacetyl propionyl",
+  "type" : "unknown",
+  "molecularFormula" : "C5H8O4",
+  "smiles" : "CC(C(=O)O)C(=O)CO",
+  "molecularWeight" : 132.11462
+}, {
+  "code" : "Har",
+  "nameAA" : "homoarginine",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H16N4O2",
+  "pubchem" : "9085",
+  "iupac" : "(2S)-2-amino-6-(diaminomethylideneamino)hexanoic acid",
+  "smiles" : "NC(N)=NCCCCC(N)C(=O)O",
+  "isomeric" : "C(CCN=C(N)N)C[C@@H](C(=O)O)N",
+  "molecularWeight" : 188.22755
+}, {
+  "code" : "Hil",
+  "nameAA" : "homoisoleucine",
+  "synonym" : "4-Methylnorleucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H15NO2",
+  "pubchem" : "192784",
+  "iupac" : "(2S)-2-amino-4-methylhexanoic acid",
+  "smiles" : "CCC(C)CC(N)C(=O)O",
+  "isomeric" : "CCC(C)C[C@@H](C(=O)O)N",
+  "molecularWeight" : 145.19951
+}, {
+  "code" : "Hip",
+  "nameAA" : "hydroxyisovalerylpropionyl",
+  "type" : "unknown",
+  "molecularFormula" : "C8H14O4",
+  "pubchem" : "18942657",
+  "iupac" : "4-hydroxy-2,5-dimethyl-3-oxohexanoic acid",
+  "smiles" : "CC(C)C(O)C(=O)C(C)C(=O)O",
+  "molecularWeight" : 174.19437,
+  "corres" : "HIT"
+}, {
+  "code" : "His",
+  "nameAA" : "Histidine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H9N3O2",
+  "pubchem" : "6274",
+  "iupac" : "(2S)-2-amino-3-(3H-imidazol-4-yl)propanoic acid",
+  "smiles" : "NC(Cc1cnc[nH]1)C(=O)O",
+  "isomeric" : "C1=C(NC=N1)C[C@@H](C(=O)O)N",
+  "molecularWeight" : 155.15456,
+  "corres" : "HIS"
+}, {
+  "code" : "Hiv",
+  "nameAA" : "2-hydroxyisovalerate",
+  "synonym" : "2-hydroxyisovaleric acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H10O3",
+  "pubchem" : "853180",
+  "iupac" : "(2S)-2-hydroxy-3-methylbutanoic acid",
+  "smiles" : "CC(C)C(O)C(=O)O",
+  "isomeric" : "CC(C)[C@@H](C(=O)O)O",
+  "molecularWeight" : 118.131096,
+  "corres" : "VAD"
+}, {
+  "code" : "hk-Arg",
+  "nameAA" : "hydrated alpha-ketoarginine",
+  "type" : "unknown",
+  "molecularFormula" : "C7H16N4O3",
+  "smiles" : "N=C(N)NCCCC(N)C(O)C(=O)O",
+  "molecularWeight" : 204.22694
+}, {
+  "code" : "Hmp",
+  "nameAA" : "2-hydroxy-3-methyl-pentanoic acid",
+  "synonym" : "2-hydroxy-3-methylvaleric acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H12O3",
+  "pubchem" : "164623",
+  "iupac" : "2-hydroxy-3-methylpentanoic acid",
+  "smiles" : "CCC(C)C(O)C(=O)O",
+  "isomeric" : "",
+  "molecularWeight" : 132.15768,
+  "corres" : ""
+}, {
+  "code" : "Hpa",
+  "nameAA" : "hydroxypicolinic acid",
+  "synonym" : "3-Hydroxypyridine-2-carboxylic acid,3-HPA",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H5NO3",
+  "pubchem" : "13401",
+  "iupac" : "3-hydroxypyridine-2-carboxylic acid",
+  "smiles" : "O=C(O)c1ncccc1(O)",
+  "molecularWeight" : 139.10881,
+  "corres" : "MHW"
+}, {
+  "code" : "Hpg",
+  "nameAA" : "HydroxyPhenylGlycine",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H9NO3",
+  "pubchem" : "36143",
+  "iupac" : "(2S)-2-amino-2-(4-hydroxyphenyl)acetic acid",
+  "smiles" : "NC(C(=O)O)c1ccc(O)cc1",
+  "isomeric" : "C1=CC(=CC=C1[C@@H](C(=O)O)N)O",
+  "molecularWeight" : 167.16196,
+  "corres" : "D4P"
+}, {
+  "code" : "Hph",
+  "nameAA" : "Homophenylalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C10H13NO2",
+  "pubchem" : "2724505",
+  "iupac" : "(2S)-2-amino-4-phenylbutanoic acid",
+  "smiles" : "NC(CCc1ccccc1)C(=O)O",
+  "isomeric" : "C1=CC=C(C=C1)CC[C@@H](C(=O)O)N",
+  "molecularWeight" : 179.21573,
+  "corres" : "HPE"
+}, {
+  "code" : "Hpoe",
+  "nameAA" : "2-hydroxyphenyl-2-oxo-ethanoic acid",
+  "synonym" : "Pisolithin A,4-hydroxybenzoylformate,4-Hydroxyphenylglyoxylate,4-Hydroxyphenylglyoxylic acid,para-Hydroxybenzoylformic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H6O4",
+  "pubchem" : "355",
+  "iupac" : "2-(4-hydroxyphenyl)-2-oxoacetic acid",
+  "smiles" : "Oc1ccc(cc1)C(=O)C(=O)O",
+  "molecularWeight" : 166.13084
+}, {
+  "code" : "Hpr",
+  "nameAA" : "homoproline",
+  "synonym" : "pipecolic acid,pipecolinic acid,pipecolate",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO2",
+  "pubchem" : "439227",
+  "iupac" : "(2S)-piperidine-2-carboxylic acid",
+  "smiles" : "O=C(O)C1CCCCN1",
+  "isomeric" : "C1CCN[C@@H](C1)C(=O)O",
+  "molecularWeight" : 129.15704,
+  "corres" : "CPI"
+}, {
+  "code" : "Hse",
+  "nameAA" : "Homoserine",
+  "synonym" : "2-Amino-4-hydroxybutyric acid,2-Amino-4-hydroxybutyric acid,2-amino-4-hydroxybutanoic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO3",
+  "pubchem" : "12647",
+  "iupac" : "(2S)-2-amino-4-hydroxybutanoic acid",
+  "smiles" : "NC(CCO)C(=O)O",
+  "isomeric" : "C(CO)[C@@H](C(=O)O)N",
+  "molecularWeight" : 119.119156,
+  "corres" : "HSE"
+}, {
+  "code" : "HseL",
+  "nameAA" : "homoserine lactone",
+  "synonym" : "2-Aminobutan-4-olide,Alpha-amino-gamma-butyrolactone,3-Aminodihydro-2(3H)-furanone,2(3H)-furanone, 3-aminodihydro-",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H7NO2",
+  "pubchem" : "73509",
+  "iupac" : "3-aminooxolan-2-one",
+  "smiles" : "NC1CCOC1(=O)",
+  "molecularWeight" : 101.10388,
+  "corres" : "HSL"
+}, {
+  "code" : "Hty",
+  "nameAA" : "Homotyrosine",
+  "type" : "NRPS",
+  "molecularFormula" : "C10H13NO3",
+  "pubchem" : "4153395",
+  "iupac" : "2-amino-4-(4-hydroxyphenyl)butanoic acid",
+  "smiles" : "NC(CCc1ccc(O)cc1)C(=O)O",
+  "molecularWeight" : 195.21512
+}, {
+  "code" : "Hysp",
+  "nameAA" : "hydroxysecbutyl acetyl propionyl",
+  "type" : "unknown",
+  "molecularFormula" : "C9H16O4",
+  "smiles" : "CCC(C)C(O)C(=O)C(C)C(=O)O",
+  "molecularWeight" : 188.22095
+}, {
+  "code" : "Ibu",
+  "nameAA" : "4-amino-2,2-dimethyl-3-oxopentanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C7H13NO3",
+  "smiles" : "CC(N)C(=O)C(C)(C)C(O)=O",
+  "molecularWeight" : 159.18303
+}, {
+  "code" : "iC10:0",
+  "nameAA" : "8-methylnonanoic acid",
+  "synonym" : "Isodecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C10H20O2",
+  "pubchem" : "111470",
+  "iupac" : "8-methylnonanoic acid",
+  "smiles" : "CC(C)CCCCCCC(=O)O",
+  "molecularWeight" : 172.2646,
+  "corres" : "T55"
+}, {
+  "code" : "iC10:2(2.t4)",
+  "nameAA" : "2,trans4-8-methyl-noneoic acid",
+  "synonym" : "2,trans4-isonondienoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C10H16O2",
+  "smiles" : "CC(C)CCC=CC=CC(O)=O",
+  "molecularWeight" : 168.23285
+}, {
+  "code" : "iC11:0",
+  "nameAA" : "9-methyldecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C11H22O2",
+  "pubchem" : "5312289",
+  "iupac" : "9-methyldecanoic acid",
+  "smiles" : "CC(C)CCCCCCCC(=O)O",
+  "molecularWeight" : 186.29118
+}, {
+  "code" : "iC11:0-OH(3)",
+  "nameAA" : "3-hydroxy-9-methyl-decanoic acid",
+  "synonym" : "3-hydroxy-isoundecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C11H22O3",
+  "pubchem" : "15089798",
+  "iupac" : "3-hydroxy-9-methyldecanoic acid",
+  "smiles" : "CC(C)CCCCCC(O)CC(=O)O",
+  "molecularWeight" : 202.29059
+}, {
+  "code" : "iC12:0",
+  "nameAA" : "10-methylundecanoic acid",
+  "synonym" : "isododecanoic acid,isolauric acid",
+  "type" : "FAS",
+  "molecularFormula" : "C12H24O2",
+  "pubchem" : "75942",
+  "iupac" : "10-methylundecanoic acid",
+  "smiles" : "CC(C)CCCCCCCCC(=O)O",
+  "molecularWeight" : 200.31776,
+  "corres" : "M12"
+}, {
+  "code" : "iC12:0-OH(3)",
+  "nameAA" : "3-hydroxy-10-methyl-undecanoic acid",
+  "synonym" : "3-hydroxy-isododecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C12H24O3",
+  "pubchem" : "15089799",
+  "iupac" : "3-hydroxy-10-methylundecanoic acid",
+  "smiles" : "CC(C)CCCCCCC(O)CC(=O)O",
+  "molecularWeight" : 216.31717
+}, {
+  "code" : "iC12:2(2.t4)",
+  "nameAA" : "10-methyl-2,trans4-undecanoic acid",
+  "synonym" : "2,trans4-isododecenoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C12H20O2",
+  "smiles" : "CC(C)CCCCC=CC=CC(O)=O",
+  "molecularWeight" : 196.286
+}, {
+  "code" : "iC13:0",
+  "nameAA" : "11-methyldodecanoic acid",
+  "synonym" : "Isotridecanoic acid,11-methyllauric acid,ISOMYRISTIC ACID",
+  "type" : "FAS",
+  "molecularFormula" : "C13H26O2",
+  "pubchem" : "33002",
+  "iupac" : "11-methyldodecanoic acid",
+  "smiles" : "CC(C)CCCCCCCCCC(=O)O",
+  "molecularWeight" : 214.34433
+}, {
+  "code" : "iC13:0-OH(3)",
+  "nameAA" : "3-hydroxy-11-methyl-dodecanoic acid",
+  "synonym" : "3-hydroxy-isotridecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C13H26O3",
+  "pubchem" : "15089800",
+  "iupac" : "3-hydroxy-11-methyldodecanoic acid",
+  "smiles" : "CC(C)CCCCCCCC(O)CC(=O)O",
+  "molecularWeight" : 230.34373
+}, {
+  "code" : "iC13:1(3)",
+  "nameAA" : "11-methyl-3-dodecenoic acid",
+  "synonym" : "3-isotridecenoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C13H24O2",
+  "smiles" : "CC(C)CCCCCCC=CCC(O)=O",
+  "molecularWeight" : 212.32846
+}, {
+  "code" : "iC14:0",
+  "nameAA" : "12-methyl-tridecanoic acid",
+  "synonym" : "ISOMYRISTIC ACID,Aseanostatin P1",
+  "type" : "FAS",
+  "molecularFormula" : "C14H28O2",
+  "pubchem" : "520298",
+  "iupac" : "12-methyltridecanoic acid",
+  "smiles" : "CC(C)CCCCCCCCCCC(=O)O",
+  "molecularWeight" : 228.37093,
+  "corres" : "LNG"
+}, {
+  "code" : "iC14:0-NH2(3)",
+  "nameAA" : "3-amino-12-methyl-tridecanoic acid",
+  "synonym" : "3-amino-isotetradecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C14H29NO2",
+  "pubchem" : "22471993",
+  "iupac" : "3-amino-12-methyltridecanoic acid",
+  "smiles" : "CC(C)CCCCCCCCC(N)CC(=O)O",
+  "molecularWeight" : 243.38556
+}, {
+  "code" : "iC14:0-OH(3)",
+  "nameAA" : "3-hydroxy-12-methyl-tridecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C14H28O3",
+  "pubchem" : "22471995",
+  "iupac" : "3-hydroxy-12-methyltridecanoic acid",
+  "smiles" : "CC(C)CCCCCCCCC(O)CC(=O)O",
+  "molecularWeight" : 244.37033
+}, {
+  "code" : "iC14:1(3)",
+  "nameAA" : "12-methyl-3-tridecenoic acid",
+  "synonym" : "3-isotetradecenoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C14H26O2",
+  "smiles" : "CC(C)CCCCCCCC=CCC(O)=O",
+  "molecularWeight" : 226.35504,
+  "corres" : "LNG"
+}, {
+  "code" : "iC15:0-NH2(3)",
+  "nameAA" : "3-amino-13-methyl-tetradecanoic acid",
+  "synonym" : "3-amino-isopentadecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C15H31NO2",
+  "smiles" : "CC(C)CCCCCCCCCC(N)CC(O)=O",
+  "molecularWeight" : 257.41214
+}, {
+  "code" : "iC15:0-OH(3)",
+  "nameAA" : "3-hydroxy-13-methyl-tetradecanoic acid",
+  "synonym" : "3-hydroxy-isopentadecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C15H30O3",
+  "pubchem" : "11043456",
+  "iupac" : "3-hydroxy-13-methyltetradecanoic acid",
+  "smiles" : "CC(C)CCCCCCCCCC(O)CC(=O)O",
+  "molecularWeight" : 258.3969
+}, {
+  "code" : "iC16:0-NH2(3)",
+  "nameAA" : "3-amino-14-methyl-pentadecanoic acid",
+  "synonym" : "3-amino-isohexadecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C16H33NO2",
+  "smiles" : "CC(C)CCCCCCCCCCC(N)CC(O)=O",
+  "molecularWeight" : 271.43872
+}, {
+  "code" : "iC16:0-OH(3)",
+  "nameAA" : "3-hydroxy-14-methyl-pentadecanoic acid",
+  "synonym" : "3-hydroxy-isohexadecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C16H32O3",
+  "smiles" : "CC(C)CCCCCCCCCCC(O)CC(O)=O",
+  "molecularWeight" : 272.4235
+}, {
+  "code" : "iC17:0-NH2(3)",
+  "nameAA" : "3-amino-15-methyl-hexadecanoic acid",
+  "synonym" : "3-amino-isoheptadecanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C17H35NO2",
+  "smiles" : "CC(C)CCCCCCCCCCCC(N)CC(O)=O",
+  "molecularWeight" : 285.4653
+}, {
+  "code" : "iC17:0-OH(3)",
+  "nameAA" : "3-hydroxy-15-methyl-hexadecanoic acid",
+  "synonym" : "3-Hydroxy-15-methylhexadecanoate",
+  "type" : "FAS",
+  "molecularFormula" : "C17H34O3",
+  "pubchem" : "161495",
+  "iupac" : "3-hydroxy-15-methylhexadecanoic acid",
+  "smiles" : "CC(C)CCCCCCCCCCCC(O)CC(=O)O",
+  "molecularWeight" : 286.45007
+}, {
+  "code" : "iC5:0-OH(2.3)",
+  "nameAA" : "2,3-dihydroxy-3-methyl-butanoic acid",
+  "synonym" : "DIOH-ISOVALERATE,2,3-dihydroxy-isovalerate,2,3-Dihydroxyisovaleric acid",
+  "type" : "unknown",
+  "molecularFormula" : "C5H10O4",
+  "pubchem" : "677",
+  "iupac" : "2,3-dihydroxy-3-methylbutanoic acid",
+  "smiles" : "CC(C)(O)C(O)C(=O)O",
+  "molecularWeight" : 134.13051
+}, {
+  "code" : "iC5:0-OH(2.4)",
+  "nameAA" : "2,4-dihydroxy-3-methyl-butanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C5H10O4",
+  "smiles" : "CC(CO)C(O)C(=O)O",
+  "molecularWeight" : 134.13051
+}, {
+  "code" : "iC5:0-OH(2)-CA(4)",
+  "nameAA" : "2-hydroxy-3-methyl-butanedioic acid",
+  "synonym" : "2-Hydroxy-3-methylsuccinic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C5H8O5",
+  "pubchem" : "558882",
+  "iupac" : "2-hydroxy-3-methylbutanedioic acid",
+  "smiles" : "CC(C(=O)O)C(O)C(=O)O",
+  "molecularWeight" : 148.11403
+}, {
+  "code" : "iC6:0-OH(2.4)",
+  "nameAA" : "2,4-dihydroxy-4-methylpentanoic acid",
+  "synonym" : "2,4-dihydroxy-4-methyl-valeric acid",
+  "molecularFormula" : "C6H12O4",
+  "pubchem" : "55300467",
+  "iupac" : "2,4-dihydroxy-4-methylpentanoic acid",
+  "smiles" : "CC(C)(O)CC(O)C(=O)O",
+  "molecularWeight" : 148.158
+}, {
+  "code" : "iC7:0",
+  "nameAA" : "5-methyl-hexanoic acid",
+  "synonym" : "Isoenanthic acid,Isoheptanoic acid,Isovenanthic acid,Isoamylacetic acid,5-Methylcaproic acid,5-Methylhexylic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C7H14O2",
+  "pubchem" : "12344",
+  "iupac" : "5-methylhexanoic acid",
+  "smiles" : "CC(C)CCCC(=O)O",
+  "molecularWeight" : 130.18488
+}, {
+  "code" : "iC8:0",
+  "nameAA" : "6-methylheptanoic acid",
+  "synonym" : "Isooctanoic acid,Cekanoic C8 acid",
+  "type" : "FAS",
+  "molecularFormula" : "C8H16O2",
+  "pubchem" : "90716",
+  "iupac" : "6-methylheptanoic acid",
+  "smiles" : "CC(C)CCCCC(=O)O",
+  "molecularWeight" : 144.21144
+}, {
+  "code" : "iC8:0-Me(2.4)-OH(3)",
+  "nameAA" : "2,4,6-trimethyl-3-hydroxy-heptanoic acid",
+  "synonym" : "2,4-dimethyl-3-hydroxyisooctanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C10H20O3",
+  "smiles" : "CC(C)CC(C)C(O)C(C)C(=O)O",
+  "molecularWeight" : 188.26399
+}, {
+  "code" : "iC9:0",
+  "nameAA" : "7-methyloctanoic acid",
+  "synonym" : "isononanoic acic,Isononylic acid,7-methyl caprylic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C9H18O2",
+  "pubchem" : "33635",
+  "iupac" : "7-methyloctanoic acid",
+  "smiles" : "CC(C)CCCCCC(=O)O",
+  "molecularWeight" : 158.238
+}, {
+  "code" : "iC9:0-OH(3)",
+  "nameAA" : "3-hydroxy-7-methyl-octanoic acid",
+  "synonym" : "3-hydroxy-isononanoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C9H18O3",
+  "pubchem" : "22472006",
+  "iupac" : "3-hydroxy-7-methyloctanoic acid",
+  "smiles" : "CC(C)CCCC(O)CC(=O)O",
+  "molecularWeight" : 174.23743
+}, {
+  "code" : "iC9:2(2.t4)",
+  "nameAA" : "2,trans4-7-methyl-octenoic acid",
+  "synonym" : "2,trans2-isononeoic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C9H14O2",
+  "smiles" : "CC(C)CC=CC=CC(=O)O",
+  "molecularWeight" : 154.20625,
+  "corres" : "FA7"
+}, {
+  "code" : "Ile",
+  "nameAA" : "Isoleucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13NO2",
+  "pubchem" : "6306",
+  "iupac" : "(2S,3S)-2-amino-3-methylpentanoic acid",
+  "smiles" : "CCC(C)C(N)C(=O)O",
+  "isomeric" : "CC[C@H](C)[C@@H](C(=O)O)N",
+  "molecularWeight" : 131.17293,
+  "corres" : "ILE"
+}, {
+  "code" : "Ileol",
+  "nameAA" : "Isoleucinol",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H15NO",
+  "pubchem" : "2724027",
+  "iupac" : "(2S,3S)-2-amino-3-methylpentan-1-ol",
+  "smiles" : "CCC(C)C(N)CO",
+  "isomeric" : "CC[C@H](C)[C@@H](CO)N",
+  "molecularWeight" : 117.1894
+}, {
+  "code" : "Iser",
+  "nameAA" : "isoserine",
+  "synonym" : "(S)-2-Hydroxy-beta-alanine",
+  "type" : "unknown",
+  "molecularFormula" : "C3H7NO3",
+  "pubchem" : "6999797",
+  "iupac" : "(2S)-3-amino-2-hydroxypropanoic acid",
+  "smiles" : "NCC(O)C(=O)O",
+  "isomeric" : "C([C@@H](C(=O)O)O)N",
+  "molecularWeight" : 105.09258,
+  "corres" : "0QZ"
+}, {
+  "code" : "Isovaleric_acid",
+  "nameAA" : "3-methylbutanoic acid",
+  "molecularFormula" : "C5H10O2",
+  "pubchem" : "10430",
+  "iupac" : "3-methylbutanoic acid",
+  "smiles" : "CC(C)CC(=O)O",
+  "molecularWeight" : 102.133,
+  "corres" : "IVA"
+}, {
+  "code" : "Ist",
+  "nameAA" : "isostatine",
+  "type" : "unknown",
+  "molecularFormula" : "C8H17NO3",
+  "pubchem" : "14428564",
+  "iupac" : "4-amino-3-hydroxy-5-methylheptanoic acid",
+  "smiles" : "CCC(C)C(N)C(O)CC(=O)O",
+  "molecularWeight" : 175.22548,
+  "corres" : "IST"
+}, {
+  "code" : "Ival",
+  "nameAA" : "isovaline",
+  "synonym" : "2-Ethylalanine,2-Amino-2-methylbutanoate",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO2",
+  "pubchem" : "94744",
+  "iupac" : "2-amino-2-methylbutanoic acid",
+  "smiles" : "CCC(C)(N)C(=O)O",
+  "molecularWeight" : 117.14634,
+  "corres" : "DIV"
+}, {
+  "code" : "Ivalol",
+  "nameAA" : "isovalinol",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H13NO",
+  "pubchem" : "10154017",
+  "iupac" : "2-amino-2-methylbutan-1-ol",
+  "smiles" : "CCC(C)(N)CO",
+  "molecularWeight" : 103.16282
+}, {
+  "code" : "k-Arg",
+  "nameAA" : "alpha-ketoarginine",
+  "type" : "unknown",
+  "molecularFormula" : "C7H14N4O3",
+  "smiles" : "N=C(N)NCCCC(N)C(=O)C(=O)O",
+  "molecularWeight" : 202.21106
+}, {
+  "code" : "k-Leu",
+  "nameAA" : "keto-Leucine",
+  "synonym" : "2-Oxoisocaproate,alpha-oxoisocaproate,alpha-ketoisocaproate,Isopropylpyruvic acid,4-methyl-2-oxopentanoate,4-Methyl-2-oxovaleric acid",
+  "type" : "unknown",
+  "molecularFormula" : "C6H10O3",
+  "pubchem" : "70",
+  "iupac" : "4-methyl-2-oxopentanoic acid",
+  "smiles" : "CC(C)CC(=O)C(=O)O",
+  "molecularWeight" : 130.1418,
+  "corres" : "COI"
+}, {
+  "code" : "Kyn",
+  "nameAA" : "kynurenine",
+  "synonym" : "beta-Anthraniloyl-L-alanine,3-(2-aminobenzoyl)-L-alanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C10H12N2O3",
+  "pubchem" : "161166",
+  "iupac" : "(2S)-2-amino-4-(2-aminophenyl)-4-oxobutanoic acid",
+  "smiles" : "NC(CC(=O)c1ccccc1(N))C(=O)O",
+  "isomeric" : "C1=CC=C(C(=C1)C(=O)C[C@@H](C(=O)O)N)N",
+  "molecularWeight" : 208.21387
+}, {
+  "code" : "Lac",
+  "nameAA" : "Lactic acid",
+  "synonym" : "Sarcolactic acid,Paralactic acid,L-lactate,Paramilchsaeure,Espiritin",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H6O3",
+  "pubchem" : "107689",
+  "iupac" : "(2S)-2-hydroxypropanoic acid",
+  "smiles" : "CC(O)C(=O)O",
+  "isomeric" : "C[C@@H](C(=O)O)O",
+  "molecularWeight" : 90.07794,
+  "corres" : "LAC"
+}, {
+  "code" : "L-Dbu",
+  "nameAA" : "(2S,3S)-2,3-diaminobutyric acid",
+  "synonym" : "(2S,3S)-2,3-diaminobutanoic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H10N2O2",
+  "pubchem" : "11768553",
+  "iupac" : "(2S,3S)-2,3-diaminobutanoic acid",
+  "smiles" : "CC(N)C(N)C(=O)O",
+  "isomeric" : "C[C@@H]([C@@H](C(=O)O)N)N",
+  "molecularWeight" : 118.1344
+}, {
+  "code" : "Leu",
+  "nameAA" : "Leucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13NO2",
+  "pubchem" : "6106",
+  "iupac" : "(2S)-2-amino-4-methylpentanoic acid",
+  "smiles" : "CC(C)CC(N)C(=O)O",
+  "isomeric" : "CC(C)C[C@@H](C(=O)O)N",
+  "molecularWeight" : 131.17293,
+  "corres" : "LEU"
+}, {
+  "code" : "Leuol",
+  "nameAA" : "Leucinol",
+  "synonym" : "leucine whose C terminus is reduced from a carboxylic acid to an alcohol",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H15NO",
+  "pubchem" : "79030",
+  "iupac" : "2-amino-4-methylpentan-1-ol",
+  "smiles" : "CC(C)CC(N)CO",
+  "molecularWeight" : 117.1894,
+  "corres" : "DCL"
+}, {
+  "code" : "Lys",
+  "nameAA" : "Lysine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H14N2O2",
+  "pubchem" : "5962",
+  "iupac" : "(2S)-2,6-diaminohexanoic acid",
+  "smiles" : "NCCCCC(N)C(=O)O",
+  "isomeric" : "C(CCN)C[C@@H](C(=O)O)N",
+  "molecularWeight" : 146.18756,
+  "corres" : "LYS"
+}, {
+  "code" : "Lyx",
+  "nameAA" : "lyxose",
+  "synonym" : "",
+  "type" : "CS",
+  "molecularFormula" : "C5H10O5",
+  "pubchem" : "439240",
+  "iupac" : "(3S,4S,5R)-oxane-2,3,4,5-tetrol",
+  "smiles" : "OC1COC(O)C(O)C1(O)",
+  "isomeric" : "C1[C@H]([C@@H]([C@@H](C(O1)O)O)O)O",
+  "molecularWeight" : 150.12991,
+  "corres" : ""
+}, {
+  "code" : "Mab",
+  "nameAA" : "2-methyl-3-aminobutanoic acid",
+  "synonym" : "2-methyl-3-aminobutyric acid,3-Amino-2-methylbutanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C5H11NO2",
+  "pubchem" : "10336926",
+  "iupac" : "3-amino-2-methylbutanoic acid",
+  "smiles" : "CC(N)C(C)C(=O)O",
+  "molecularWeight" : 117.14634
+}, {
+  "code" : "Map",
+  "nameAA" : "2-methyl-3-aminopentanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C6H13NO2",
+  "smiles" : "CCC(N)C(C)C(=O)O",
+  "molecularWeight" : 131.17293
+}, {
+  "code" : "MCP",
+  "nameAA" : "N-methylchloropyrrole",
+  "type" : "unknown",
+  "molecularFormula" : "C6H6ClNO2",
+  "pubchem" : "9115266",
+  "iupac" : "4-chloro-1-methylpyrrole-2-carboxylic acid",
+  "smiles" : "Cn1cc(cc1(C(=O)O))Cl",
+  "molecularWeight" : 159.57034
+}, {
+  "code" : "MdCP",
+  "nameAA" : "N-methyldichloropyrrole-2-carboxylic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C6H5Cl2NO2",
+  "smiles" : "Cn1c(cc(c1Cl)Cl)C(=O)O",
+  "molecularWeight" : 194.01541
+}, {
+  "code" : "Me2-Bmt",
+  "nameAA" : "4-butenyl-4-methyl-N,4-methyl threonine",
+  "synonym" : "3-HYDROXY-4,4-DIMETHYL-2-(METHYLAMINO)-6-OCTENOIC ACID,DMT",
+  "type" : "NRPS",
+  "molecularFormula" : "C11H21NO3",
+  "pubchem" : "7887106",
+  "iupac" : "(E,2S,3R)-3-hydroxy-4,4-dimethyl-2-methylaminooct-6-enoic acid",
+  "smiles" : "CC=CCC(C)(C)C(O)C(NC)C(=O)O",
+  "isomeric" : "CC=CCC(C)(C)[C@H]([C@@H](C(=O)O)NC)O",
+  "molecularWeight" : 215.28934,
+  "corres" : "DMT"
+}, {
+  "code" : "Me-AOA",
+  "nameAA" : "methyl-2-aminooctanoic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H19NO2",
+  "smiles" : "CCCCCCCC(N)C(=O)O",
+  "molecularWeight" : 173.25266
+}, {
+  "code" : "MeO-D-Glu",
+  "nameAA" : "D-Glutamic Acid methyl ester",
+  "synonym" : "5-Methyl D-glutamate",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO4",
+  "pubchem" : "688481",
+  "iupac" : "(2R)-2-amino-5-methoxy-5-oxopentanoic acid",
+  "smiles" : "COC(=O)CCC(N)C(=O)O",
+  "isomeric" : "COC(=O)CC[C@H](C(=O)O)N",
+  "molecularWeight" : 161.15584
+}, {
+  "code" : "MeO-Glu",
+  "nameAA" : "Glutamic Acid methyl ester",
+  "synonym" : "5-Methyl-L-glutamate,L-Glutamic acid 5-methyl ester",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO4",
+  "pubchem" : "10365295",
+  "iupac" : "2-amino-5-methoxy-5-oxopentanoic acid",
+  "smiles" : "COC(=O)CCC(N)C(=O)O",
+  "molecularWeight" : 161.15584
+}, {
+  "code" : "MeOx-Ile",
+  "nameAA" : "methyloxazoline-isoleucine",
+  "synonym" : "",
+  "type" : "unknown",
+  "molecularFormula" : "C10H18N2O3",
+  "pubchem" : "",
+  "iupac" : "",
+  "smiles" : "CCC(C)C(N)C1=NC(C(=O)O)C(C)O1",
+  "isomeric" : "",
+  "molecularWeight" : 214.26152,
+  "corres" : ""
+}, {
+  "code" : "Me-Suc",
+  "nameAA" : "methyl-succinimide",
+  "synonym" : "3-methyl-2,5-pyrrolidinedione",
+  "type" : "PKS",
+  "molecularFormula" : "C5H7NO2",
+  "pubchem" : "138540",
+  "iupac" : "3-methylpyrrolidine-2,5-dione",
+  "smiles" : "CC1CC(=O)NC1(=O)",
+  "molecularWeight" : 113.11458
+}, {
+  "code" : "Met",
+  "nameAA" : "Methionine",
+  "synonym" : "Cymethion,Methilanin,L-Methioninum",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO2S",
+  "pubchem" : "6137",
+  "iupac" : "(2S)-2-amino-4-methylsulfanylbutanoic acid",
+  "smiles" : "CSCCC(N)C(=O)O",
+  "isomeric" : "CSCC[C@@H](C(=O)O)N",
+  "molecularWeight" : 149.21133,
+  "corres" : "MET"
+}, {
+  "code" : "Me-Vaa",
+  "nameAA" : "3-methylvaleric acid",
+  "synonym" : "3-methylPentanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C6H12O2",
+  "pubchem" : "7755",
+  "iupac" : "3-methylpentanoic acid",
+  "smiles" : "CCC(C)CC(=O)O",
+  "isomeric" : "",
+  "molecularWeight" : 116.15829,
+  "corres" : ""
+}, {
+  "code" : "N1-COOH-bhTrp",
+  "nameAA" : "N1-carboxy-bichomotryptophan",
+  "type" : "unknown",
+  "molecularFormula" : "C14H16N2O4",
+  "smiles" : "NC(CCCc1cn(C(=O)O)c2ccccc12)C(=O)O",
+  "molecularWeight" : 276.28787
+}, {
+  "code" : "NAc-Dpr",
+  "nameAA" : "N1-acetyl-2,3-Diaminopropionic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C5H10N2O3",
+  "smiles" : "CC(=O)NC(CN)C(=O)O",
+  "molecularWeight" : 146.1445
+}, {
+  "code" : "NAc-Fo-OH-Orn",
+  "nameAA" : "N-acetyl-N6-formyl-N6-hydroxyOrnithine",
+  "type" : "unknown",
+  "molecularFormula" : "C8H14N2O5",
+  "smiles" : "CC(=O)NC(CCCN(O)C=O)C(=O)O",
+  "molecularWeight" : 218.20717
+}, {
+  "code" : "NAc-Ile",
+  "nameAA" : "N-acetyl-Isoleucine",
+  "synonym" : "acetyl-Isoleucine",
+  "molecularFormula" : "C8H15NO3",
+  "pubchem" : "7036275",
+  "iupac" : "(2S,3S)-2-acetamido-3-methylpentanoic acid",
+  "smiles" : "CCC(C)C(NC(C)=O)C(=O)O",
+  "isomeric" : "CC[C@H](C)[C@@H](C(=O)O)NC(=O)C",
+  "molecularWeight" : 173.2096
+}, {
+  "code" : "NAc-Leu",
+  "nameAA" : "N-acetyl-Leucine",
+  "synonym" : "acetyl-Leucine",
+  "type" : "unknown",
+  "molecularFormula" : "C8H15NO3",
+  "pubchem" : "70912",
+  "iupac" : "(2S)-2-acetamido-4-methylpentanoic acid",
+  "smiles" : "CC(C)CC(NC(C)=O)C(=O)O",
+  "isomeric" : "CC(C)C[C@@H](C(=O)O)NC(=O)C",
+  "molecularWeight" : 173.2096,
+  "corres" : "LAY"
+}, {
+  "code" : "NdMe-Ala",
+  "nameAA" : "N-dimethyl-Alanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO2",
+  "pubchem" : "728583",
+  "iupac" : "(2S)-2-dimethylaminopropanoic acid",
+  "smiles" : "CC(C(=O)O)N(C)C",
+  "isomeric" : "C[C@@H](C(=O)O)N(C)C",
+  "molecularWeight" : 117.14634,
+  "corres" : "LAL"
+}, {
+  "code" : "NdMe-Leu",
+  "nameAA" : "N-dimethyl-leucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H17NO2",
+  "pubchem" : "575134",
+  "iupac" : "2-dimethylamino-4-methylpentanoic acid",
+  "smiles" : "CC(C)CC(C(=O)O)N(C)C",
+  "molecularWeight" : 159.22607
+}, {
+  "code" : "NFo-Ala",
+  "nameAA" : "N-formyl-Alanine",
+  "type" : "unknown",
+  "molecularFormula" : "C4H7NO3",
+  "pubchem" : "10336836",
+  "iupac" : "2-formamidopropanoic acid",
+  "smiles" : "CC(NC=O)C(=O)O",
+  "molecularWeight" : 117.10328
+}, {
+  "code" : "NFo-D-Abu",
+  "nameAA" : "N-formyl-D-aminobutyric acid",
+  "synonym" : "2-(Formylamino)butanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C5H9NO3",
+  "pubchem" : "10366843",
+  "iupac" : "2-formamidobutanoic acid",
+  "smiles" : "CCC(NC=O)C(=O)O",
+  "molecularWeight" : 131.12985
+}, {
+  "code" : "NFo-Dpr",
+  "nameAA" : "N1-formyl-2,3-Diaminopropionic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C4H8N2O3",
+  "smiles" : "NCC(NC=O)C(=O)O",
+  "molecularWeight" : 132.11792,
+  "corres" : "0FL"
+}, {
+  "code" : "NFo-Gln",
+  "nameAA" : "N-formyl-Glutamine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H10N2O4",
+  "pubchem" : "3293755",
+  "iupac" : "5-amino-2-formamido-5-oxopentanoic acid",
+  "smiles" : "NC(=O)CCC(NC=O)C(=O)O",
+  "molecularWeight" : 174.1546
+}, {
+  "code" : "NFo-Ile",
+  "nameAA" : "N-formyl-Isoleucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H13NO3",
+  "pubchem" : "575051",
+  "iupac" : "2-formamido-3-methylpentanoic acid",
+  "smiles" : "CCC(C)C(NC=O)C(=O)O",
+  "molecularWeight" : 159.18303,
+  "corres" : "QIL"
+}, {
+  "code" : "NFo-Iser",
+  "nameAA" : "N-formyl-isoserine",
+  "type" : "unknown",
+  "molecularFormula" : "C4H7NO4",
+  "smiles" : "O=CNCC(O)C(=O)O",
+  "molecularWeight" : 133.10269
+}, {
+  "code" : "NFo-Leu",
+  "nameAA" : "N-formyl-Leucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H13NO3",
+  "pubchem" : "100119",
+  "iupac" : "2-formamido-4-methylpentanoic acid",
+  "smiles" : "CC(C)CC(NC=O)C(=O)O",
+  "molecularWeight" : 159.18303
+}, {
+  "code" : "NFo-Lys",
+  "nameAA" : "N-formyl-lysine",
+  "synonym" : "6-AMINO-2-FORMAMIDOHEXANOIC ACID",
+  "molecularFormula" : "C7H14N2O3",
+  "pubchem" : "12679627",
+  "smiles" : "NCCCCC(NC=O)C(=O)O",
+  "molecularWeight" : 174.2
+}, {
+  "code" : "NFo-Pro",
+  "nameAA" : "N-Formyl-Proline",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H9NO3",
+  "pubchem" : "116310",
+  "iupac" : "1-formylpyrrolidine-2-carboxylic acid",
+  "smiles" : "O=CN1CCCC1(C(=O)O)",
+  "molecularWeight" : 143.14056,
+  "corres" : "FPK"
+}, {
+  "code" : "NFo-Val",
+  "nameAA" : "N-formyl-Valine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H11NO3",
+  "pubchem" : "6950945",
+  "iupac" : "(2S)-2-formamido-3-methylbutanoic acid",
+  "smiles" : "CC(C)C(NC=O)C(=O)O",
+  "isomeric" : "CC(C)[C@@H](C(=O)O)NC=O",
+  "molecularWeight" : 145.15645,
+  "corres" : "FOR VAL"
+}, {
+  "code" : "NMe-aIle",
+  "nameAA" : "N-methyl-alloIsoleucine",
+  "synonym" : "",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H15NO2",
+  "pubchem" : "40475365",
+  "iupac" : "(2S,3R)-3-Methyl-2-methylaminopentanoic acid",
+  "smiles" : "CCC(C)C(NC)C(=O)O",
+  "isomeric" : "CC[C@@H](C)[C@@H](C(=O)O)NC",
+  "molecularWeight" : 145.19951,
+  "corres" : ""
+}, {
+  "code" : "NMe-Ala",
+  "nameAA" : "N-Methyl-Alanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO2",
+  "pubchem" : "5683",
+  "iupac" : "(2S)-2-methylaminopropanoic acid",
+  "smiles" : "CNC(C)C(=O)O",
+  "isomeric" : "C[C@@H](C(=O)O)NC",
+  "molecularWeight" : 103.11977,
+  "corres" : "MAA"
+}, {
+  "code" : "NMe-Asn",
+  "nameAA" : "N-methylasparagine",
+  "type" : "unknown",
+  "molecularFormula" : "C5H10N2O3",
+  "pubchem" : "350900",
+  "iupac" : "4-amino-2-methylamino-4-oxobutanoic acid",
+  "smiles" : "CNC(CC(N)=O)C(=O)O",
+  "molecularWeight" : 146.1445
+}, {
+  "code" : "NMe-bAla",
+  "nameAA" : "N-methyl-beta-alanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO2",
+  "pubchem" : "218106",
+  "iupac" : "3-methylaminopropanoic acid",
+  "smiles" : "CNCCC(=O)O",
+  "molecularWeight" : 103.11977
+}, {
+  "code" : "NMe-bMe-Leu",
+  "nameAA" : "N,beta-dimethylLeucine",
+  "type" : "unknown",
+  "molecularFormula" : "C8H17NO2",
+  "pubchem" : "15385160",
+  "iupac" : "3,4-dimethyl-2-methylaminopentanoic acid",
+  "smiles" : "CNC(C(=O)O)C(C)C(C)C",
+  "molecularWeight" : 159.22607
+}, {
+  "code" : "NMe-Bmt",
+  "nameAA" : "N-methyl-4-butenyl-4-methyl threonine",
+  "type" : "NRPS",
+  "molecularFormula" : "C10H19NO3",
+  "pubchem" : "492347",
+  "iupac" : "(E,2S,3R)-3-hydroxy-4-methyl-2-methylaminooct-6-enoic acid",
+  "smiles" : "CC=CCC(C)C(O)C(NC)C(=O)O",
+  "isomeric" : "CC=CCC(C)[C@H]([C@@H](C(=O)O)NC)O",
+  "molecularWeight" : 201.26276,
+  "corres" : "BMT"
+}, {
+  "code" : "NMe-Br-Trp",
+  "nameAA" : "N-methyl-2-Bromo-tryptophan",
+  "type" : "NRPS",
+  "molecularFormula" : "C12H13BrN2O2",
+  "smiles" : "CNC(Cc1c2ccccc2([nH]c1Br))C(=O)O",
+  "molecularWeight" : 297.14783
+}, {
+  "code" : "NMe-Cl-OH-Trp",
+  "nameAA" : "N-methyl-6-chloro-5-hydroxytryptophan",
+  "type" : "unknown",
+  "molecularFormula" : "C12H13ClN2O3",
+  "smiles" : "CNC(Cc1c[nH]c2cc(c(O)cc12)Cl)C(=O)O",
+  "molecularWeight" : 268.69623
+}, {
+  "code" : "NMe-Cl-Trp",
+  "nameAA" : "N-methyl-6-chloro-tryptophan",
+  "type" : "unknown",
+  "molecularFormula" : "C12H13ClN2O2",
+  "smiles" : "CNC(Cc1c[nH]c2cc(ccc12)Cl)C(=O)O",
+  "molecularWeight" : 252.69682
+}, {
+  "code" : "NMe-Cys",
+  "nameAA" : "N-methylcysteine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO2S",
+  "pubchem" : "452303",
+  "iupac" : "(2R)-2-(methylamino)-3-sulfanylpropanoic acid",
+  "smiles" : "CNC(CS)C(=O)O",
+  "isomeric" : "CN[C@@H](CS)C(=O)O",
+  "molecularWeight" : 135.1848,
+  "corres" : "NCY"
+}, {
+  "code" : "NMe-Dha",
+  "nameAA" : "N-Methyl-dehydroalanine",
+  "synonym" : "2-Propenoic acid, 2-(methylamino)-",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H7NO2",
+  "pubchem" : "711113",
+  "iupac" : "2-methylaminoprop-2-enoic acid",
+  "smiles" : "CNC(=C)C(=O)O",
+  "molecularWeight" : 101.10388,
+  "corres" : "DAM"
+}, {
+  "code" : "NMe-dPhe",
+  "nameAA" : "N-methyl-2,3-dehydrophenylalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C10H11NO2",
+  "smiles" : "CNC(=Cc1ccccc1)C(O)=O",
+  "molecularWeight" : 177.19984
+}, {
+  "code" : "NMe-Gln",
+  "nameAA" : "N-methylglutamine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H12N2O",
+  "pubchem" : "738177",
+  "iupac" : "5-amino-2-methylamino-5-oxopentanoic acid",
+  "smiles" : "CNC(CCC(N)=O)C(=O)O",
+  "molecularWeight" : 128.17227,
+  "corres" : "GNC"
+}, {
+  "code" : "NMe-Gly",
+  "nameAA" : "N-Methyl-Glycine",
+  "synonym" : "sarcosine",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H7NO2",
+  "pubchem" : "1088",
+  "iupac" : "2-methylaminoacetic acid",
+  "smiles" : "CNCC(=O)O",
+  "molecularWeight" : 89.09318,
+  "corres" : "SAR"
+}, {
+  "code" : "NMe-Gly-Thz",
+  "nameAA" : "N-Methyl-Glycine-thiazole",
+  "synonym" : "Sarcosine-thiazole",
+  "type" : "unknown",
+  "molecularFormula" : "C5H8N2S",
+  "pubchem" : "18939834",
+  "iupac" : "N-methyl-1-(1,3-thiazol-2-yl)methanamine",
+  "smiles" : "CNCc1nccs1",
+  "molecularWeight" : 128.19542
+}, {
+  "code" : "NMe-Hpg",
+  "nameAA" : "N-methyl-HydroxyPhenylGlycine",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H11NO3",
+  "pubchem" : "15118056",
+  "iupac" : "2-(4-hydroxyphenyl)-2-methylaminoacetic acid",
+  "smiles" : "CNC(C(=O)O)c1ccc(O)cc1",
+  "molecularWeight" : 181.18854
+}, {
+  "code" : "NMe-Hty",
+  "nameAA" : "N-methyl-homotyrosine",
+  "type" : "NRPS",
+  "molecularFormula" : "C11H15NO3",
+  "smiles" : "CNC(CCc1ccc(O)cc1)C(=O)O",
+  "molecularWeight" : 209.2417
+}, {
+  "code" : "NMe-hv-Val",
+  "nameAA" : "N-methyl homo vinylogous Valine",
+  "type" : "unknown",
+  "molecularFormula" : "C9H17NO2",
+  "smiles" : "CNC(C=C(C)C(O)=O)C(C)C",
+  "molecularWeight" : 171.23677
+}, {
+  "code" : "NMe-Ile",
+  "nameAA" : "N-Methyl-Isoleucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H15NO2",
+  "pubchem" : "5288628",
+  "iupac" : "(2S,3S)-3-methyl-2-methylaminopentanoic acid",
+  "smiles" : "CCC(C)C(NC)C(=O)O",
+  "isomeric" : "CC[C@H](C)[C@@H](C(=O)O)NC",
+  "molecularWeight" : 145.19951,
+  "corres" : "IML"
+}, {
+  "code" : "NMe-Lan",
+  "nameAA" : "N-Methyl-Lanthionine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H12N2O5S",
+  "smiles" : "NC(CSCC(NO)C(O)=O)C(=O)O",
+  "molecularWeight" : 224.23488
+}, {
+  "code" : "NMe-Leu",
+  "nameAA" : "N-Methyl-Leucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H15NO2",
+  "pubchem" : "567743",
+  "iupac" : "4-methyl-2-methylaminopentanoic acid",
+  "smiles" : "CNC(CC(C)C)C(=O)O",
+  "molecularWeight" : 145.19951,
+  "corres" : "MLE"
+}, {
+  "code" : "NMe-Me2A-Phe",
+  "nameAA" : "N-methyl-4-dimethylamino-phenylalanine",
+  "synonym" : "4-dimethylparaaminophenylalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C12H18N2O2",
+  "smiles" : "CNC(Cc1ccc(cc1)N(C)C)C(=O)O",
+  "molecularWeight" : 222.28351,
+  "corres" : "MHU"
+}, {
+  "code" : "NMe-MeA-Phe",
+  "nameAA" : "N-methyl-4-methylamino-phenylalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C11H16N2O2",
+  "pubchem" : "21137790",
+  "iupac" : "2-methylamino-3-(4-methylaminophenyl)propanoic acid",
+  "smiles" : "CNc1ccc(cc1)CC(NC)C(=O)O",
+  "molecularWeight" : 208.25694
+}, {
+  "code" : "NMe-NAc-Ile",
+  "nameAA" : "N-methyl-N-acetyl-Isoleucine",
+  "synonym" : "methyl-acetyl-Isoleucine",
+  "molecularFormula" : "C9H17NO3",
+  "pubchem" : "63703758",
+  "iupac" : "2-[acetyl(methyl)amino]-3-methylpentanoic acid",
+  "smiles" : "CCC(C)C(C(=O)O)N(C)C(C)=O",
+  "isomeric" : "CC[C@H](C)[C@@H](C(=O)O)N(C)C(=O)C",
+  "molecularWeight" : 187.121
+}, {
+  "code" : "NMe-OH-Ile",
+  "nameAA" : "N-methyl-hydroxyisoleucine",
+  "type" : "unknown",
+  "molecularFormula" : "C7H15NO3",
+  "smiles" : "CNC(C(O)=O)C(C)CCO",
+  "molecularWeight" : 161.1989
+}, {
+  "code" : "NMe-OH-Trp",
+  "nameAA" : "N-methyl-5-hydroxytryptophan",
+  "type" : "unknown",
+  "molecularFormula" : "C12H14N2O3",
+  "smiles" : "CNC(Cc1c[nH]c2ccc(O)cc12)C(=O)O",
+  "molecularWeight" : 234.25116
+}, {
+  "code" : "NMe-OMe-Ile",
+  "nameAA" : "N,O-dimethyl-isoleucine",
+  "type" : "unknown",
+  "molecularFormula" : "C8H17NO2",
+  "smiles" : "CCC(C)C(NC)C(=O)OC",
+  "molecularWeight" : 159.22607
+}, {
+  "code" : "NMe-OMe-Tyr",
+  "nameAA" : "N,O-dimethyl-tyrosine",
+  "type" : "NRPS",
+  "molecularFormula" : "C11H15NO3",
+  "pubchem" : "18925327",
+  "iupac" : "3-(4-methoxyphenyl)-2-methylaminopropanoic acid",
+  "smiles" : "CNC(Cc1ccc(cc1)OC)C(=O)O",
+  "molecularWeight" : 209.2417,
+  "corres" : "MTJ"
+}, {
+  "code" : "NMe-OMe-TyrC",
+  "nameAA" : "N,O-dimethyl-tyrosinecarboxamid",
+  "type" : "unknown",
+  "molecularFormula" : "C11H16N2O2",
+  "pubchem" : "19003692",
+  "iupac" : "3-(4-methoxyphenyl)-2-methylaminopropanamide",
+  "smiles" : "CNC(Cc1ccc(cc1)OC)C(N)=O",
+  "molecularWeight" : 208.25694
+}, {
+  "code" : "NMe-Phe",
+  "nameAA" : "N-Methyl-Phenylalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C10H13NO2",
+  "pubchem" : "6427037",
+  "iupac" : "(2R)-2-methylamino-3-phenylpropanoic acid",
+  "smiles" : "CNC(Cc1ccccc1)C(=O)O",
+  "isomeric" : "CN[C@H](CC1=CC=CC=C1)C(=O)O",
+  "molecularWeight" : 179.21573,
+  "corres" : "MEA"
+}, {
+  "code" : "NMe-Ph-Gly",
+  "nameAA" : "N-methyl-phenylglycine",
+  "type" : "unknown",
+  "molecularFormula" : "C9H11NO2",
+  "pubchem" : "228214",
+  "iupac" : "2-methylamino-2-phenylacetic acid",
+  "smiles" : "CNC(C(=O)O)c1ccccc1",
+  "molecularWeight" : 165.18913,
+  "corres" : "MPQ"
+}, {
+  "code" : "NMe-Ser",
+  "nameAA" : "N-Methyl-Serine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO3",
+  "pubchem" : "10358101",
+  "iupac" : "3-hydroxy-2-methylaminopropanoic acid",
+  "smiles" : "CNC(CO)C(=O)O",
+  "molecularWeight" : 119.119156
+}, {
+  "code" : "NMe-Thr",
+  "nameAA" : "N-methylthreonine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO3",
+  "pubchem" : "21252500",
+  "iupac" : "3-hydroxy-2-methylaminobutanoic acid",
+  "smiles" : "CNC(C(C)O)C(=O)O",
+  "molecularWeight" : 133.14574
+}, {
+  "code" : "NMe-Tyr",
+  "nameAA" : "N-methyltyrosine",
+  "synonym" : "Surinamine",
+  "type" : "NRPS",
+  "molecularFormula" : "C10H13NO3",
+  "pubchem" : "210432",
+  "iupac" : "(2S)-3-(4-hydroxyphenyl)-2-methylaminopropanoic acid",
+  "smiles" : "CNC(Cc1ccc(O)cc1)C(=O)O",
+  "isomeric" : "CN[C@@H](CC1=CC=C(C=C1)O)C(=O)O",
+  "molecularWeight" : 195.21512,
+  "corres" : "YNM"
+}, {
+  "code" : "NMe-Val",
+  "nameAA" : "N-Methyl-Valine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13NO2",
+  "pubchem" : "4378",
+  "iupac" : "3-methyl-2-methylaminobutanoic acid",
+  "smiles" : "CNC(C(C)C)C(=O)O",
+  "molecularWeight" : 131.17293,
+  "corres" : "MVA"
+}, {
+  "code" : "N-OH-Hta",
+  "nameAA" : "N-Hydroxy-histamine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H14N2O2",
+  "smiles" : "ONCCC1CNCN1",
+  "molecularWeight" : 146.18756
+}, {
+  "code" : "NOMe-Ac-D-Phe",
+  "nameAA" : "N-methoxyacetyl-D-phenylalanine",
+  "type" : "unknown",
+  "molecularFormula" : "C12H15NO4",
+  "pubchem" : "16774532",
+  "iupac" : "2-[(2-methoxyacetyl)amino]-3-phenylpropanoic acid",
+  "smiles" : "COCC(=O)NC(Cc1ccccc1)C(=O)O",
+  "molecularWeight" : 237.2518
+}, {
+  "code" : "NOMe-Ac-Val",
+  "nameAA" : "N-methoxyacetyl-valine",
+  "type" : "unknown",
+  "molecularFormula" : "C8H15NO4",
+  "pubchem" : "16771724",
+  "iupac" : "2-[(2-methoxyacetyl)amino]-3-methylbutanoic acid",
+  "smiles" : "COCC(=O)NC(C(C)C)C(=O)O",
+  "molecularWeight" : 189.209
+}, {
+  "code" : "norCMA",
+  "nameAA" : "norcoronamic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H9NO2",
+  "smiles" : "CC1CC1(N)C(=O)O",
+  "molecularWeight" : 115.13046
+}, {
+  "code" : "NSpd",
+  "nameAA" : "norspermidine",
+  "synonym" : "Dipropylenetriamine,Caldine,3,3-Iminobispropylamine,3,3-Diaminodipropylamine",
+  "type" : "other",
+  "molecularFormula" : "C6H17N3",
+  "pubchem" : "5942",
+  "iupac" : "N-(3-aminopropyl)propane-1,3-diamine",
+  "smiles" : "NCCCNCCCN",
+  "molecularWeight" : 131.21928,
+  "corres" : "NSD"
+}, {
+  "code" : "Nst",
+  "nameAA" : "norstatine",
+  "synonym" : "AHMHA,3-Amino-2-hydroxy-5-methylhexanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C7H15NO3",
+  "pubchem" : "173844",
+  "iupac" : "3-amino-2-hydroxy-5-methylhexanoic acid",
+  "smiles" : "CC(C)CC(N)C(O)C(=O)O",
+  "molecularWeight" : 161.1989,
+  "corres" : "L3O"
+}, {
+  "code" : "N-Suc",
+  "nameAA" : "Succinamid acid",
+  "molecularFormula" : "C4H7NO3",
+  "pubchem" : "12522",
+  "iupac" : "4-amino-4-oxobutanoic acid",
+  "smiles" : "NC(=O)CCC(=O)O",
+  "molecularWeight" : 117.104
+}, {
+  "code" : "NtMe-Leu",
+  "nameAA" : "N-trimethyl-leucine",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H20NO2",
+  "smiles" : "CC(C)CC(C(=O)O)N(C)(C)C",
+  "molecularWeight" : 174.26059
+}, {
+  "code" : "Nva",
+  "nameAA" : "Norvaline",
+  "synonym" : "2-Aminovaleric acid,2-Aminopentanoic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO2",
+  "pubchem" : "65098",
+  "iupac" : "(2S)-2-aminopentanoic acid",
+  "smiles" : "CCCC(N)C(=O)O",
+  "isomeric" : "CCC[C@@H](C(=O)O)N",
+  "molecularWeight" : 117.14634,
+  "corres" : "NVA"
+}, {
+  "code" : "O2-Met",
+  "nameAA" : "Methionine sulfone",
+  "synonym" : "S-DIOXYMETHIONINE",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO4S",
+  "pubchem" : "445282",
+  "iupac" : "(2S)-2-amino-4-methylsulfonylbutanoic acid",
+  "smiles" : "CS(=O)(=O)CCC(N)C(=O)O",
+  "isomeric" : "CS(=O)(=O)CC[C@@H](C(=O)O)N",
+  "molecularWeight" : 181.21014,
+  "corres" : "OMT"
+}, {
+  "code" : "OAc-Leuol",
+  "nameAA" : "O-acetyl-leucinol",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H17NO2",
+  "pubchem" : "23037829",
+  "iupac" : "(2-amino-4-methylpentyl) acetate",
+  "smiles" : "CC(C)CC(N)COC(C)=O",
+  "molecularWeight" : 159.22607
+}, {
+  "code" : "OH-4Abu",
+  "nameAA" : "4-amino-3-hydroxybutyric acid",
+  "synonym" : "4-amino-3-hydroxybutanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C4H9NO3",
+  "pubchem" : "10324161",
+  "iupac" : "4-amino-3-hydroxybutanoic acid",
+  "smiles" : "NCC(O)CC(=O)O",
+  "isomeric" : "NC[C@@H](O)CC(=O)O",
+  "molecularWeight" : 119.119156
+}, {
+  "code" : "OH-Asn",
+  "nameAA" : "Hydroxyasparagine",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H8N2O4",
+  "pubchem" : "152191",
+  "iupac" : "2,4-diamino-3-hydroxy-4-oxobutanoic acid",
+  "smiles" : "NC(=O)C(O)C(N)C(=O)O",
+  "molecularWeight" : 148.11732,
+  "corres" : "AHB"
+}, {
+  "code" : "OH-Asp",
+  "nameAA" : "Hydroxyaspartic acid",
+  "synonym" : "3-hydroxyaspartic acid,Malic acid, 3-amino-,beta-Hydroxyaspartic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H7NO5",
+  "pubchem" : "5425",
+  "iupac" : "2-amino-3-hydroxybutanedioic acid",
+  "smiles" : "NC(C(=O)O)C(O)C(=O)O",
+  "molecularWeight" : 149.10208,
+  "corres" : "BHD"
+}, {
+  "code" : "OH-bLys",
+  "nameAA" : "hydroxy-beta lysine",
+  "synonym" : "",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H14N2O3",
+  "pubchem" : "14158724",
+  "iupac" : "3,6-diamino-4-hydroxyhexanoic acid",
+  "smiles" : "NCCC(O)C(N)CC(O)=O",
+  "isomeric" : "",
+  "molecularWeight" : 162.189,
+  "corres" : ""
+}, {
+  "code" : "OH-cOrn",
+  "nameAA" : "Hydroxy-cycloOrnithine",
+  "synonym" : "N5-hydroxy-cycloornithine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H10N2O2",
+  "pubchem" : "18360061",
+  "iupac" : "3-amino-1-hydroxypiperidin-2-one",
+  "smiles" : "NC1CCCN(O)C1(=O)",
+  "molecularWeight" : 130.1451
+}, {
+  "code" : "OH-dHpg",
+  "nameAA" : "N-hydroxy-dehydro-HydroxyPhenylGlycine",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H7NO4",
+  "pubchem" : "20339127",
+  "iupac" : "2-(hydroxyamino)-2-(4-oxo-1-cyclohexa-2,5-dienylidene)acetic acid",
+  "smiles" : "ONC(C(=O)O)=C1C=CC(=O)C=C1",
+  "molecularWeight" : 181.14548
+}, {
+  "code" : "OH-His",
+  "nameAA" : "Hydroxyhistidine",
+  "synonym" : "3-hydroxyhistidine",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H9N3O3",
+  "pubchem" : "429096",
+  "iupac" : "2-amino-3-hydroxy-3-(3H-imidazol-4-yl)propanoic acid",
+  "smiles" : "NC(C(=O)O)C(O)c1cnc[nH]1",
+  "molecularWeight" : 171.15396
+}, {
+  "code" : "OH-Orn",
+  "nameAA" : "N5-hydroxy ornithine",
+  "synonym" : "delta-N-Hydroxyornithine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H12N2O3",
+  "pubchem" : "169671",
+  "iupac" : "(2S)-2-amino-5-(hydroxyamino)pentanoic acid",
+  "smiles" : "NC(CCCNO)C(=O)O",
+  "isomeric" : "C(C[C@@H](C(=O)O)N)CNO",
+  "molecularWeight" : 148.16037
+}, {
+  "code" : "OH-Pyr",
+  "nameAA" : "hydroxy pyrrolidone",
+  "synonym" : "4-hydroxypyrrolidin-2-one",
+  "type" : "unknown",
+  "molecularFormula" : "C4H7NO2",
+  "pubchem" : "155084",
+  "iupac" : "(4S)-4-hydroxypyrrolidin-2-one",
+  "smiles" : "OC1CNC(=O)C1",
+  "isomeric" : "C1[C@@H](CNC1=O)O",
+  "molecularWeight" : 101.10388
+}, {
+  "code" : "OH-Trp",
+  "nameAA" : "5-hydroxytryptophan",
+  "synonym" : "oxitriptan,oxytryptophan",
+  "type" : "unknown",
+  "molecularFormula" : "C11H12N2O3",
+  "pubchem" : "144",
+  "iupac" : "2-amino-3-(5-hydroxy-1H-indol-3-yl)propanoic acid",
+  "smiles" : "NC(Cc1c[nH]c2ccc(O)cc12)C(=O)O",
+  "molecularWeight" : 220.22458,
+  "corres" : "HRP"
+}, {
+  "code" : "Oli",
+  "nameAA" : "L-Olivose",
+  "synonym" : "",
+  "type" : "CS",
+  "molecularFormula" : "C6H14O4",
+  "pubchem" : "10888063",
+  "iupac" : "(4R,5S,6R)-6-methyloxane-2,4,5-triol",
+  "smiles" : "CC1OC(O)CC(O)C1(O)",
+  "isomeric" : "C[C@@H]1[C@H]([C@@H](CC(O1)O)O)O",
+  "molecularWeight" : 150.17296,
+  "corres" : ""
+}, {
+  "code" : "OMe-Asp",
+  "nameAA" : "methoxyaspartic acid",
+  "synonym" : "3-O-methyl-aspartic acid,Aspartic Acid methyl ester",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H9NO5",
+  "smiles" : "CO=C(C(=O)O)C(N)C(=O)O",
+  "molecularWeight" : 163.12866
+}, {
+  "code" : "OMe-bAla-Thz",
+  "nameAA" : "1-methoxy-beta-alanine-thiazole",
+  "type" : "NRPS",
+  "molecularFormula" : "C7H10N2O2S",
+  "smiles" : "COC(=O)CC(N)c1nccs1",
+  "molecularWeight" : 186.23152
+}, {
+  "code" : "O-Met",
+  "nameAA" : "Methionine-S-oxide",
+  "synonym" : "Methionine sulfoxide,L-2-Amino-4-(methylsulfinyl)butanoic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO3S",
+  "pubchem" : "158980",
+  "iupac" : "(2S)-2-amino-4-methylsulfinylbutanoic acid",
+  "smiles" : "CS(=O)CCC(N)C(=O)O",
+  "isomeric" : "CS(=O)CC[C@@H](C(=O)O)N",
+  "molecularWeight" : 165.21074,
+  "corres" : "MHO"
+}, {
+  "code" : "OMe-Thr",
+  "nameAA" : "O-methyl-threonine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO3",
+  "pubchem" : "2724875",
+  "iupac" : "(2S,3R)-2-amino-3-methoxybutanoic acid",
+  "smiles" : "COC(C)C(N)C(=O)O",
+  "isomeric" : "C[C@H]([C@@H](C(=O)O)N)OC",
+  "molecularWeight" : 133.14574,
+  "corres" : "OLT"
+}, {
+  "code" : "OMe-Trp",
+  "nameAA" : "methoxytryptophan",
+  "type" : "NRPS",
+  "molecularFormula" : "C12H14N2O3",
+  "smiles" : "COn2cc(CC(N)C(=O)O)c1ccccc12",
+  "molecularWeight" : 234.25116
+}, {
+  "code" : "Orn",
+  "nameAA" : "Ornithine",
+  "synonym" : "L-Norvaline, 5-amino-",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H12N2O2",
+  "pubchem" : "6262",
+  "iupac" : "(2S)-2,5-diaminopentanoic acid",
+  "smiles" : "NCCCC(N)C(=O)O",
+  "isomeric" : "C(C[C@@H](C(=O)O)N)CN",
+  "molecularWeight" : 132.16098,
+  "corres" : "ORN"
+}, {
+  "code" : "OSu-Hmp",
+  "nameAA" : "O-sulfate-2-hydroxy-3-methylpentanoic acid",
+  "synonym" : "",
+  "type" : "unknown",
+  "molecularFormula" : "C6H12O6S",
+  "pubchem" : "",
+  "iupac" : "",
+  "smiles" : "CCC(C)C(OS(=O)(=O)O)C(=O)O",
+  "isomeric" : "",
+  "molecularWeight" : 212.22089,
+  "corres" : ""
+}, {
+  "code" : "PALOA",
+  "nameAA" : "propenoyl-alanyloxazole acid",
+  "type" : "unknown",
+  "molecularFormula" : "C8H10N2O3",
+  "smiles" : "CC(N)c1nc(C=CC(=O)O)co1",
+  "molecularWeight" : 182.1766
+}, {
+  "code" : "PAOA",
+  "nameAA" : "propenoyl-2-aminobutanoyloxazole acid",
+  "type" : "unknown",
+  "molecularFormula" : "C9H12N2O3",
+  "smiles" : "CCC(N)c1nc(C=CC(=O)O)co1",
+  "molecularWeight" : 196.20317
+}, {
+  "code" : "Pda",
+  "nameAA" : "pentanedioic acid",
+  "synonym" : "glutaric acid,glutarate,n-Pyrotartaric acid",
+  "type" : "unknown",
+  "molecularFormula" : "C5H8O4",
+  "pubchem" : "743",
+  "iupac" : "pentanedioic acid",
+  "smiles" : "O=C(O)CCCC(=O)O",
+  "molecularWeight" : 132.11462,
+  "corres" : "GUA"
+}, {
+  "code" : "pGlu",
+  "nameAA" : "pyroglutamic acid",
+  "synonym" : "5-oxo-proline,Pyroglutamate,Pidolic acid",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H7NO3",
+  "pubchem" : "7405",
+  "iupac" : "(2S)-5-oxopyrrolidine-2-carboxylic acid",
+  "smiles" : "O=C(O)C1CCC(=O)N1",
+  "isomeric" : "C1CC(=O)N[C@@H]1C(=O)O",
+  "molecularWeight" : 129.11398,
+  "corres" : "PCA"
+}, {
+  "code" : "Pha",
+  "nameAA" : "phenylacetic acid",
+  "synonym" : "Benzeneacetic acid,phenylacetate,Phenylethanoic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C8H8O2",
+  "pubchem" : "999",
+  "iupac" : "2-phenylacetic acid",
+  "smiles" : "O=C(O)Cc1ccccc1",
+  "molecularWeight" : 136.14792,
+  "corres" : "PAC"
+}, {
+  "code" : "Phe",
+  "nameAA" : "Phenylalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H11NO2",
+  "pubchem" : "6140",
+  "iupac" : "(2S)-2-amino-3-phenylpropanoic acid",
+  "smiles" : "NC(Cc1ccccc1)C(=O)O",
+  "isomeric" : "C1=CC=C(C=C1)C[C@@H](C(=O)O)N",
+  "molecularWeight" : 165.18913,
+  "corres" : "PHE"
+}, {
+  "code" : "Pheol",
+  "nameAA" : "phenylalaninol",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H13NO",
+  "pubchem" : "447213",
+  "iupac" : "(2S)-2-amino-3-phenylpropan-1-ol",
+  "smiles" : "NC(CO)Cc1ccccc1",
+  "isomeric" : "C1=CC=C(C=C1)C[C@@H](CO)N",
+  "molecularWeight" : 151.20563,
+  "corres" : "PHL"
+}, {
+  "code" : "Phe-Thz",
+  "nameAA" : "thiazolylphenylalanine",
+  "type" : "unknown",
+  "molecularFormula" : "C12H12N2O2S",
+  "smiles" : "NC(Cc1ccccc1)c2nc(cs2)C(O)=O",
+  "molecularWeight" : 248.30087
+}, {
+  "code" : "Ph-Gly",
+  "nameAA" : "phenylglycine",
+  "type" : "NRPS",
+  "molecularFormula" : "C8H9NO2",
+  "pubchem" : "99291",
+  "iupac" : "(2S)-2-amino-2-phenylacetic acid",
+  "smiles" : "NC(C(=O)O)c1ccccc1",
+  "isomeric" : "C1=CC=C(C=C1)[C@@H](C(=O)O)N",
+  "molecularWeight" : 151.16255
+}, {
+  "code" : "Ph-Lac",
+  "nameAA" : "Phenyl-lactate",
+  "synonym" : "Phenyl-lactic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C9H10O3",
+  "iupac" : "2-hydroxy-3-phenylpropanoic acid",
+  "smiles" : "O=C(O)C(O)Cc1ccccc1",
+  "molecularWeight" : 166.1739,
+  "corres" : "HFA"
+}, {
+  "code" : "Ph-Ser",
+  "nameAA" : "phenylserine",
+  "synonym" : "beta-Hydroxyphenylalanine,beta-Phenylserine",
+  "type" : "unknown",
+  "molecularFormula" : "C9H11NO3",
+  "pubchem" : "73562",
+  "iupac" : "(2S,3S)-2-amino-3-hydroxy-3-phenylpropanoic acid",
+  "smiles" : "NC(C(=O)O)C(O)c1ccccc1",
+  "isomeric" : "C1=CC=C(C=C1)[C@@H]([C@@H](C(=O)O)N)O",
+  "molecularWeight" : 181.18854,
+  "corres" : "BB8"
+}, {
+  "code" : "PMST",
+  "nameAA" : "propenoyl-O-methylserinylthiazole acid",
+  "type" : "unknown",
+  "molecularFormula" : "C9H12N2O3S",
+  "smiles" : "COCC(N)c1nc(C=CC(=O)O)cs1",
+  "molecularWeight" : 228.26817
+}, {
+  "code" : "pNH2-Bz",
+  "nameAA" : "Para-amino benzoic acid",
+  "synonym" : "pABA",
+  "molecularFormula" : "C7H7NO2",
+  "smiles" : "Nc1ccc(cc1)C(=O)O",
+  "molecularWeight" : 137.136,
+  "corres" : "PAB"
+}, {
+  "code" : "pOH-Bz",
+  "nameAA" : "para-hydroxy-benzoic acid",
+  "synonym" : "para-hydroxy-benzoate,4-Carboxyphenol,p-Salicylic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C7H6O3",
+  "pubchem" : "135",
+  "iupac" : "4-hydroxybenzoic acid",
+  "smiles" : "Oc1ccc(cc1)C(=O)O",
+  "molecularWeight" : 138.12074,
+  "corres" : "PHB"
+}, {
+  "code" : "Pro",
+  "nameAA" : "Proline",
+  "synonym" : "L-proline",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H9NO2",
+  "pubchem" : "145742",
+  "iupac" : "(2S)-pyrrolidine-2-carboxylic acid",
+  "smiles" : "O=C(O)C1CCCN1",
+  "isomeric" : "C1C[C@H](NC1)C(=O)O",
+  "molecularWeight" : 115.13046,
+  "corres" : "PRO"
+}, {
+  "code" : "ProC",
+  "nameAA" : "proline carboxamid",
+  "synonym" : "prolinamide",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H10N2O",
+  "pubchem" : "550774",
+  "iupac" : "(2S)-pyrrolidine-2-carboxamide",
+  "smiles" : "NC(=O)C1CCCN1",
+  "isomeric" : "C1C[C@H](NC1)C(=O)N",
+  "molecularWeight" : 114.1457,
+  "corres" : "LPD"
+}, {
+  "code" : "Pro-Thz",
+  "nameAA" : "proline-thiazole",
+  "synonym" : "",
+  "type" : "unknown",
+  "molecularFormula" : "C7H10N2S",
+  "pubchem" : "3358090",
+  "iupac" : "2-(pyrrolidin-2-yl)-1,3-thiazole",
+  "smiles" : "C1CNC(C1)c2nccs2",
+  "isomeric" : "",
+  "molecularWeight" : 154.233,
+  "corres" : ""
+}, {
+  "code" : "PT",
+  "nameAA" : "phosphinothricin",
+  "synonym" : "GLUFOSINATE",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H12NO4P",
+  "pubchem" : "4794",
+  "iupac" : "2-amino-4-(hydroxy-methylphosphoryl)butanoic acid",
+  "smiles" : "CP(=O)(O)CCC(N)C(=O)O",
+  "molecularWeight" : 181.12683,
+  "corres" : "PPQ"
+}, {
+  "code" : "pTrp",
+  "nameAA" : "phototryptophan",
+  "type" : "unknown",
+  "molecularFormula" : "C11H12N2O3",
+  "pubchem" : "10331043",
+  "iupac" : "8b-hydroxy-2,3,3a,4-tetrahydro-1H-pyrrolo[5,4-b]indole-2-carboxylic acid",
+  "smiles" : "O=C(O)C1CC2(O)(c3ccccc3(NC2(N1)))",
+  "molecularWeight" : 220.22458
+}, {
+  "code" : "PTTA",
+  "nameAA" : "4-propenoyl-2-tyrosylthiazole acid",
+  "type" : "unknown",
+  "molecularFormula" : "C14H14N2O3S",
+  "smiles" : "NC(Cc1ccc(O)cc1)c2nc(C=CC(O)=O)cs2",
+  "molecularWeight" : 290.3376
+}, {
+  "code" : "Put",
+  "nameAA" : "putrescine",
+  "synonym" : "1,4-diaminobutane,1,4-butanediamine,tetramethylenediamine,Butylenediamine",
+  "type" : "other",
+  "molecularFormula" : "C4H12N2",
+  "pubchem" : "1045",
+  "iupac" : "butane-1,4-diamine",
+  "smiles" : "NCCCCN",
+  "molecularWeight" : 88.15148,
+  "corres" : "PUT"
+}, {
+  "code" : "Pya",
+  "nameAA" : "pyruvate",
+  "synonym" : "Pyroracemic acid,acetylformic acid,pyruvate,2-Oxopropanoic acid,2-Oxopropionic acid,alpha-ketopropionic acid",
+  "type" : "unknown",
+  "molecularFormula" : "C3H4O3",
+  "pubchem" : "1060",
+  "iupac" : "2-oxopropanoic acid",
+  "smiles" : "CC(=O)C(=O)O",
+  "molecularWeight" : 88.062065,
+  "corres" : "PYR"
+}, {
+  "code" : "Pyr",
+  "nameAA" : "pyrrolidone",
+  "synonym" : "2-Pyrrolidinone,Butyrolactam,2-Oxopyrrolidine,2-Ketopyrrolidine",
+  "type" : "unknown",
+  "molecularFormula" : "C4H7NO",
+  "pubchem" : "12025",
+  "iupac" : "pyrrolidin-2-one",
+  "smiles" : "O=C1CCCN1",
+  "molecularWeight" : 85.10448,
+  "corres" : "BAQ"
+}, {
+  "code" : "Rha",
+  "nameAA" : "L-rhamnose",
+  "synonym" : "isodulcit,Rhamnopyranose",
+  "type" : "CS",
+  "molecularFormula" : "C6H12O5",
+  "pubchem" : "25310",
+  "iupac" : "(3R,4R,5R,6S)-6-methyloxane-2,3,4,5-tetrol",
+  "smiles" : "CC1OC(O)C(O)C(O)C1(O)",
+  "isomeric" : "C[C@H]1[C@@H]([C@H]([C@H](C(O1)O)O)O)O",
+  "molecularWeight" : 164.15648,
+  "corres" : "RNS"
+}, {
+  "code" : "Ria",
+  "nameAA" : "L-ristosamine",
+  "synonym" : "",
+  "type" : "CS",
+  "molecularFormula" : "C6H13NO3",
+  "pubchem" : "171083",
+  "iupac" : "(3R,4R,5S)-3-amino-4,5-dihydroxyhexanal",
+  "smiles" : "CC1OC(O)CC(N)C1(O)",
+  "isomeric" : "C[C@@H]1O[C@@H](O)C[C@@H](N)[C@H]1O",
+  "molecularWeight" : 147.17233,
+  "corres" : "RST"
+}, {
+  "code" : "Ser",
+  "nameAA" : "Serine",
+  "synonym" : "beta-Hydroxyalanine,3-Hydroxyalanine",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H7NO3",
+  "pubchem" : "5951",
+  "iupac" : "(2S)-2-amino-3-hydroxypropanoic acid",
+  "smiles" : "NC(CO)C(=O)O",
+  "isomeric" : "C([C@@H](C(=O)O)N)O",
+  "molecularWeight" : 105.09258,
+  "corres" : "SER"
+}, {
+  "code" : "Serol",
+  "nameAA" : "Serinol",
+  "type" : "NRPS",
+  "molecularFormula" : "C3H9NO2",
+  "pubchem" : "68294",
+  "iupac" : "2-aminopropane-1,3-diol",
+  "smiles" : "NC(CO)CO",
+  "molecularWeight" : 91.109055,
+  "corres" : "SEL"
+}, {
+  "code" : "Spd",
+  "nameAA" : "spermidine",
+  "synonym" : "1,8-Diamino-4-azaoctane",
+  "type" : "unknown",
+  "molecularFormula" : "C7H19N3",
+  "pubchem" : "1102",
+  "iupac" : "N-(3-aminopropyl)butane-1,4-diamine",
+  "smiles" : "NCCCCNCCCN",
+  "molecularWeight" : 145.24586,
+  "corres" : "SPD"
+}, {
+  "code" : "Sta",
+  "nameAA" : "statine",
+  "type" : "unknown",
+  "molecularFormula" : "C8H17NO3",
+  "pubchem" : "3387569",
+  "iupac" : "4-amino-3-hydroxy-6-methylheptanoic acid",
+  "smiles" : "CC(C)CC(N)C(O)CC(=O)O",
+  "molecularWeight" : 175.22548,
+  "corres" : "STA"
+}, {
+  "code" : "Suc",
+  "nameAA" : "succinic acid",
+  "synonym" : "Butanedioic acid",
+  "molecularFormula" : "C4H6O4",
+  "pubchem" : "1110",
+  "iupac" : "butanedioic acid",
+  "smiles" : "O=C(O)CCC(=O)O",
+  "molecularWeight" : 118.026609,
+  "corres" : "SIN"
+}, {
+  "code" : "Thr",
+  "nameAA" : "Threonine",
+  "synonym" : "threonin",
+  "type" : "NRPS",
+  "molecularFormula" : "C4H9NO3",
+  "pubchem" : "6288",
+  "iupac" : "(2S,3R)-2-amino-3-hydroxybutanoic acid",
+  "smiles" : "CC(O)C(N)C(=O)O",
+  "isomeric" : "C[C@H]([C@@H](C(=O)O)N)O",
+  "molecularWeight" : 119.119156,
+  "corres" : "THR"
+}, {
+  "code" : "Tig",
+  "nameAA" : "tiglic acid",
+  "type" : "FAS",
+  "molecularFormula" : "C5H8O2",
+  "pubchem" : "125468",
+  "iupac" : "(E)-2-methylbut-2-enoic acid",
+  "smiles" : "CC=C(C)C(=O)O",
+  "isomeric" : "C/C=C(C)/C(=O)O",
+  "molecularWeight" : 100.11582,
+  "corres" : "MB8"
+}, {
+  "code" : "t-Leu",
+  "nameAA" : "tert-Leu",
+  "synonym" : "3-methyl-valine,2-Adba,T-BUTYL GLYCINE,TERT-BUTYLALANINE,",
+  "type" : "NRPS",
+  "molecularFormula" : "C6H13NO2",
+  "pubchem" : "164608",
+  "iupac" : "(2S)-2-amino-3,3-dimethylbutanoic acid",
+  "smiles" : "CC(C)(C)C(N)C(=O)O",
+  "isomeric" : "CC(C)(C)[C@@H](C(=O)O)N",
+  "molecularWeight" : 131.17293,
+  "corres" : "TBG"
+}, {
+  "code" : "Trp",
+  "nameAA" : "Tryptophan",
+  "synonym" : "Tryptophane,tryptacin",
+  "type" : "NRPS",
+  "molecularFormula" : "C11H12N2O2",
+  "pubchem" : "6305",
+  "iupac" : "(2S)-2-amino-3-(1H-indol-3-yl)propanoic acid",
+  "smiles" : "NC(Cc1c[nH]c2ccccc12)C(=O)O",
+  "isomeric" : "C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N",
+  "molecularWeight" : 204.22517,
+  "corres" : "TRP"
+}, {
+  "code" : "Trpol",
+  "nameAA" : "tryptophanol",
+  "type" : "NRPS",
+  "molecularFormula" : "C11H14N2O",
+  "pubchem" : "6951149",
+  "iupac" : "(2S)-2-amino-3-(1H-indol-3-yl)propan-1-ol",
+  "smiles" : "NC(CO)Cc1c[nH]c2ccccc12",
+  "isomeric" : "C1=CC=C2C(=C1)C(=CN2)C[C@@H](CO)N",
+  "molecularWeight" : 190.24167,
+  "corres" : "TPL"
+}, {
+  "code" : "Tyr",
+  "nameAA" : "Tyrosine",
+  "synonym" : "p-Tyrosine",
+  "type" : "NRPS",
+  "molecularFormula" : "C9H11NO3",
+  "pubchem" : "6057",
+  "iupac" : "(2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid",
+  "smiles" : "NC(Cc1ccc(O)cc1)C(=O)O",
+  "isomeric" : "C1=CC(=CC=C1C[C@@H](C(=O)O)N)O",
+  "molecularWeight" : 181.18854,
+  "corres" : "TYR"
+}, {
+  "code" : "U4oxo-Van",
+  "nameAA" : "ureido-4-oxovancosamine",
+  "type" : "CS",
+  "molecularFormula" : "C8H14N2O4",
+  "smiles" : "CC1OC(O)CC2(C)(NC(=O)NC12(O))",
+  "molecularWeight" : 202.20776
+}, {
+  "code" : "Val",
+  "nameAA" : "Valine",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H11NO2",
+  "pubchem" : "6287",
+  "iupac" : "(2S)-2-amino-3-methylbutanoic acid",
+  "smiles" : "CC(C)C(N)C(=O)O",
+  "isomeric" : "CC(C)[C@@H](C(=O)O)N",
+  "molecularWeight" : 117.14634,
+  "corres" : "VAL"
+}, {
+  "code" : "Valol",
+  "nameAA" : "valinol",
+  "synonym" : "valine whose C terminus is reduced from a carboxylic acid to an alcohol",
+  "type" : "NRPS",
+  "molecularFormula" : "C5H13NO",
+  "pubchem" : "79019",
+  "iupac" : "2-amino-3-methylbutan-1-ol",
+  "smiles" : "CC(C)C(N)CO",
+  "molecularWeight" : 103.16282,
+  "corres" : "VOL"
+}, {
+  "code" : "Van",
+  "nameAA" : "L-vancosamine",
+  "synonym" : "",
+  "type" : "CS",
+  "molecularFormula" : "C7H15NO3",
+  "pubchem" : "11367168",
+  "iupac" : "(1R,3S,4S,5S)-3-amino-2,3,6-trideoxy-3-methyl-alpha-L-arabino-hexopyranose",
+  "smiles" : "CC1OC(O)CC(C)(N)C1(O)",
+  "isomeric" : "C[C@H]1[C@H]([C@@](C[C@@H](O1)O)(C)N)O",
+  "molecularWeight" : 161.1989,
+  "corres" : "RER"
+}, {
+  "code" : "v-Arg",
+  "nameAA" : "vinylogous arginine",
+  "type" : "unknown",
+  "molecularFormula" : "C8H16N4O2",
+  "smiles" : "N=C(N)NCCCC(N)C=CC(=O)O",
+  "molecularWeight" : 200.23824
+}, {
+  "code" : "v-OH-Tyr",
+  "nameAA" : "vinylogous hydroxy tyrosine",
+  "type" : "unknown",
+  "molecularFormula" : "C11H13NO4",
+  "smiles" : "NC(C=CC(=O)O)Cc1ccc(O)c(O)c1",
+  "molecularWeight" : 223.22523
+}, {
+  "code" : "v-Tyr",
+  "nameAA" : "vinylogous tyrosine",
+  "type" : "unknown",
+  "molecularFormula" : "C11H13NO3",
+  "smiles" : "NC(C=CC(=O)O)Cc1ccc(O)cc1",
+  "molecularWeight" : 207.22583,
+  "corres" : "VLT"
+} ]

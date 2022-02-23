@@ -36,12 +36,13 @@ class PeptoCode:
                 key = keys[j]
                 
                 sub = self.smiles[i:i+len(key)]
+                #print(sub)
                 if sub in self.peptide_data:
                     i = i + len(key)
                     aacode.append(self.peptide_data[sub])
                     break
 
-                if j == len(self.peptide_data.keys())-1:
+                elif j == len(self.peptide_data.keys())-1:
                     notaaCode.append(sub)
                     i = i + 1
                     i = i + len(key)
